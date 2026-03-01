@@ -1,0 +1,1168 @@
+{
+  "chapter": 8,
+  "title": "Human Factors",
+  "questions": [
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 1,
+      "question": "What is hypoxia? (AIM 8-1-2) Hypoxia is a state of oxygen deficiency in the body sufficient to impair functions of the brain and other organs.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Hypoxia is a state of oxygen deficiency in the body",
+        "Oxygen deficiency must be sufficient to impair brain and organ function",
+        "Reference: AIM 8-1-2"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 2,
+      "question": "Where does hypoxia usually occur, and what symptoms should one expect? (AIM 8-1-2) Although a deterioration in night vision occurs at a cabin pressure altitude as low as 5,000 feet, other significant effects of altitude hypoxia usually do not occur in the normal healthy pilot below 12,000 feet. From 12,000 feet to 15,000 feet of altitude, judgment, memory, alertness, coordination, and ability to make calculations are impaired, and headache, drowsiness, dizziness and either a sense of well-being or belligerence occur. Effects are worse above 15,000 feet.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Night vision deterioration begins as low as 5,000 feet cabin altitude",
+        "Significant hypoxia effects typically begin at 12,000 feet in healthy pilots",
+        "12,000-15,000 feet: impaired judgment, memory, alertness, coordination, calculation ability",
+        "12,000-15,000 feet symptoms: headache, drowsiness, dizziness, euphoria or belligerence",
+        "Effects become worse above 15,000 feet",
+        "Reference: AIM 8-1-2"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 3,
+      "question": "What factors can make a pilot more susceptible to hypoxia? (AIM 8-1- 2) The altitude at which significant effects of hypoxia occur can be lowered by a number of factors. Carbon monoxide inhaled in smoking or from exhaust fumes, lowered hemoglobin (anemia), and certain medications can reduce the oxygen-carrying capacity of the blood. Small amounts of alcohol and low doses of certain drugs, such as antihistamines, tranquilizers, sedatives, and analgesics can, through their depressant action, render the brain much more susceptible to hypoxia. Extreme heat and cold, fever, and anxiety increase the body’s demand for oxygen, and hence its susceptibility to hypoxia.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Carbon monoxide from smoking or exhaust fumes reduces blood oxygen-carrying capacity",
+        "Anemia (lowered hemoglobin) increases susceptibility",
+        "Medications: antihistamines, tranquilizers, sedatives, and analgesics increase susceptibility",
+        "Even small amounts of alcohol make the brain more susceptible to hypoxia",
+        "Extreme heat/cold, fever, and anxiety increase body's oxygen demand",
+        "Reference: AIM 8-1-2"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 4,
+      "question": "How can hypoxia be avoided? (AIM 8-1-2) Hypoxia is prevented by heeding factors that reduce tolerance to altitude, by enriching the inspired air with oxygen from an appropriate oxygen system, and by maintaining a comfortable, safe cabin pressure altitude. For optimum protection, pilots are encouraged to use supplemental oxygen above 10,000 feet during the day, and above 5,000 feet at night.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Use supplemental oxygen above 10,000 feet MSL during the day",
+        "Use supplemental oxygen above 5,000 feet MSL at night",
+        "Avoid factors that reduce altitude tolerance (fatigue, illness, alcohol, medications)",
+        "Enrich inspired air with oxygen from an appropriate oxygen system",
+        "Maintain comfortable, safe cabin pressure altitude",
+        "FAR 91.211 requires oxygen above 12,500 feet MSL for over 30 minutes and mandatory above 14,000 feet MSL"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 5,
+      "question": "What is hyperventilation? (AIM 8-1-3) Hyperventilation, or an abnormal increase in the volume of air breathed in and out of the lungs, can occur subconsciously when a stressful situation is encountered in flight. This results in a significant decrease in the carbon dioxide content of the blood. Carbon dioxide is needed to automatically regulate the breathing process.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Hyperventilation is an abnormal increase in breathing rate and volume",
+        "Usually triggered by stress or anxiety in flight",
+        "Causes excessive loss of carbon dioxide (CO2) from the blood",
+        "CO2 is essential for automatic regulation of breathing",
+        "Often occurs subconsciously during stressful situations"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 6,
+      "question": "What symptoms can a pilot expect from hyperventilation? (AIM 8-1-3) As hyperventilation “blows off” excessive carbon dioxide from the body, a pilot can experience symptoms of light-headedness, suffocation, drowsiness, tingling in the extremities, and coolness, and react to them with even greater hyperventilation. Incapacitation can eventually result from uncoordination, disorientation, and painful muscle spasms. Finally, unconsciousness can occur.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Symptoms: light-headedness, suffocation sensation, drowsiness",
+        "Symptoms: tingling in extremities, coolness, muscle spasms",
+        "Can progress to uncoordination and disorientation",
+        "Severe cases can lead to unconsciousness and incapacitation",
+        "Treatment: slow breathing rate, breathe into a bag, or talk aloud",
+        "Symptoms can mimic hypoxia — important to differentiate by checking altitude and oxygen"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 7,
+      "question": "How can a hyperventilating condition be reversed? (AIM 8-1-3) The symptoms of hyperventilation subside within a few minutes after the rate and depth of breathing are consciously brought back to normal. The buildup of carbon dioxide in the body can be hastened by controlled breathing in and out of a paper bag held over the nose and mouth.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Consciously slow breathing rate and depth back to normal",
+        "Breathe in and out of a paper bag held over nose and mouth",
+        "Paper bag method hastens carbon dioxide buildup in the body",
+        "Symptoms typically subside within a few minutes",
+        "Goal is to restore normal CO2 levels in the blood"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 8,
+      "question": "What is carbon monoxide poisoning? (AIM 8-1-4) Carbon monoxide is a colorless, odorless and tasteless gas contained in exhaust fumes. When inhaled, even in minute quantities over a period of time, it can significantly reduce the ability of the blood to carry oxygen. Consequently, effects of hypoxia occur.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Carbon monoxide is colorless, odorless, and tasteless",
+        "Found in exhaust fumes from aircraft engine",
+        "Reduces the blood's ability to carry oxygen",
+        "Even minute quantities inhaled over time are dangerous",
+        "Results in symptoms of hypoxia"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 9,
+      "question": "How does carbon monoxide poisoning occur, and what symptoms should a pilot be alert for? (AIM 8-1-4) Most heaters in light aircraft work by air flowing over the manifold. The use of these heaters while exhaust fumes are escaping through manifold cracks and seals is responsible every year for several nonfatal and fatal aircraft accidents from carbon monoxide poisoning. A pilot who detects the odor of exhaust or experiences symptoms of headache, drowsiness, or dizziness while using the heater should suspect carbon monoxide poisoning.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Most light aircraft heaters work by air flowing over the exhaust manifold",
+        "Cracked manifolds or faulty seals allow CO to enter cabin",
+        "Symptoms include headache, drowsiness, and dizziness",
+        "Odor of exhaust fumes is a warning sign",
+        "If CO poisoning suspected: shut off heater, open vents/windows, and land ASAP",
+        "CO poisoning causes fatal and nonfatal accidents every year"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 10,
+      "question": "What action should be taken if a pilot suspects carbon monoxide poisoning? (AIM 8-1-4) A pilot who suspects this condition to exist should immediately shut off the heater and open all air vents. If symptoms are severe, or continue after landing, medical treatment should be sought.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Immediately shut off the cabin heater",
+        "Open all air vents and windows to maximize fresh air",
+        "Land as soon as practical if symptoms persist",
+        "Seek medical treatment if symptoms are severe or continue after landing",
+        "Carbon monoxide is colorless and odorless - symptoms include headache, drowsiness, dizziness"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 11,
+      "question": "What is the cause of motion sickness, and what are its symptoms? (FAA-H-8083-25) Motion sickness is caused by continued stimulation of the inner ear, which controls the sense of balance. The symptoms are progressive and include loss of appetite, saliva collecting in the mouth, perspiration, nausea, disorientation, headaches, and possible vomiting. The pilot may become incapacitated if it becomes severe enough.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Caused by continued stimulation of the inner ear (vestibular system)",
+        "Inner ear controls sense of balance",
+        "Symptoms are progressive in nature",
+        "Early symptoms: loss of appetite, salivation, perspiration",
+        "Advanced symptoms: nausea, disorientation, headaches, vomiting",
+        "Can lead to pilot incapacitation if severe"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 12,
+      "question": "What action should be taken if a pilot or his passenger suffers from motion sickness? (FAA-H-8083-25) If suffering from airsickness while piloting an aircraft, open up the air vents, loosen the clothing, use supplemental oxygen, and keep the eyes on a point outside the airplane. Avoid unnecessary head movements. Terminate the flight and land as soon as possible.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Open air vents to increase ventilation",
+        "Loosen restrictive clothing",
+        "Use supplemental oxygen if available",
+        "Focus eyes on a fixed point outside the aircraft",
+        "Avoid unnecessary head movements",
+        "Land as soon as possible to terminate the flight"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 13,
+      "question": "What is “ear block”? (AIM 8-1-2) As the aircraft cabin pressure decreases during ascent, the expanding air in the middle ear pushes the Eustachian tube open. The air then escapes down to the nasal passages and equalizes in pressure with the cabin pressure. But during descent, the pilot must periodically open the Eustachian tube to equalize pressure. Either an upper respiratory infection, such as a cold or sore throat, or a nasal allergic condition can produce enough congestion around the Eustachian tube to make equalization difficult. Consequently, the difference in pressure between the middle ear and aircraft cabin can build to a level that will hold the Eustachian tube closed, making equalization difficult if not impossible. An ear block produces severe pain and loss of hearing that can last from several hours to several days.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "During ascent, expanding air in middle ear escapes through Eustachian tube to equalize pressure",
+        "During descent, pilot must actively open Eustachian tube to equalize pressure",
+        "Upper respiratory infections or nasal allergies cause congestion that blocks the Eustachian tube",
+        "Pressure differential can hold Eustachian tube closed, preventing equalization",
+        "Symptoms include severe ear pain and hearing loss lasting hours to days"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 14,
+      "question": "What action can be taken to prevent ear block from occurring in flight? (AIM 8-1-2) Normally this can be accomplished by swallowing, yawning, tensing muscles in the throat or, if these do not work, by the combination of closing the mouth, pinching the nose closed and attempting to blow through the nostrils (Valsalva maneuver). It is also prevented by not flying with an upper respiratory infection or nasal allergic condition.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Swallowing, yawning, or tensing throat muscles can open Eustachian tube",
+        "Valsalva maneuver: close mouth, pinch nose, attempt to blow through nostrils",
+        "Do not fly with upper respiratory infection or nasal allergic condition",
+        "Equalization techniques should be used periodically during descent"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 15,
+      "question": "What regulations apply and what common sense should prevail concerning the use of alcohol? (14 CFR 91.17, AIM 8-1-1) The regulations prohibit pilots from performing crewmember duties within 8 hours after drinking any alcoholic beverage, while under the influence of alcohol, or having .04 percent weight or more alcohol in the blood. Due to the slow destruction of alcohol in the bloodstream, a pilot may still be under influence, or over the .04 percent mark, 8 hours after drinking a moderate amount of alcohol. Therefore, an excellent rule is to allow at least 12 to 24 hours from “bottle to throttle,” depending on the amount of alcoholic beverage consumed.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.17, AIM 8-1-1"
+      ],
+      "key_reference_points": [
+        "8 hours minimum from consumption of any alcohol to performing crewmember duties",
+        "Cannot fly while under the influence of alcohol regardless of time elapsed",
+        "Blood alcohol limit is 0.04% by weight",
+        "Alcohol metabolizes slowly - may still exceed limits after 8 hours",
+        "Recommended rule: 12-24 hours from bottle to throttle depending on amount consumed",
+        "Reference: 14 CFR 91.17"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 16,
+      "question": "For a pilot who has been taking an over-the-counter (OTC) cold medication, how do the various environmental factors the pilot is exposed to inflight affect the drug’s physiological impact on the pilot? (FAA-H-8083-25) Drugs that cause no apparent side effects on the ground can create serious problems at relatively low altitudes. Even at typical general aviation altitudes, the changes in concentrations of atmospheric gases in the blood can enhance the effects of seemingly innocuous drugs and result in impaired judgment, decision-making, and performance.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Drugs causing no apparent side effects on the ground can create serious problems at altitude",
+        "Changes in atmospheric gas concentrations in blood enhance effects of seemingly innocuous drugs",
+        "Even typical GA altitudes can impair judgment, decision-making, and performance when combined with OTC medications",
+        "Altitude reduces partial pressure of oxygen, which can intensify drug effects",
+        "Hypoxia combined with medication effects compounds impairment"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 17,
+      "question": "What regulations apply and what common sense should prevail concerning the use of drugs and medication? (AIM 8-1-1) Pilot performance can be seriously degraded by both prescribed and over-the- counter medications, as well as by the medical conditions for which they are taken. The regulations prohibit pilots from performing crewmember duties while using any medication that affects the faculties in any way contrary to safety. The safest rule is not to fly as a crewmember while taking any medication, unless approved to do so by the FAA.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Both prescribed and OTC medications can seriously degrade pilot performance",
+        "Regulations prohibit crewmember duties while using any medication affecting faculties contrary to safety",
+        "The underlying medical condition may also affect pilot performance",
+        "Safest rule: Do not fly while taking any medication unless approved by the FAA",
+        "When in doubt, consult an Aviation Medical Examiner (AME) before flying"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 18,
+      "question": "Discuss the effects of nitrogen excesses during scuba diving upon a pilot or passenger in flight. (AIM 8-1-2) A pilot or passenger who intends to fly after scuba diving should allow the body sufficient time to rid itself of excess nitrogen absorbed during diving. If not, decompression sickness due to evolved gas can occur during exposure to low altitude and create a serious inflight emergency. The recommended waiting times before flight are as follows: Flight altitudes up to 8,000 feet: • Wait at least 12 hours after diving which has not required a controlled ascent. • Wait at least 24 hours after diving which has required controlled ascent. Flight altitudes above 8,000 feet: • Wait at least 24 hours after any scuba dive.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Scuba diving causes excess nitrogen absorption that must be eliminated before flight",
+        "Decompression sickness can occur at altitude if nitrogen not sufficiently eliminated",
+        "Flight up to 8,000 feet after non-controlled ascent dive: wait at least 12 hours",
+        "Flight up to 8,000 feet after controlled ascent dive: wait at least 24 hours",
+        "Flight above 8,000 feet after ANY scuba dive: wait at least 24 hours",
+        "Evolved gas from decompression sickness creates serious inflight emergency"
+      ],
+      "note": "The recommended altitudes are actual flight altitudes above mean sea level and not pressurized cabin altitudes. This takes into consideration the risk of decompression of the aircraft during flight."
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 19,
+      "question": "You recently experienced a bad cold and were treated by your personal physician. You continue to take the medications your physician prescribed, but feel much better. Can you resume flying on your current medical or must you first see an FAA Airman Medical Examiner? (14 CFR 61.53) Anytime you experience an illness or an injury that you feel may affect your ability to safely fly an aircraft, you must self-ground yourself until you feel better. 14 CFR 61.53 requires that all pilots voluntarily self-ground anytime —",
+      "answer": "a. They know or have reason to know of any medical condition that would make them unable to meet the requirements for the medical certificate necessary for the pilot operation. b. They are taking medication or receiving other treatment for a medical condition that results in them being unable to meet the requirements for the medical certificate necessary for the pilot operation. If in doubt about your condition or the medications you are taking, consult with an AME before resuming your flying activities.",
+      "references": [
+        "14 CFR 61.53"
+      ],
+      "key_reference_points": [
+        "14 CFR 61.53 requires pilots to self-ground when they know of any medical condition affecting their ability to meet medical certificate requirements",
+        "Self-grounding is required when taking medication or treatment that prevents meeting medical certificate requirements",
+        "No AME visit required to resume flying - pilot makes self-certification decision",
+        "When in doubt about condition or medications, consult an AME before flying",
+        "Applies to ANY medical condition or medication that may affect safe flight"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Flight Physiology",
+      "number": 20,
+      "question": "Can you operate an aircraft while taking an over-the-counter medication for an on-going condition (allergies, hay fever, etc.)? (FAA-P- 8740-41) Self-medication or taking medication in any form while you are flying can be extremely hazardous. Even simple home or over-the-counter remedies such as aspirin, laxatives, tranquilizers and appetite suppressors may seriously impair the judgment and coordination needed while flying. The safest rule is to take no medicine while flying, except with the advice of your AME.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Self-medication while flying can be extremely hazardous",
+        "Even simple OTC medications (aspirin, laxatives, tranquilizers, appetite suppressors) can impair judgment and coordination",
+        "Safest rule: take NO medicine while flying except with AME advice",
+        "Allergy and hay fever medications often cause drowsiness and impaired performance",
+        "Always consult AME before flying while taking any medication"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Single-Pilot Resource Management",
+      "number": 1,
+      "question": "Define the term “single-pilot resource management.” (FAA-H-8083-9) Single-pilot resource management (SRM) is the art and science of managing all the resources (both on-board the aircraft and from outside sources) available to a single pilot (prior to and during flight) to ensure that the successful outcome of the flight is never in doubt. SRM helps pilots learn to execute methods of gathering information, analyzing it, and making decisions.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "SRM = Single-Pilot Resource Management",
+        "SRM manages ALL resources available to a single pilot (on-board and outside sources)",
+        "Applies both prior to AND during flight",
+        "Goal: ensure successful outcome of flight is never in doubt",
+        "Three key SRM steps: gather information, analyze it, make decisions",
+        "Found in FAA-H-8083-9 (Pilot's Handbook of Aeronautical Knowledge)"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Single-Pilot Resource Management",
+      "number": 2,
+      "question": "What are examples of the skills necessary for effective SRM? (FAA-H- 8083-25) SRM includes the concepts of aeronautical decision making (ADM), risk management (RM), task management (TM), automation management (AM), controlled flight into terrain (CFIT) awareness, and situational awareness (SA).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "ADM (Aeronautical Decision Making) - systematic approach to making decisions",
+        "RM (Risk Management) - identifying and mitigating hazards",
+        "TM (Task Management) - prioritizing and managing workload",
+        "AM (Automation Management) - proper use of automated systems",
+        "CFIT Awareness - preventing controlled flight into terrain",
+        "SA (Situational Awareness) - maintaining awareness of aircraft state and environment"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Single-Pilot Resource Management",
+      "number": 3,
+      "question": "What practical application provides a pilot with an effective method to practice SRM? (FAA-H-8083-9) The “Five P” checklist consists of “the Plan, the Plane, the Pilot, the Passengers, and the Programming.” It is based on the idea that the pilot has essentially five variables that impact his or her environment and that can cause the pilot to make a single critical decision, or several less critical decisions, that when added together can create a critical outcome.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Five Ps: Plan, Plane, Pilot, Passengers, Programming",
+        "Used at key decision points throughout the flight",
+        "Based on five variables that impact pilot's environment",
+        "Helps identify single critical decisions or cumulative less-critical decisions",
+        "Prevents critical outcomes through systematic review"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Single-Pilot Resource Management",
+      "number": 4,
+      "question": "Explain the use of the “Five P” model to assess risk associated with each of the five factors. (FAA-H-8083-2) At key decision points, application of the Five P checklist should be performed by reviewing each of the critical variables: Plan—weather, route, publications, ATC reroutes/delays, fuel onboard/remaining Plane—mechanical status, automation status, database currency, backup systems Pilot—illness, medication, stress, alcohol, fatigue, eating Passengers—pilots/non-pilots, nervous or quiet, experienced or new, business or pleasure Programming—autopilot, GPS, MFD/PFD; anticipate likely reroutes/clearances; questions to ask—What is it doing? Why is it doing it? Did I do it?",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Plan: weather, route, publications, ATC reroutes/delays, fuel status",
+        "Plane: mechanical status, automation status, database currency, backup systems",
+        "Pilot: IMSAFE checklist elements (illness, medication, stress, alcohol, fatigue, eating)",
+        "Passengers: experience level, nervous/quiet, business/pleasure purpose",
+        "Programming: autopilot, GPS, MFD/PFD settings; ask 'What is it doing? Why? Did I do it?'",
+        "Apply Five P checklist at key decision points during flight"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Single-Pilot Resource Management",
+      "number": 5,
+      "question": "When is the use of the “Five P” checklist recommended? (FAA-H- 8083-9) The “Five P” concept relies on the pilot to adopt a scheduled review of the critical variables at points in the flight where decisions are most likely to be effective. These key decision points include preflight, pre-takeoff, hourly or at the midpoint of the flight, pre-descent, and just prior to the final approach fix (or, for VFR operations, just prior to entering the traffic pattern). They also should be used anytime an emergency situation arises.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Five Ps: Plan, Plane, Pilot, Passengers, Programming",
+        "Review at preflight, pre-takeoff, hourly/midpoint, pre-descent, and prior to traffic pattern entry (VFR) or FAF (IFR)",
+        "Use anytime an emergency situation arises",
+        "Scheduled review catches changes before they become critical",
+        "Decision points chosen where corrections are most effective"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 1,
+      "question": "Define the term “aeronautical decision making.” (FAA-H-8083-9) Aeronautical decision making (ADM) is a systematic approach to the mental process used by aircraft pilots to consistently determine the best course of action in response to a given set of circumstances.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "ADM is a systematic approach to mental decision-making process",
+        "Goal is to consistently determine the best course of action",
+        "Applies to any given set of circumstances in flight",
+        "ADM reduces pilot error by providing structured thinking",
+        "Referenced in FAA-H-8083-9 (Pilot's Handbook of Aeronautical Knowledge)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 2,
+      "question": "Explain the basic steps in the decision making process. (FAA-H-8083- 9)",
+      "answer": "a. Define the problem. b. Choose a course of action. c. Implement the decision. d. Evaluate the outcome.",
+      "references": [],
+      "key_reference_points": [
+        "Step 1: Define the problem",
+        "Step 2: Choose a course of action",
+        "Step 3: Implement the decision",
+        "Step 4: Evaluate the outcome",
+        "Process is cyclical - evaluation may lead to redefining the problem"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 3,
+      "question": "What two models are commonly used when practicing aeronautical decision making? (FAA-H-8083-9) The DECIDE model and the 3P model.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "DECIDE model is a six-step structured decision-making process",
+        "3P model stands for Perceive, Process, Perform",
+        "Both models are formal ADM (Aeronautical Decision Making) tools",
+        "DECIDE focuses on reacting to specific problems",
+        "3P is a continuous hazard assessment loop",
+        "Referenced in FAA-H-8083-9 (Aviation Instructor's Handbook) and FAA-H-8083-2 (Risk Management Handbook)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 4,
+      "question": "The DECIDE model of decision making involves which elements? (FAA-H-8083-2) D etect a change needing attention. E stimate the need to counter or react to a change. C hoose the most desirable outcome for the flight. I dentify actions to successfully control the change. D o something to adapt to the change. E valuate the effect of the action countering the change.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "D - Detect a change needing attention",
+        "E - Estimate the need to counter or react to the change",
+        "C - Choose the most desirable outcome for the flight",
+        "I - Identify actions to successfully control the change",
+        "D - Do something to adapt to the change",
+        "E - Evaluate the effect of the action countering the change"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 5,
+      "question": "How is the 3P model different from the DECIDE model of ADM? (FAA-H-8083-2) The 3P process is a continuous loop of the pilot’s handling of hazards. The DECIDE model and naturalistic decision making focus on particular problems requiring resolution. Therefore, pilots exercise the 3P process continuously, while the DECIDE model and naturalistic decision making result from the 3P process.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "3P model is a CONTINUOUS loop (Perceive-Process-Perform) used throughout the flight",
+        "DECIDE model is used to address SPECIFIC problems requiring resolution",
+        "3P identifies hazards; DECIDE and naturalistic decision making result FROM the 3P process",
+        "Naturalistic decision making relies on experience and pattern recognition",
+        "3P is proactive and ongoing; DECIDE is reactive to identified issues",
+        "Both models work together as part of effective ADM"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 6,
+      "question": "Name five hazardous attitudes that can affect a pilot’s ability to make sound decisions and properly exercise authority. (FAA-H-8083-9) Attitude Antidote Anti-authority Follow the rules—they are usually right. Impulsivity Think first—not so fast. Invulnerability It could happen to me. Macho Taking chances is foolish. Resignation I can make a difference, I am not helpless.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Five hazardous attitudes: Anti-authority, Impulsivity, Invulnerability, Macho, Resignation",
+        "Anti-authority antidote: Follow the rules—they are usually right",
+        "Impulsivity antidote: Think first—not so fast",
+        "Invulnerability antidote: It could happen to me",
+        "Macho antidote: Taking chances is foolish",
+        "Resignation antidote: I can make a difference, I am not helpless"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aeronautical Decision Making",
+      "number": 7,
+      "question": "What is the first step towards neutralizing a hazardous attitude? (FAA-H-8083-25) Recognition of hazardous thoughts is the first step toward neutralizing them. After recognizing a thought as hazardous, the pilot should label it as hazardous, and then state the corresponding antidote. Antidotes should be memorized for each of the hazardous attitudes so they automatically come to mind when needed.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "First step is RECOGNITION of hazardous thoughts",
+        "Three-step process: Recognize, Label, State the antidote",
+        "Antidotes must be memorized so they come to mind automatically when needed",
+        "Labeling the thought as hazardous comes after recognition"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 1,
+      "question": "Define the term “risk management.” (FAA-H-8083-9) Risk management is a decision-making process designed to systematically identify hazards, assess the degree of risk, and determine the best course of action. It is a logical process of weighing the potential costs of risks against the possible benefits of allowing those risks to stand uncontrolled.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Risk management is a decision-making PROCESS",
+        "Three components: Identify hazards, Assess degree of risk, Determine best course of action",
+        "Involves weighing potential COSTS of risks against BENEFITS of allowing risks to remain uncontrolled",
+        "It is a systematic and logical process, not random or intuitive"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 2,
+      "question": "What is the definition of a “hazard”? (FAA-H-8083-2) A hazard is a present condition, event, object, or circumstance that could lead to or contribute to an unplanned or undesired event such as an accident.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "A hazard is a PRESENT condition, event, object, or circumstance",
+        "Hazards could lead to or contribute to unplanned/undesired events",
+        "Examples include accidents or incidents",
+        "Hazards exist in the current moment (not future possibilities)",
+        "Identification of hazards is the first step in risk management"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 3,
+      "question": "What are several examples of aviation hazards? (FAA-H-8083-2)",
+      "answer": "a. A nick in the propeller blade b. Improper refueling of an aircraft c. Pilot fatigue d. Use of unapproved hardware on aircraft e. Weather",
+      "references": [],
+      "key_reference_points": [
+        "Mechanical hazards: nicks in propeller blades, unapproved hardware",
+        "Human factors hazards: pilot fatigue",
+        "Procedural hazards: improper refueling",
+        "Environmental hazards: weather conditions",
+        "Hazards can be related to pilot, aircraft, environment, or external pressures (PAVE)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 4,
+      "question": "What is the definition of “risk”? (FAA-H-8083-2) Risk is the future impact of a hazard that is not controlled or eliminated.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Risk is the FUTURE impact of a hazard",
+        "Risk exists when a hazard is not controlled or eliminated",
+        "Risk = Likelihood × Severity of a hazard's consequences",
+        "Unlike hazards (present), risk refers to potential future outcomes",
+        "Risk management aims to reduce risk to acceptable levels"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 5,
+      "question": "How can the use of the “PAVE” checklist during flight planning help you to assess risk? (FAA-H-8083-9) Use of the PAVE checklist provides pilots with a simple way to remember each category to examine for risk during flight planning. The pilot divides the risks of flight into four categories: Pilot-In-Command—general health, physical/mental/emotional state, proficiency, currency Aircraft—airworthiness, equipment, performance capability enVironment—weather hazards, terrain, airports/runways to be used, conditions External pressures—meetings, people waiting at destination, desire to impress someone, etc.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "P = Pilot-In-Command: health, physical/mental/emotional state, proficiency, currency",
+        "A = Aircraft: airworthiness, equipment, performance capability",
+        "V = enVironment: weather hazards, terrain, airports/runways, conditions",
+        "E = External pressures: meetings, people waiting, desire to impress, schedule pressure",
+        "PAVE divides flight risks into four manageable categories for systematic assessment",
+        "Use PAVE during preflight planning to identify and mitigate risks before flight"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 6,
+      "question": "Explain the use of a “personal minimums” checklist and how it can help a pilot control risk. (FAA-H-8083-9) One of the most important concepts that safe pilots understand is the difference between what is “legal” in terms of the regulations, and what is “smart” or “safe” in terms of pilot experience and proficiency. One way a pilot can control the risks is to set personal minimums for items in each risk category. These are limits unique to that individual pilot’s current level of experience and proficiency.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Personal minimums are self-imposed limits above FAA regulatory minimums",
+        "Based on individual pilot's current experience and proficiency level",
+        "Recognizes difference between what is 'legal' vs what is 'smart/safe'",
+        "Should be established for each PAVE risk category",
+        "Personal minimums should be adjusted as experience and proficiency change",
+        "Provides a structured way to make conservative go/no-go decisions"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 7,
+      "question": "What is one method you can use to control and manage risk? (FAA-H- 8083-2) One way a pilot can limit exposure to risks is to set personal minimums for items in each risk category, again using PAVE. These are limits unique to that individual pilot’s current level of experience and proficiency: Pilot—experience/recency (takeoffs/landings, hours make/model), physical/mental condition (IMSAFE) Aircraft—fuel reserves VFR day/night, aircraft performance (W&B, density altitude, etc.), aircraft equipment (avionics familiarity, charts, survival gear) EnVironment—airport conditions (runway condition/length), weather (winds, ceilings, visibilities) External pressures—allowance for delays, diversion, cancelation, alternate plans, personal equipment available for alternate plans (phone numbers, credit cards, medications)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Set personal minimums for each PAVE category to limit risk exposure",
+        "Pilot minimums: recent experience, hours in make/model, IMSAFE checklist",
+        "Aircraft minimums: fuel reserves for VFR day/night, W&B limits, equipment requirements",
+        "Environment minimums: runway length/condition, ceiling/visibility limits, wind limits",
+        "External pressure minimums: built-in time for delays, alternate plans, diversion options",
+        "Personal minimums are unique to each pilot's skill level and should evolve with experience"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 8,
+      "question": "Explain the use of a personal checklist such as“I’M SAFE” to determine personal risks. (FAA-H-8083-9) Personal, self-assessment checklists assist pilots in conducting preflight checks on themselves, reviewing their physical and emotional states that could have an effect on their performance. The “I’M SAFE” checklist reminds pilots to consider the following: Illness—Do I have any symptoms? Medication—Have I been taking prescription or over-the-counter drugs? Stress—Am I under psychological pressure from my job? Do I have money, family or health problems? Alcohol—Have I been drinking within 8 hours? Within 24 hours? Fatigue—Am I tired and not adequately rested? Emotions—Am I fully recovered from any extremely upsetting events?",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "I = Illness: Check for any symptoms that could impair performance",
+        "M = Medication: Consider effects of prescription AND over-the-counter drugs",
+        "S = Stress: Evaluate psychological pressure from job, money, family, or health",
+        "A = Alcohol: 8 hours bottle-to-throttle minimum; consider effects up to 24 hours",
+        "F = Fatigue: Ensure adequate rest before flying",
+        "E = Emotions: Assess recovery from upsetting events that could affect judgment"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 9,
+      "question": "Describe how the 3P model can be used for practical risk management. (FAA-H-8083-2) The Perceive, Process, Perform (3P) model for risk management offers a simple, practical, and systematic approach that can be used during all phases of flight. To use it, pilots will: Perceive—the hazards for a flight, which are present events, objects, or circumstances that could contribute to an undesired future event, given set of circumstances for a flight; think through circumstances related to the PAVE risk categories. The fundamental question to ask is, “what could hurt me, my passengers, or my aircraft?” Process—the hazards by evaluating their impact on flight safety. Think through the Consequences of each hazard, Alternatives available, Reality of the situation, and External pressures (CARE) that might influence their analysis. Perform—by implementing the best course of action. Transfer (can the risk decision be transferred to someone else? can you consult someone?); Eliminate (is there a way to eliminate the hazard?); Accept (do the benefits of accepting risk outweigh the costs?); Mitigate (what can you do to reduce the risk?) (TEAM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "PERCEIVE hazards using PAVE categories (Pilot, Aircraft, enVironment, External pressures)",
+        "PROCESS hazards using CARE checklist: Consequences, Alternatives, Reality, External pressures",
+        "PERFORM risk mitigation using TEAM: Transfer, Eliminate, Accept, or Mitigate the risk",
+        "Fundamental question: 'What could hurt me, my passengers, or my aircraft?'",
+        "3P is systematic and applies to ALL phases of flight (preflight through postflight)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Risk Management",
+      "number": 10,
+      "question": "Explain how often a pilot should use the 3P model of ADM throughout a flight. (FAA-H-8083-9) Once a pilot has completed the 3P decision process and selected a course of action, the process begins again because the circumstances brought about by the course of action require analysis. The decision-making process is a continuous loop of perceiving, processing and performing.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "The 3P model is a CONTINUOUS loop, not a one-time check",
+        "Process repeats after every course of action is selected",
+        "New circumstances created by decisions require fresh analysis",
+        "Use throughout ALL phases of flight: preflight, taxi, takeoff, cruise, landing",
+        "Perceive-Process-Perform cycle never stops until flight is complete"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 1,
+      "question": "Define the term “task management.” (FAA-H-8083-9) Task management is the process by which pilots manage the many, concurrent tasks that must be performed to safely and efficiently operate an aircraft.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Task management is the process of managing multiple concurrent tasks during flight",
+        "Purpose is to safely and efficiently operate an aircraft",
+        "Involves prioritizing and handling simultaneous duties like navigation, communication, and aircraft control",
+        "Essential skill for single-pilot resource management (SRM)"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 2,
+      "question": "What are several factors that can reduce a pilot's ability to manage workload effectively? (FAA-H-8083-25) Environmental conditions—temperature and humidity extremes, noise, vibration, and lack of oxygen. Physiological stress—fatigue, lack of physical fitness, sleep loss, missed meals (leading to low blood sugar levels), and illness. Psychological stress—social or emotional factors, such as a death in the family, a divorce, a sick child, or a demotion at work. This type of stress may also be related to mental workload, such as analyzing a problem, navigating an aircraft, or making decisions.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Environmental conditions: temperature/humidity extremes, noise, vibration, lack of oxygen",
+        "Physiological stress: fatigue, lack of physical fitness, sleep loss, missed meals (low blood sugar), illness",
+        "Psychological stress: social/emotional factors (death in family, divorce, sick child, work demotion)",
+        "Mental workload stress: problem analysis, navigation tasks, decision-making demands",
+        "Remember IMSAFE checklist relates to many of these factors"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 3,
+      "question": "What are several options that a pilot can employ to decrease workload and avoid becoming overloaded? (FAA-H-8083-25) Stop, think, slow down, and prioritize. Tasks such as locating an item on a chart or setting a radio frequency may be delegated to another pilot or passenger; an autopilot, if available, may be used; or ATC may be enlisted to provide assistance.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Stop, think, slow down, and prioritize when workload increases",
+        "Delegate tasks to another pilot or qualified passenger when possible",
+        "Use autopilot if available to reduce manual flying workload",
+        "Request ATC assistance for navigation, vectors, or traffic advisories",
+        "Pre-plan and prepare as much as possible before flight to reduce in-flight workload"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 4,
+      "question": "What is one method of prioritizing tasks to avoid an overload situation? (FAA-H-8083-25) During any situation, and especially in an emergency, remember the phrase “aviate, navigate, and communicate.”",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Aviate, Navigate, Communicate - in that specific order of priority",
+        "Aviate: Fly the aircraft first - maintain control and stable flight",
+        "Navigate: Know where you are and where you're going",
+        "Communicate: Contact ATC or other resources only after aircraft control is assured",
+        "This hierarchy applies to ALL situations, especially emergencies"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 5,
+      "question": "How can tasks be completed in a timely manner without causing a distraction from flying? (FAA-H-8083-9) By planning, prioritizing, and sequencing tasks, a potential work overload situation can be avoided. As experience is gained, a pilot learns to recognize future workload requirements and can prepare for high workload periods during times of low workload.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Plan ahead during low workload periods to prepare for high workload periods",
+        "Prioritize tasks by importance and time-sensitivity",
+        "Sequence tasks logically to avoid doing everything at once",
+        "Experience helps pilots anticipate future workload requirements",
+        "Avoid task saturation by spreading workload across available time"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 6,
+      "question": "Why are pilots encouraged to use checklists? (FAA-H-8083-3) The checklist is an aid to the memory and helps to ensure that critical items necessary for the safe operation of aircraft are not overlooked or forgotten. They provide a standardized method for verifying aircraft configuration and a logical sequence for accomplishing tasks inside and outside the cockpit.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Checklists serve as an aid to memory - not a replacement for knowledge",
+        "Prevent critical items from being overlooked or forgotten",
+        "Provide standardized method for verifying aircraft configuration",
+        "Ensure logical sequence for accomplishing cockpit tasks",
+        "Used for tasks both inside and outside the cockpit",
+        "Essential for safe operation of aircraft"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 7,
+      "question": "What are two common methods of checklist usage? (Order 8900.1)",
+      "answer": "a. Do-Verify (DV) method—consists of the checklist being accomplished in a variable sequence without a preliminary challenge. After all of the action items on the checklist have been completed, the checklist is then read again while each item is verified. The DV method allows the pilot/flightcrew to use flow patterns from memory to accomplish a series of actions quickly and efficiently. b. Challenge-Do-Verify (CDV) method—consists of a pilot/crewmember making a challenge before an action is initiated, taking the action, and then verifying that the action item has been accomplished. The CDV method is most effective in two-pilot crews where one crewmember issues the challenge and the second crewmember takes the action and responds to the first crewmember, verifying that the action was taken.",
+      "references": [],
+      "key_reference_points": [
+        "Do-Verify (DV) method: complete items using flow pattern from memory, then read checklist to verify all items",
+        "DV method allows quick, efficient completion using flow patterns",
+        "Challenge-Do-Verify (CDV) method: challenge issued, action taken, then verified",
+        "CDV method is most effective with two-pilot crews",
+        "In CDV, one crewmember challenges and the other takes action and responds"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 8,
+      "question": "What are several examples of common errors that can occur when using a checklist? (FAA-H-8083-3)",
+      "answer": "a. Checklist items are missed because of distraction or interruption (by passengers, ATC, etc.). b. Checklist items are incorrectly performed (hurrying checklist; reading item but not verifying or setting). c. Failure to use the appropriate checklist for a specific phase of flight. d. Too much time spent with head down, reading the checklist and compromising safety. e. Checklist is not readily accessible in cockpit. f. Emergency/abnormal procedures checklist is not readily available. g. Memory items accomplished but not confirmed with checklist.",
+      "references": [],
+      "key_reference_points": [
+        "Missing checklist items due to distraction or interruption (passengers, ATC)",
+        "Rushing through checklist - reading items without actually verifying or setting",
+        "Using wrong checklist for the phase of flight",
+        "Spending too much time head-down reading checklist, compromising safety",
+        "Checklist or emergency procedures not readily accessible in cockpit",
+        "Memory items completed but not confirmed with checklist afterward"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 9,
+      "question": "In what phases of flight should a prepared checklist be used? (FAA-H- 8083-3)",
+      "answer": "a. Preflight inspection b. Before engine start c. Engine starting d. Before taxiing e. Before takeoff f. After takeoff g. Cruise h. Descent i. Before landing j. After landing k. Engine shutdown and securing",
+      "references": [],
+      "key_reference_points": [
+        "Preflight inspection, before engine start, engine starting, before taxiing",
+        "Before takeoff and after takeoff checklists are required",
+        "Cruise and descent phases require checklist use",
+        "Before landing and after landing checklists",
+        "Engine shutdown and securing checklist completes the flight",
+        "A checklist should be used for EVERY phase of flight from preflight to securing"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 10,
+      "question": "What are several recommended methods for managing checklist accomplishment? (Order 8900.1)",
+      "answer": "a. The pilot should touch/point at each control, display or switch. b. Verbally state the desired status of the checklist item. c. When complete, announce that “___ checklist is complete.”",
+      "references": [],
+      "key_reference_points": [
+        "Touch/point at each control, display, or switch being checked",
+        "Verbally state the desired status of each checklist item out loud",
+        "Announce '___ checklist is complete' when finished with each checklist",
+        "This method ensures positive verification and reduces missed items"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Task Management",
+      "number": 11,
+      "question": "What are “immediate action” items? (Order 8900.1) An immediate action item is an action that must be accomplished so expeditiously (in order to avoid or stabilize a hazardous situation) that time is not available for the pilot/crewmember to refer to a manual or checklist. Once the emergency has been brought under control, the pilot refers to the actual checklist to verify that all action items were accomplished. Only after this is done should the remainder of the checklist be completed.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Immediate action items must be memorized and performed from memory",
+        "These are actions required so quickly that there is no time to reference a checklist",
+        "Purpose is to avoid or stabilize a hazardous situation immediately",
+        "After emergency is under control, verify all items by referencing the actual checklist",
+        "Complete remainder of checklist only after verification is done"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Situational Awareness",
+      "number": 1,
+      "question": "Define the term “situational awareness.” (FAA-H-8083-25) Situational awareness (SA) is the accurate perception and understanding of all the factors and conditions within the five fundamental risk elements (flight, pilot, aircraft, environment, external pressures) that affect safety before, during, and after the flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "SA is accurate perception and understanding of factors affecting safety",
+        "Involves the five fundamental risk elements: Flight, Pilot, Aircraft, Environment, External Pressures (FPAE+E)",
+        "Applies before, during, and after flight",
+        "Loss of SA is a leading cause of accidents",
+        "Maintaining SA requires continuous monitoring and updating of information"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Situational Awareness",
+      "number": 2,
+      "question": "What are some of the elements inside and outside the aircraft that a pilot must consider to maintain situational awareness? (FAA-H-8083-9) Inside the aircraft—the status of aircraft systems, pilot, and passengers Outside the aircraft—awareness of where the aircraft is in relation to terrain, traffic, weather, and airspace",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Inside aircraft: monitor aircraft systems status (fuel, engine instruments, avionics)",
+        "Inside aircraft: assess pilot condition (fatigue, stress, workload)",
+        "Inside aircraft: monitor passenger status and cabin environment",
+        "Outside aircraft: maintain awareness of terrain and obstacles",
+        "Outside aircraft: continuously scan for traffic",
+        "Outside aircraft: evaluate weather conditions and changes",
+        "Outside aircraft: know current airspace and restrictions"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Situational Awareness",
+      "number": 3,
+      "question": "What are several factors that reduce situational awareness? (FAA-H- 8083-15) Factors that reduce SA include fatigue, distractions, unusual or unexpected events, complacency, high workload, unfamiliar situations, and inoperative equipment.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fatigue degrades attention and decision-making ability",
+        "Distractions divert attention from critical flight tasks",
+        "Complacency leads to reduced vigilance during routine operations",
+        "High workload causes task saturation and missed information",
+        "Unfamiliar situations increase cognitive demands",
+        "Inoperative equipment requires additional mental resources to compensate"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Situational Awareness",
+      "number": 4,
+      "question": "When flying a technically advanced aircraft (TAA), what are several procedures that help ensure that situational awareness is enhanced, not diminished, by the automation? (FAA-H-8083-25) Two basic procedures are to always double-check the system and to use verbal callouts. At a minimum, ensure the presentation makes sense. Was the correct destination fed into the navigation system? Callouts, even for single- pilot operations, are an excellent way to maintain situational awareness as well as manage information.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Always double-check automation inputs and outputs",
+        "Use verbal callouts even during single-pilot operations",
+        "Verify correct destination is entered in navigation system",
+        "Confirm the presentation/display makes logical sense",
+        "Cross-reference automation with other navigation sources",
+        "Treat automation as a tool that requires active monitoring, not passive trust"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Situational Awareness",
+      "number": 5,
+      "question": "What additional procedures can be used for maintaining situational awareness in technically advanced aircraft? (FAA-H-8083-25)",
+      "answer": "a. Perform verification checks of all programming prior to departure. b. Check the flight routing—ensure all routing matches the planned route of flight. c. Always verify waypoints. d. Make use of all onboard navigation equipment—use VOR to backup GPS, and vice versa. e. Match the use of the automated system with pilot proficiency—stay within personal limitations. f. Plan a realistic flight route to maintain situational awareness—ATC doesn’t always give you direct routing. g. Be ready to verify computer data entries—incorrect keystrokes can lead to loss of situational awareness.",
+      "references": [],
+      "key_reference_points": [
+        "Verify all programming and flight routing matches planned route BEFORE departure",
+        "Always cross-check waypoints entered into the system",
+        "Use VOR to backup GPS and GPS to backup VOR - redundant navigation",
+        "Match automation use to personal proficiency level - stay within limitations",
+        "Plan realistic routes - don't assume ATC will approve direct routing",
+        "Double-check all data entries - incorrect keystrokes cause loss of situational awareness"
+      ]
+    },
+    {
+      "section": "G",
+      "section_title": "CFIT Awareness",
+      "number": 1,
+      "question": "A majority of controlled flight into terrain (CFIT) accidents have been attributed to what factors? (AC 61-134)",
+      "answer": "a. Lack of pilot currency b. Loss of situational awareness c. Pilot distractions and breakdown of SRM d. Failure to comply with minimum safe altitudes e. Breakdown in effective ADM f. Insufficient planning, especially for the descent and arrival segments",
+      "references": [],
+      "key_reference_points": [
+        "Lack of pilot currency is a major CFIT factor",
+        "Loss of situational awareness directly contributes to CFIT",
+        "Pilot distractions and breakdown of Single-Pilot Resource Management (SRM)",
+        "Failure to comply with minimum safe altitudes",
+        "Breakdown in effective Aeronautical Decision Making (ADM)",
+        "Insufficient planning for descent and arrival segments"
+      ]
+    },
+    {
+      "section": "G",
+      "section_title": "CFIT Awareness",
+      "number": 2,
+      "question": "A pilot can decrease the likelihood of a CFIT accident at the destination by identifying what risk factors prior to flight? (AC 61-134) Factors such as airport location, runway lighting, weather/daylight conditions, approach specifications, ATC capabilities and limitations, type of operation, departure procedures, controller/pilot phraseology, and crew configuration should all be considered prior to flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Evaluate airport location and terrain surrounding the airport",
+        "Consider runway lighting availability and type",
+        "Assess weather conditions and available daylight",
+        "Review approach specifications and minimums",
+        "Understand ATC capabilities and limitations at destination",
+        "Account for departure procedures, crew configuration, and pilot/controller phraseology"
+      ]
+    },
+    {
+      "section": "G",
+      "section_title": "CFIT Awareness",
+      "number": 3,
+      "question": "Describe several operational techniques that will help you avoid a CFIT accident. (AC 61-134)",
+      "answer": "a. Maintain situational awareness at all times. b. Adhere to safe takeoff and departure procedures. c. Familiarize yourself with surrounding terrain features and obstacles. d. Adhere to published routes and minimum altitudes. e. Fly a stabilized approach. f. Understand ATC clearances and instructions. g. Don’t become complacent.",
+      "references": [],
+      "key_reference_points": [
+        "Maintain situational awareness at all times during flight",
+        "Adhere to safe takeoff and departure procedures",
+        "Familiarize yourself with surrounding terrain and obstacles before flight",
+        "Follow published routes and minimum altitudes",
+        "Fly stabilized approaches",
+        "Fully understand all ATC clearances and instructions before proceeding"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 1,
+      "question": "What does the term “automation management” refer to? (FAA-H- 8083-9) Automation management is the demonstrated ability to control and navigate an aircraft by means of the automated systems installed in the aircraft.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Automation management = ability to control and navigate using automated systems",
+        "Includes controlling the aircraft through automation",
+        "Includes navigating the aircraft through automation",
+        "Refers specifically to systems installed in the aircraft"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 2,
+      "question": "In what three areas must a pilot be proficient when using advanced avionics or any automated system? (FAA-H-8083-25) The pilot must know what to expect, how to monitor the system for proper operation, and be prepared to promptly take appropriate action if the system does not perform as expected.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Know what to expect from the automated system",
+        "Monitor the system for proper operation",
+        "Be prepared to promptly take appropriate action if system fails",
+        "Three areas of proficiency: expectation, monitoring, intervention"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 3,
+      "question": "What is the most important aspect of managing an autopilot/FMS? (FAA-H-8083-9) Knowing at all times which modes are engaged, which modes are armed to engage, and being capable of verifying that armed functions (e.g. navigation tracking or altitude capture) engage at the appropriate time.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Always know which autopilot modes are currently ENGAGED",
+        "Always know which modes are ARMED and waiting to engage",
+        "Verify armed functions activate at the correct time (e.g., altitude capture, nav tracking)",
+        "Mode awareness prevents automation surprises and maintains pilot authority",
+        "Reference: FAA-H-8083-9 (Aviation Instructor's Handbook)"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 4,
+      "question": "At a minimum, the pilot flying with advanced avionics must know how to manage what three primary items? (FAA-H-8083-25) The course deviation indicator (CDI), the navigation source, and the autopilot.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Three primary items: CDI, Navigation Source, and Autopilot",
+        "CDI (Course Deviation Indicator) - shows lateral deviation from course",
+        "Navigation Source - must verify correct source selected (GPS, VOR, LOC)",
+        "Autopilot - understand modes, engagement status, and limitations",
+        "Reference: FAA-H-8083-25 (Pilot's Handbook of Aeronautical Knowledge)"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 5,
+      "question": "Automation management is a good place to practice the standard callout technique. What are standard callouts? (FAA-H-8083-16) To assist in maintaining situational awareness, professional flight crews often use standard callouts. For example, the non-flying pilot may call 2,000 and 1,000 feet prior to reaching an assigned altitude. The callout may be, “two to go” and “one to go.” Single pilot operations can also benefit from this practice by adopting standard set callouts that can be used in the different segments of a flight. Examples of standard callouts are: “Power Set”, “Airspeed Alive”, “Rotate”, “Positive Rate—Gear Up”, “Localizer Alive”, “Glideslope Alive”, “Nav Source Verified”, “Approach Mode Armed”, “Approach Mode Active”, “Final Approach Fix”, etc.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard callouts enhance situational awareness in single and multi-pilot operations",
+        "Altitude callouts: 'Two to go' and 'One to go' before reaching assigned altitude",
+        "Takeoff callouts: 'Power Set', 'Airspeed Alive', 'Rotate', 'Positive Rate—Gear Up'",
+        "Approach callouts: 'Localizer Alive', 'Glideslope Alive', 'Approach Mode Armed/Active'",
+        "Other examples: 'Nav Source Verified', 'Final Approach Fix'",
+        "Reference: FAA-H-8083-16 (Instrument Flying Handbook)"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 1,
+      "question": "What are several factors that may contribute to a pilot’s impaired performance? (AIM 8-1-1)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "IMSAFE checklist: Illness, Medication, Stress, Alcohol, Fatigue, Emotion/Eating",
+        "8 hours bottle-to-throttle rule; 0.04% BAC legal limit",
+        "Hypoxia symptoms begin at 5,000-10,000 ft at night, higher during day",
+        "Carbon monoxide poisoning from faulty exhaust systems",
+        "Dehydration and fatigue significantly degrade cognitive performance",
+        "OTC medications (antihistamines, decongestants) can cause impairment"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 2,
+      "question": "Define spatial disorientation, and give several examples of illusions that can lead to it. (AIM 8-1-5)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Spatial disorientation: inability to determine position/attitude relative to Earth's surface",
+        "The Leans: abrupt correction from unnoticed bank creates false sensation of banking opposite direction",
+        "Coriolis Illusion: head movement during prolonged turn causes tumbling sensation",
+        "Graveyard Spiral: unnoticed descent in turn; pulling back tightens spiral instead of leveling",
+        "Somatogravic Illusion: rapid acceleration creates pitch-up sensation (nose-high illusion)",
+        "Trust instruments over body sensations; vestibular system unreliable without visual references"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 3,
+      "question": "Optical or visual illusions can increase the risk of an incident or accident occurring, even to the most experienced pilots. What can pilots do to mitigate that risk? (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Runway width illusion: narrow runway appears higher, wide runway appears lower than actual",
+        "Upsloping runway creates illusion of being too high; downsloping creates too-low illusion",
+        "Featureless terrain (water, snow, darkness) leads to flying lower than perceived",
+        "Rain on windscreen creates illusion of greater height",
+        "Use VASI/PAPI when available to verify proper glidepath",
+        "Cross-check altitude and airspeed instruments; don't rely solely on visual references"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 4,
+      "question": "When should a pilot be particularly alert for the possibility of carbon monoxide poisoning? (AIM 8-1-4)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Carbon monoxide is odorless, colorless, and tasteless - undetectable without instruments",
+        "Highest risk when using cabin heater (exhaust system leaks)",
+        "Symptoms include headache, drowsiness, dizziness, and cherry-red skin color",
+        "If CO poisoning suspected: shut off heater, open air vents, use supplemental oxygen if available",
+        "CO detectors should be installed in aircraft cabin",
+        "Susceptibility increases at higher altitudes due to reduced oxygen partial pressure"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 5,
+      "question": "What is sinus block and what are the symptoms? How can it be prevented? (AIM 8-1-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Sinus block occurs when pressure in sinuses cannot equalize with cabin pressure during descent",
+        "Caused by upper respiratory infection, nasal allergies, or sinus congestion",
+        "Symptoms include severe pain in sinus area (forehead, cheekbones), possible nosebleed",
+        "Prevention: Do not fly with upper respiratory infections or sinus congestion",
+        "If occurs during flight: climb back to higher altitude and descend more slowly",
+        "Avoid using decongestant sprays as a remedy - effects may wear off during flight"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 6,
+      "question": "Most pilots are goal-oriented, which can sometimes result in a tendency to ignore established personal limitations in favor of completing a flight. How can a pilot mitigate the risk involved when this occurs? (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Recognize hazardous attitudes: Anti-authority, Impulsivity, Invulnerability, Macho, Resignation",
+        "Use PAVE checklist before flight: Pilot, Aircraft, enVironment, External pressures",
+        "Set personal minimums in writing BEFORE the flight",
+        "Apply 3P Model: Perceive hazards, Process risk level, Perform risk management",
+        "Never let external pressures (get-there-itis) compromise safety decisions",
+        "Always have an alternative plan or out if conditions deteriorate"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 7,
+      "question": "When planning a cross-country flight, how can a pilot mitigate the risk of inadvertent VFR into IMC? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Always obtain a thorough weather briefing from FSS or approved sources before flight",
+        "Establish personal minimums higher than VFR regulatory minimums (e.g., 5 miles visibility, 2000' ceilings)",
+        "Learn to recognize deteriorating weather conditions: lowering ceilings, decreasing visibility, increasing moisture",
+        "Have a predetermined escape route or alternate airport identified before entering marginal conditions",
+        "Use the PAVE checklist (Pilot, Aircraft, enVironment, External pressures) to assess risks",
+        "If conditions deteriorate, execute a 180-degree turn immediately - don't press on hoping it will improve"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 8,
+      "question": "You have the proper charts, you planned your route of flight, and have a detailed navigation log. Once airborne, you decide that it’s much easier to let the automation fly the airplane and manage the navigation. You will handle the communications and monitor the automation. Explain what the hazards are in this scenario. (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Automation complacency can lead to loss of situational awareness and basic flying skills",
+        "Pilots must maintain proficiency in manual flight and navigation without automation",
+        "Over-reliance on automation can result in failure to detect system malfunctions or errors",
+        "Always verify automation inputs and cross-check with other navigation sources",
+        "Maintain the 'fly the airplane first' principle - aviate, navigate, communicate",
+        "Be prepared to take manual control immediately if automation fails or produces unexpected results"
+      ]
+    },
+    {
+      "section": "H",
+      "section_title": "Automation Management",
+      "number": 9,
+      "question": "How can a pilot mitigate the risk of the potentially dangerous distractions that can occur when flying with advanced avionics? (FAA- H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Program avionics and review routes on the ground before takeoff, not in flight",
+        "Use the 'Aviate, Navigate, Communicate' priority hierarchy at all times",
+        "Limit heads-down time in the cockpit - use timers or set personal limits (e.g., 2-3 seconds max)",
+        "Maintain proficiency with basic VFR navigation skills independent of advanced avionics",
+        "Designate specific cruise segments for programming changes, never during critical phases of flight",
+        "If task saturation occurs, simplify by reducing automation use and hand-flying the aircraft"
+      ]
+    }
+  ]
+}

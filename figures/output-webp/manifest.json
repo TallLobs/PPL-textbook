@@ -1,0 +1,913 @@
+{
+  "version": 1,
+  "docId": "sport-rec-private-akts",
+  "format": "webp-single-page",
+  "generatedAt": "2026-02-18T23:47:04.617Z",
+  "pageCount": 113,
+  "pages": [
+    {
+      "page": 1,
+      "type": "webp",
+      "path": "pages/001.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 281512
+    },
+    {
+      "page": 2,
+      "type": "webp",
+      "path": "pages/002.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 7740
+    },
+    {
+      "page": 3,
+      "type": "webp",
+      "path": "pages/003.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 59102
+    },
+    {
+      "page": 4,
+      "type": "webp",
+      "path": "pages/004.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 7886
+    },
+    {
+      "page": 5,
+      "type": "webp",
+      "path": "pages/005.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 155840
+    },
+    {
+      "page": 6,
+      "type": "webp",
+      "path": "pages/006.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 7964
+    },
+    {
+      "page": 7,
+      "type": "webp",
+      "path": "pages/007.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 271976
+    },
+    {
+      "page": 8,
+      "type": "webp",
+      "path": "pages/008.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 337110
+    },
+    {
+      "page": 9,
+      "type": "webp",
+      "path": "pages/009.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 45852
+    },
+    {
+      "page": 10,
+      "type": "webp",
+      "path": "pages/010.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 8080
+    },
+    {
+      "page": 11,
+      "type": "webp",
+      "path": "pages/011.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 12774
+    },
+    {
+      "page": 12,
+      "type": "webp",
+      "path": "pages/012.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 7740
+    },
+    {
+      "page": 13,
+      "type": "webp",
+      "path": "pages/013.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 360868
+    },
+    {
+      "page": 14,
+      "type": "webp",
+      "path": "pages/014.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 238428
+    },
+    {
+      "page": 15,
+      "type": "webp",
+      "path": "pages/015.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 171386
+    },
+    {
+      "page": 16,
+      "type": "webp",
+      "path": "pages/016.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 295564
+    },
+    {
+      "page": 17,
+      "type": "webp",
+      "path": "pages/017.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 252312
+    },
+    {
+      "page": 18,
+      "type": "webp",
+      "path": "pages/018.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 212510
+    },
+    {
+      "page": 19,
+      "type": "webp",
+      "path": "pages/019.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 245876
+    },
+    {
+      "page": 20,
+      "type": "webp",
+      "path": "pages/020.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 257118
+    },
+    {
+      "page": 21,
+      "type": "webp",
+      "path": "pages/021.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 265454
+    },
+    {
+      "page": 22,
+      "type": "webp",
+      "path": "pages/022.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 206330
+    },
+    {
+      "page": 23,
+      "type": "webp",
+      "path": "pages/023.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 165078
+    },
+    {
+      "page": 24,
+      "type": "webp",
+      "path": "pages/024.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 239706
+    },
+    {
+      "page": 25,
+      "type": "webp",
+      "path": "pages/025.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 307412
+    },
+    {
+      "page": 26,
+      "type": "webp",
+      "path": "pages/026.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 290482
+    },
+    {
+      "page": 27,
+      "type": "webp",
+      "path": "pages/027.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 251084
+    },
+    {
+      "page": 28,
+      "type": "webp",
+      "path": "pages/028.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 174744
+    },
+    {
+      "page": 29,
+      "type": "webp",
+      "path": "pages/029.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 117494
+    },
+    {
+      "page": 30,
+      "type": "webp",
+      "path": "pages/030.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 209108
+    },
+    {
+      "page": 31,
+      "type": "webp",
+      "path": "pages/031.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 181668
+    },
+    {
+      "page": 32,
+      "type": "webp",
+      "path": "pages/032.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 9250
+    },
+    {
+      "page": 33,
+      "type": "webp",
+      "path": "pages/033.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 13464
+    },
+    {
+      "page": 34,
+      "type": "webp",
+      "path": "pages/034.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 7740
+    },
+    {
+      "page": 35,
+      "type": "webp",
+      "path": "pages/035.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 49462
+    },
+    {
+      "page": 36,
+      "type": "webp",
+      "path": "pages/036.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 72434
+    },
+    {
+      "page": 37,
+      "type": "webp",
+      "path": "pages/037.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 88332
+    },
+    {
+      "page": 38,
+      "type": "webp",
+      "path": "pages/038.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 64784
+    },
+    {
+      "page": 39,
+      "type": "webp",
+      "path": "pages/039.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 44540
+    },
+    {
+      "page": 40,
+      "type": "webp",
+      "path": "pages/040.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 66380
+    },
+    {
+      "page": 41,
+      "type": "webp",
+      "path": "pages/041.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 60226
+    },
+    {
+      "page": 42,
+      "type": "webp",
+      "path": "pages/042.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 172532
+    },
+    {
+      "page": 43,
+      "type": "webp",
+      "path": "pages/043.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 53858
+    },
+    {
+      "page": 44,
+      "type": "webp",
+      "path": "pages/044.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 68548
+    },
+    {
+      "page": 45,
+      "type": "webp",
+      "path": "pages/045.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 105332
+    },
+    {
+      "page": 46,
+      "type": "webp",
+      "path": "pages/046.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 43812
+    },
+    {
+      "page": 47,
+      "type": "webp",
+      "path": "pages/047.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 113328
+    },
+    {
+      "page": 48,
+      "type": "webp",
+      "path": "pages/048.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 34312
+    },
+    {
+      "page": 49,
+      "type": "webp",
+      "path": "pages/049.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 86552
+    },
+    {
+      "page": 50,
+      "type": "webp",
+      "path": "pages/050.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 67038
+    },
+    {
+      "page": 51,
+      "type": "webp",
+      "path": "pages/051.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 343944
+    },
+    {
+      "page": 52,
+      "type": "webp",
+      "path": "pages/052.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 276452
+    },
+    {
+      "page": 53,
+      "type": "webp",
+      "path": "pages/053.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 603578
+    },
+    {
+      "page": 54,
+      "type": "webp",
+      "path": "pages/054.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 497980
+    },
+    {
+      "page": 55,
+      "type": "webp",
+      "path": "pages/055.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 679512
+    },
+    {
+      "page": 56,
+      "type": "webp",
+      "path": "pages/056.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 762692
+    },
+    {
+      "page": 57,
+      "type": "webp",
+      "path": "pages/057.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 616772
+    },
+    {
+      "page": 58,
+      "type": "webp",
+      "path": "pages/058.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 807904
+    },
+    {
+      "page": 59,
+      "type": "webp",
+      "path": "pages/059.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 518418
+    },
+    {
+      "page": 60,
+      "type": "webp",
+      "path": "pages/060.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 246978
+    },
+    {
+      "page": 61,
+      "type": "webp",
+      "path": "pages/061.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 174342
+    },
+    {
+      "page": 62,
+      "type": "webp",
+      "path": "pages/062.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 130838
+    },
+    {
+      "page": 63,
+      "type": "webp",
+      "path": "pages/063.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 124970
+    },
+    {
+      "page": 64,
+      "type": "webp",
+      "path": "pages/064.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 155862
+    },
+    {
+      "page": 65,
+      "type": "webp",
+      "path": "pages/065.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 160286
+    },
+    {
+      "page": 66,
+      "type": "webp",
+      "path": "pages/066.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 136394
+    },
+    {
+      "page": 67,
+      "type": "webp",
+      "path": "pages/067.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 160302
+    },
+    {
+      "page": 68,
+      "type": "webp",
+      "path": "pages/068.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 193922
+    },
+    {
+      "page": 69,
+      "type": "webp",
+      "path": "pages/069.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 83492
+    },
+    {
+      "page": 70,
+      "type": "webp",
+      "path": "pages/070.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 159594
+    },
+    {
+      "page": 71,
+      "type": "webp",
+      "path": "pages/071.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 208382
+    },
+    {
+      "page": 72,
+      "type": "webp",
+      "path": "pages/072.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 91168
+    },
+    {
+      "page": 73,
+      "type": "webp",
+      "path": "pages/073.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 140750
+    },
+    {
+      "page": 74,
+      "type": "webp",
+      "path": "pages/074.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 90502
+    },
+    {
+      "page": 75,
+      "type": "webp",
+      "path": "pages/075.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 99328
+    },
+    {
+      "page": 76,
+      "type": "webp",
+      "path": "pages/076.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 87254
+    },
+    {
+      "page": 77,
+      "type": "webp",
+      "path": "pages/077.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 114808
+    },
+    {
+      "page": 78,
+      "type": "webp",
+      "path": "pages/078.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 64970
+    },
+    {
+      "page": 79,
+      "type": "webp",
+      "path": "pages/079.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 81112
+    },
+    {
+      "page": 80,
+      "type": "webp",
+      "path": "pages/080.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 32034
+    },
+    {
+      "page": 81,
+      "type": "webp",
+      "path": "pages/081.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 39150
+    },
+    {
+      "page": 82,
+      "type": "webp",
+      "path": "pages/082.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 100554
+    },
+    {
+      "page": 83,
+      "type": "webp",
+      "path": "pages/083.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 201568
+    },
+    {
+      "page": 84,
+      "type": "webp",
+      "path": "pages/084.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 79404
+    },
+    {
+      "page": 85,
+      "type": "webp",
+      "path": "pages/085.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 70782
+    },
+    {
+      "page": 86,
+      "type": "webp",
+      "path": "pages/086.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 134714
+    },
+    {
+      "page": 87,
+      "type": "webp",
+      "path": "pages/087.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 132002
+    },
+    {
+      "page": 88,
+      "type": "webp",
+      "path": "pages/088.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 186038
+    },
+    {
+      "page": 89,
+      "type": "webp",
+      "path": "pages/089.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 35124
+    },
+    {
+      "page": 90,
+      "type": "webp",
+      "path": "pages/090.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 766392
+    },
+    {
+      "page": 91,
+      "type": "webp",
+      "path": "pages/091.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 38148
+    },
+    {
+      "page": 92,
+      "type": "webp",
+      "path": "pages/092.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 33752
+    },
+    {
+      "page": 93,
+      "type": "webp",
+      "path": "pages/093.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 61960
+    },
+    {
+      "page": 94,
+      "type": "webp",
+      "path": "pages/094.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 232220
+    },
+    {
+      "page": 95,
+      "type": "webp",
+      "path": "pages/095.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 49462
+    },
+    {
+      "page": 96,
+      "type": "webp",
+      "path": "pages/096.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 67386
+    },
+    {
+      "page": 97,
+      "type": "webp",
+      "path": "pages/097.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 37398
+    },
+    {
+      "page": 98,
+      "type": "webp",
+      "path": "pages/098.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 202492
+    },
+    {
+      "page": 99,
+      "type": "webp",
+      "path": "pages/099.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 39316
+    },
+    {
+      "page": 100,
+      "type": "webp",
+      "path": "pages/100.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 685686
+    },
+    {
+      "page": 101,
+      "type": "webp",
+      "path": "pages/101.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 780014
+    },
+    {
+      "page": 102,
+      "type": "webp",
+      "path": "pages/102.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 718376
+    },
+    {
+      "page": 103,
+      "type": "webp",
+      "path": "pages/103.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 109098
+    },
+    {
+      "page": 104,
+      "type": "webp",
+      "path": "pages/104.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 68202
+    },
+    {
+      "page": 105,
+      "type": "webp",
+      "path": "pages/105.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 803080
+    },
+    {
+      "page": 106,
+      "type": "webp",
+      "path": "pages/106.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 533328
+    },
+    {
+      "page": 107,
+      "type": "webp",
+      "path": "pages/107.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 392552
+    },
+    {
+      "page": 108,
+      "type": "webp",
+      "path": "pages/108.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 185638
+    },
+    {
+      "page": 109,
+      "type": "webp",
+      "path": "pages/109.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 522194
+    },
+    {
+      "page": 110,
+      "type": "webp",
+      "path": "pages/110.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 206856
+    },
+    {
+      "page": 111,
+      "type": "webp",
+      "path": "pages/111.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 681460
+    },
+    {
+      "page": 112,
+      "type": "webp",
+      "path": "pages/112.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 178242
+    },
+    {
+      "page": 113,
+      "type": "webp",
+      "path": "pages/113.webp",
+      "width": 1815,
+      "height": 2365,
+      "bytes": 98896
+    }
+  ]
+}

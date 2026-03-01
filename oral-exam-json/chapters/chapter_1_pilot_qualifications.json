@@ -1,0 +1,515 @@
+{
+  "chapter": 1,
+  "title": "Pilot Qualifications",
+  "questions": [
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 1,
+      "question": "What are the eligibility requirements for a private pilot (airplane) certificate?",
+      "answer": "a. Be at least 17 years of age. b. Be able to read, speak, write, and understand the English language. c. Hold at least a current Third Class medical certificate. d. Received the required ground and flight training endorsements. e. Meet the applicable aeronautical experience requirements. f. Passed the required knowledge and practical tests.",
+      "references": [
+        "14 CFR 61.103"
+      ],
+      "key_reference_points": [
+        "Must be at least 17 years old (16 for glider/balloon)",
+        "Must read, speak, write, and understand English",
+        "Must hold at least a Third Class medical certificate",
+        "Must have required ground and flight training endorsements",
+        "Must meet aeronautical experience requirements in 14 CFR 61.109",
+        "Must pass FAA knowledge test and practical test (checkride)"
+      ],
+      "exam_tip": "The evaluator may ask you to demonstrate that you’re current and eligible to take the practical test. When preparing for your practical test, verify that you have the required hours, that you’re current, and don’t forget to double-check all of your endorsements (especially the 90-day solo flight endorsement). Make sure you have totaled all of the logbook columns and that the entries make sense."
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 2,
+      "question": "What privileges and limitations apply to a private pilot? (14 CFR 61.113) No person who holds a private pilot certificate may act as pilot in command of an aircraft that is carrying passengers or property for compensation or hire; nor may that person, for compensation or hire, act as pilot in command of an aircraft. A private pilot—",
+      "answer": "a. May act as PIC of an aircraft in connection with any business or employment if it is only incidental to that business or employment and does not carry passengers or property for compensation or hire. b. May not pay less than the pro rata share of the operating expenses of a flight with passengers, provided the expenses involve only fuel, oil, airport expenditures, or rental fees. c. May act as PIC of a charitable, nonprofit, or community event flight described in 14 CFR §91.146, if the sponsor and pilot comply with the requirements of that regulation. d. May be reimbursed for aircraft operating expenses that are directly related to search and location operations, provided the expenses involve only fuel, oil, airport expenditures, or rental fees, and the operation is sanctioned and under the direction and control of local, state, or Federal agencies or organizations that conduct search and location operations. e. May demonstrate an aircraft in flight to a prospective buyer if the private pilot is an aircraft salesman and has at least 200 hours of logged flight time. f. May act as PIC of an aircraft towing a glider or unpowered ultralight vehicle, provided they meet the requirements of 14 CFR §61.69. g. May act as PIC for the purpose of conducting a production flight test in a light-sport aircraft intended for certification in the light-sport category, provided they meet the requirements of 14 CFR §21.190.",
+      "references": [
+        "14 CFR 61.113"
+      ],
+      "key_reference_points": [
+        "Cannot carry passengers or property for compensation or hire",
+        "Cannot pay less than pro rata share of operating expenses (fuel, oil, airport fees, rental)",
+        "May fly for business if incidental and not carrying passengers/property for hire",
+        "May be reimbursed for search and location operations sanctioned by official agencies",
+        "May fly charitable/nonprofit events under 14 CFR 91.146 if requirements met",
+        "May demonstrate aircraft if aircraft salesman with 200+ hours logged"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 3,
+      "question": "Explain the statement “may not pay less than pro-rata share of the operating expenses of a flight.” (14 CFR 61.113) Pro-rata means “proportional.” The pilot may not pay less than his or her proportional share of the flight’s operating expenses with the passengers, provided the expenses involve only fuel, oil, airport expenditures or rental fees.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.113"
+      ],
+      "key_reference_points": [
+        "Pro rata means proportional share among all occupants including pilot",
+        "Allowable shared expenses limited to: fuel, oil, airport expenditures, rental fees",
+        "Pilot must pay at least an equal share - cannot profit or fly for free",
+        "Common purpose doctrine: flight must have common purpose for all passengers",
+        "Holding out for compensation violates private pilot privileges"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 4,
+      "question": "The annual inspection for your aircraft is now due and you ask several friends that fly with you regularly to contribute money to help you pay for the inspection. Do the regulations allow for these contributions? (14 CFR 61.113) No. A private pilot may not pay less than the pro rata (proportional) share of the operating expenses of a flight with passengers, provided the expenses involve only fuel, oil, airport expenditures or rental fees.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.113"
+      ],
+      "key_reference_points": [
+        "Private pilots may only share PRO RATA (equal) share of operating expenses with passengers",
+        "Shareable expenses limited to: fuel, oil, airport expenditures, and rental fees",
+        "Maintenance costs like annual inspections are NOT shareable expenses",
+        "Pilot cannot pay LESS than their proportional share",
+        "Reference: 14 CFR 61.113"
+      ],
+      "note": "The regulation applies to “the operating expenses of a flight,” and does not allow for the sharing of fixed or long term operating costs of the airplane with passengers."
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 5,
+      "question": "To act as a required pilot flight crewmember of a civil aircraft, what must a pilot have in his/her physical possession or readily accessible in the aircraft?",
+      "answer": "a. A pilot certificate (or special purpose pilot authorization) b. A photo identification c. A medical certificate (with certain exceptions as provided in 14 CFR §61.3)",
+      "references": [
+        "14 CFR 61.3"
+      ],
+      "key_reference_points": [
+        "Pilot certificate (or special purpose pilot authorization) required",
+        "Photo identification required",
+        "Medical certificate required (with exceptions per 14 CFR 61.3)",
+        "Documents must be in physical possession OR readily accessible in the aircraft",
+        "BasicMed letter may substitute for medical certificate if applicable"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 6,
+      "question": "While you are performing a preflight inspection on your aircraft, an inspector from the FAA introduces herself and says she wants to conduct a ramp inspection. What documents are you required to show the inspector? (14 CFR 61.3) Each person who holds an airman certificate, medical certificate, authorization, or license required by 14 CFR part 61 must present it and their photo identification for inspection upon a request from the administrator, an authorized NTSB representative, any federal, state, or local law enforcement officer, or an authorized representative of the TSA.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.3"
+      ],
+      "key_reference_points": [
+        "Must present airman certificate upon request",
+        "Must present medical certificate upon request",
+        "Must present photo identification upon request",
+        "Authorized requestors: FAA Administrator, NTSB representative, federal/state/local law enforcement, TSA representative",
+        "Failure to present documents is a violation of 14 CFR 61.3"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 7,
+      "question": "What is the definition of a high-performance airplane, and what must you do to act as pilot-in-command of such an airplane? (14 CFR 61.31) A high-performance is an airplane with an engine of more than 200 horsepower. To act as PIC of a high-performance you must have:",
+      "answer": "a. Received and logged ground and flight training from an authorized instructor in a high-performance airplane, or in a flight simulator or flight training device that is representative of a high-performance airplane, and have been found proficient in the operation and systems of that airplane. b. Received and logged a one-time endorsement in your logbook from an authorized instructor who certifies you are proficient to operate a high- performance airplane.",
+      "references": [
+        "14 CFR 61.31"
+      ],
+      "key_reference_points": [
+        "High-performance airplane = engine MORE than 200 horsepower",
+        "Must receive ground AND flight training from authorized instructor",
+        "Training can be in actual aircraft, flight simulator, or FTD representative of high-performance airplane",
+        "Must be found proficient in operation and systems",
+        "Requires one-time logbook endorsement certifying proficiency",
+        "Reference: 14 CFR 61.31"
+      ],
+      "note": "The training and endorsement required by this regulation is not required if the person has logged flight time as PIC of a high-performance airplane, or in a flight simulator or flight training device that is representative of a high-performance airplane prior to August 4, 1997."
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 8,
+      "question": "Other than high-performance and complex aircraft, what other types of aircraft (ASEL) require specific training and logbook endorsements from an appropriately rated flight instructor? (14 CFR 61.31) High-Altitude Airplane—No person may act as pilot-in-command of a pressurized airplane that has a service ceiling or maximum operating altitude (whichever is lower), above 25,000 feet MSL unless that person has completed the ground and flight training specified and has received a logbook or training record endorsement from an authorized instructor certifying satisfactory completion of the training. Tailwheel Airplane—No person may act as pilot-in-command of a tailwheel airplane unless that person has received and logged flight training from an authorized instructor in a tailwheel airplane and received an endorsement in the person’s logbook from an authorized instructor who found the person proficient in the operation of a tailwheel airplane. The training and endorsement is not required if the person logged pilot-in-command time in a tailwheel airplane before April 15, 1991.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.31"
+      ],
+      "key_reference_points": [
+        "High-altitude endorsement required for pressurized aircraft with service ceiling/max operating altitude above 25,000 feet MSL",
+        "High-altitude requires both ground and flight training with logbook endorsement",
+        "Tailwheel endorsement required to act as PIC of tailwheel airplane",
+        "Tailwheel training must be logged flight training with endorsement certifying proficiency",
+        "Tailwheel endorsement NOT required if pilot logged PIC time in tailwheel before April 15, 1991",
+        "Reference: 14 CFR 61.31"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 9,
+      "question": "What is the definition of a complex airplane, and what must you do to act as pilot-of-command of such an airplane? (14 CFR 61.1, 14 CFR 61.31) A “complex airplane” is defined as an airplane that has a retractable landing gear, flaps, and a controllable pitch propeller; including airplanes equipped with a full-authority digital engine control (FADEC). To act as pilot-in- command of such an airplane, you must have:",
+      "answer": "a. Received and logged ground and flight training from an authorized instructor in a complex airplane, or in a flight simulator or flight training device that is representative of a complex airplane and have been found proficient in the operation and systems of the airplane. b. Received a one-time endorsement in your logbook from an authorized instructor who certifies you are proficient to operate a complex airplane.",
+      "references": [
+        "14 CFR 61.1, 14 CFR 61.31"
+      ],
+      "key_reference_points": [
+        "Complex airplane has THREE features: retractable landing gear, flaps, AND controllable pitch propeller",
+        "FADEC-equipped airplanes are also considered complex",
+        "Must receive ground AND flight training from authorized instructor",
+        "Training can be in actual complex airplane, simulator, or representative FTD",
+        "Requires one-time logbook endorsement certifying proficiency",
+        "References: 14 CFR 61.1 (definition) and 14 CFR 61.31 (requirements)"
+      ],
+      "note": "The training and endorsement required by this regulation is not required if the person has logged flight time as PIC of a complex airplane, or in a flight simulator or flight training device that is representative of a complex airplane prior to August 4, 1997."
+    },
+    {
+      "section": "A",
+      "section_title": "Privileges and Limitations",
+      "number": 10,
+      "question": "With respect to certification, privileges, and limitations of airmen, define the terms: “Category,” “Class,” and “Type.” (14 CFR Part 1) Category—a broad classification of aircraft; i.e., airplane, rotorcraft, glider, etc. Class—a classification of aircraft within a category having similar operating characteristics; i.e., single-engine land, multi-engine land; etc. Type—a specific make and basic model of aircraft including modifications that do not change its handling or flight characteristics; i.e., DC-9, B-737, C- 150, etc.",
+      "answer": "",
+      "references": [
+        "14 CFR Part 1"
+      ],
+      "key_reference_points": [
+        "Category = broad classification (airplane, rotorcraft, glider, lighter-than-air)",
+        "Class = subdivision within category with similar operating characteristics (single-engine land, multi-engine sea)",
+        "Type = specific make and basic model (B-737, C-172, DC-9)",
+        "Type ratings required for aircraft over 12,500 lbs or turbojet-powered",
+        "These definitions are found in 14 CFR Part 1"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 1,
+      "question": "What are the requirements to remain current as a private pilot?",
+      "answer": "a. Within the preceding 24 months, accomplished a flight review given in an aircraft for which that pilot is rated by an authorized instructor and received a logbook endorsement certifying that the person has satisfactorily completed the review. b. To carry passengers, a pilot must have made, within the preceding 90 days – • three takeoffs and landings as the sole manipulator of flight controls of an aircraft of the same category and class and, if a type rating is required, of the same type. • if the aircraft is a tailwheel airplane, the landings must have been made to a full stop in an airplane with a tailwheel. • if operations are to be conducted during the period beginning 1 hour after sunset and 1 hour before sunrise, with passengers on board, the PIC must have, within the preceding 90 days, made at least three takeoffs and three landings to a full stop during that period in an aircraft of the same category, class, and type (if a type is required), of aircraft to be used.",
+      "references": [
+        "14 CFR 61.56, 61.57"
+      ],
+      "key_reference_points": [
+        "Flight review required every 24 calendar months with authorized instructor",
+        "Flight review must include ground and flight training with logbook endorsement",
+        "Passenger currency: 3 takeoffs and landings in preceding 90 days in same category/class",
+        "Tailwheel aircraft: landings must be to a full stop",
+        "Night passenger currency: 3 takeoffs and landings to full stop during 1 hour after sunset to 1 hour before sunrise",
+        "Night currency period is more restrictive than legal night (sunset to sunrise)"
+      ],
+      "note": "Takeoffs and landings required by this regulation may be accomplished in a flight simulator or flight training device that is approved by the Administrator and used in accordance with an approved course conducted by a certificated training center."
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 2,
+      "question": "You have not kept up with logging each of your recent flights. Are you in violation of any regulation? (14 CFR 61.51) No. You’re only required to document and record the training and aeronautical experience used to meet the requirements for a certificate, rating, or flight review, and the aeronautical experience required for meeting the recent flight experience requirements.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.51"
+      ],
+      "key_reference_points": [
+        "Logging flight time is NOT required for every flight",
+        "Must log training and experience used to meet certificate/rating requirements",
+        "Must log experience needed to meet recent flight experience (currency) requirements",
+        "Must log flight review completion",
+        "14 CFR 61.51 governs pilot logbook requirements"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 3,
+      "question": "You’re flying in a single-engine, high performance, complex airplane. You hold a Private Pilot certificate with an airplane single-engine land rating, but don’t have a high-performance or complex airplane endorsement. Your friend, who has those endorsements, is acting as PIC for the flight. Can you log PIC time for the time you act as sole manipulator of the controls? Explain. (14 CFR 61.31, 61.51) Yes, 14 CFR 61.51 governs the logging of pilot-in-command (PIC) time and states that a sport, recreational, private, commercial, or airline transport pilot may log PIC time for the time during which that pilot is “sole manipulator of the controls of an aircraft for which the pilot is rated or has privileges.”",
+      "answer": "",
+      "references": [
+        "14 CFR 61.31, 61.51"
+      ],
+      "key_reference_points": [
+        "14 CFR 61.51 allows logging PIC time as sole manipulator of controls for aircraft you are RATED for",
+        "Being 'rated' means holding the category and class rating (e.g., airplane single-engine land)",
+        "High-performance and complex endorsements are NOT ratings - they are logbook endorsements",
+        "You can log PIC time without the endorsements if another qualified pilot is acting as PIC",
+        "The qualified PIC (your friend) is responsible for the flight and must have required endorsements",
+        "Difference between ACTING as PIC (requires endorsements) vs LOGGING PIC time (requires only rating)"
+      ],
+      "note": "This means you can log PIC time, but you cannot act as PIC. For a pilot to act as PIC, he or she must be properly rated in the aircraft and authorized to conduct the flight which would include having the required endorsements for complex and high performance airplanes as required by 14 CFR 61.31."
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 4,
+      "question": "Explain the difference between being “current” and being “proficient.” (FAA-H-8083-2, FAA-P-8740-36) Being “current” means that a pilot has accomplished the minimum FAA regulatory requirements within a specific time period so he or she can exercise the privileges of their certificate. It means that you’re “legal” to make a flight, but does not necessarily mean that you’re proficient or competent to make that flight. Being “proficient” means that a pilot is capable of conducting a flight with a high degree of competence; it requires that the pilot must have a wide range of knowledge and skills. Being proficient is not about just being “legal” in terms of the regulations, but is about being “smart” and “safe” in terms of pilot experience and proficiency.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-2, FAA-P-8740-36"
+      ],
+      "key_reference_points": [
+        "Currency = meeting minimum FAA regulatory requirements within specified time periods (legal to fly)",
+        "Proficiency = actual skill and competence to safely conduct a flight",
+        "Currency examples: flight review every 24 months, 3 takeoffs/landings in 90 days for passengers",
+        "Being current does NOT guarantee you are safe or competent to fly",
+        "Proficiency requires regular practice, knowledge, and skill beyond minimum legal requirements",
+        "A pilot can be legally current but dangerously unproficient"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 5,
+      "question": "How will establishing a personal minimums checklist reduce risk? (FAA-H-8083-25) Professional pilots live by the numbers, and so should you. Pre-established numbers can make it a lot easier to come to a smart go/no-go or diversion decision, than would the vague sense that you can “probably” deal with the conditions you face at any given time. A written set of personal minimums also make it easier to explain tough cancelation or diversion decisions to passengers who are, after all, trusting their lives to your aeronautical skill and judgment.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Personal minimums are pre-established limits set ABOVE FAA/regulatory minimums",
+        "Written minimums remove emotional decision-making pressure during go/no-go decisions",
+        "Categories include: weather (ceiling, visibility, crosswind), pilot (recency, rest), aircraft (equipment)",
+        "Personal minimums should be adjusted based on experience level and conditions",
+        "Having documented limits makes it easier to explain cancellations to passengers",
+        "Personal minimums should decrease (become less restrictive) only as experience increases"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 6,
+      "question": "The airplane you normally rent has been grounded due to an intermittent electrical problem. You ask to be scheduled in another airplane. During preflight of the new airplane, you discover that it has avionics you’re unfamiliar with. Should you go ahead and depart on your VFR flight? (FAA-H-8083-2) Pilot familiarity with all equipment is critical in optimizing both safety and efficiency. If a pilot is unfamiliar with any aircraft system, this will add to workload and can contribute to a loss of situational awareness. This level of proficiency is critical and should be looked upon as a requirement, not unlike carrying an adequate supply of fuel. As a result, pilots should not look upon unfamiliarity with the aircraft and its systems as a risk control measure, but instead as a hazard with high risk potential. Discipline is the key to success.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Pilot must be familiar with all aircraft equipment before flight",
+        "Unfamiliarity with avionics increases workload and degrades situational awareness",
+        "Equipment unfamiliarity is a HAZARD, not just an inconvenience",
+        "Treat system proficiency as a requirement equal to adequate fuel",
+        "Discipline and risk management require addressing unfamiliarity before departure",
+        "Do NOT depart until you have received proper training/familiarization on unfamiliar systems"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 7,
+      "question": "If a pilot changes his/her permanent mailing address and fails to notify the FAA Airmen Certification branch of the new address, how long may the pilot continue to exercise the privileges of his/her pilot certificate? (14 CFR 61.60) 30 days after the date of the move.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.60"
+      ],
+      "key_reference_points": [
+        "Pilots must notify FAA of address change within 30 days",
+        "After 30 days without notification, pilot may NOT exercise certificate privileges",
+        "Sinister mailing address change notification to FAA Airmen Certification Branch",
+        "Reference: 14 CFR 61.60"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Currency Requirements",
+      "number": 8,
+      "question": "What flight time can a pilot log as second-in-command time? (14 CFR 61.51) A person may log second-in-command (SIC) time only for that flight time during which that person:",
+      "answer": "a. Is qualified in accordance with the SIC requirements of 14 CFR §61.55, and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft’s type certificate; or b. Holds the appropriate category, class, and instrument rating (if an instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted.",
+      "references": [
+        "14 CFR 61.51"
+      ],
+      "key_reference_points": [
+        "SIC time requires aircraft type certificate mandates more than one pilot",
+        "Pilot must be qualified as SIC per 14 CFR 61.55",
+        "Pilot must hold appropriate category, class, and instrument rating (if required)",
+        "Must actually occupy a crewmember station during the flight",
+        "SIC time can also be logged when regulations require more than one pilot",
+        "Cannot log SIC time in single-pilot aircraft unless regulations require two pilots"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 1,
+      "question": "To exercise the privileges of a private pilot certificate, what medical certificate is required, and how long is it valid? (14 CFR 61.23) You must hold at least a third-class medical certificate. The medical certificate expires at the end of the last day of:",
+      "answer": "a. The 60th month after the month of the date of examination shown on the certificate, if on the date of your most recent medical examination you were under the age of 40. b. The 24th month after the month of the date of examination shown on the certificate, if on the date of your most recent medical examination you were over the age of 40.",
+      "references": [
+        "14 CFR 61.23"
+      ],
+      "key_reference_points": [
+        "Third-class medical certificate is the minimum required for private pilot privileges",
+        "Under age 40 at time of exam: valid for 60 calendar months (5 years)",
+        "Age 40 or older at time of exam: valid for 24 calendar months (2 years)",
+        "Expiration occurs at the end of the last day of the applicable month",
+        "Age determination is based on age at the date of medical examination, not current age",
+        "Reference: 14 CFR 61.23"
+      ],
+      "note": "Third class medical reform is expected to go into effect in 2017, eliminating the need for a 3rd class medical certificate for many. Check www.faa.gov for updates."
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 2,
+      "question": "Spring has finally arrived and the weather looks great so you decide to rent an airplane and go fly. The problem is, your allergies are giving you a problem and you have just taken your medication. Can you still go fly? Explain. (14 CFR 61.53, 91.17, FAA-H-8083-25) The safest rule is not to fly while taking any medication, unless approved to do so by the FAA. Some of the most commonly used over-the-counter (OTC) drugs, antihistamines and decongestants, have the potential to cause noticeable adverse side effects, including drowsiness and cognitive deficits. 14 CFR prohibits pilots from performing crewmember duties while using any medication that affects the body in any way contrary to safety. If there is any doubt regarding the effects of any medication, consult an Aviation Medical Examiner (AME) before flying.",
+      "answer": "",
+      "references": [
+        "14 CFR 61.53, 91.17, FAA-H-8083-25"
+      ],
+      "key_reference_points": [
+        "14 CFR 91.17 prohibits acting as a crewmember while using any drug that affects safety",
+        "14 CFR 61.53 prohibits flying when you know or have reason to know of any medical condition that would make you unable to operate safely",
+        "Antihistamines and decongestants can cause drowsiness and cognitive impairment",
+        "When in doubt about any medication, consult an AME before flying",
+        "The safest rule: do not fly while taking any medication unless FAA-approved"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 3,
+      "question": "Where can you find a list of the medical conditions that may disqualify you from obtaining a medical certificate? (14 CFR Part 67, FAA-H-8083- 25) The standards for medical certification are contained in 14 CFR Part 67 and the requirements for obtaining medical certificates can be found in 14 CFR Part 61.",
+      "answer": "",
+      "references": [
+        "14 CFR Part 67, FAA-H-8083- 25"
+      ],
+      "key_reference_points": [
+        "14 CFR Part 67 contains the medical certification standards",
+        "14 CFR Part 61 contains requirements for obtaining medical certificates",
+        "Part 67 lists specific disqualifying medical conditions",
+        "Three classes of medical certificates exist with different standards in Part 67"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 1,
+      "question": "One way a pilot can limit exposure to risks is to set personal minimums for items in each risk category (PAVE). Describe the individual minimums you will establish for yourself. (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "PAVE = Pilot, Aircraft, enVironment, External pressures",
+        "Pilot minimums: currency, recent flight time, fatigue level, personal stress limits",
+        "Aircraft minimums: familiar aircraft type, required equipment, fuel reserves beyond legal requirements",
+        "Environment minimums: ceiling/visibility above VFR minimums, crosswind limits, night flying restrictions",
+        "External pressures: no-go decisions regardless of passenger expectations, time flexibility, alternate plans",
+        "Personal minimums should be MORE restrictive than regulatory minimums for new pilots"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 2,
+      "question": "As a newly certificated private pilot, you are ready to utilize your certificate. I’m a friend and need you to fly a package to a distant destination. I will pay for the airplane if you accept. Do the regulations allow you to accept the offer?",
+      "answer": "",
+      "references": [
+        "14 CFR 61.113"
+      ],
+      "key_reference_points": [
+        "14 CFR 61.113: Private pilots cannot pay LESS than pro rata share when carrying passengers",
+        "Private pilots may NOT be compensated for flying",
+        "Exception requires common purpose between pilot and passengers",
+        "Paying for the airplane while you fly = compensation = NOT allowed",
+        "This scenario is essentially hiring you as a pilot which requires commercial certificate",
+        "Pro rata share means equal division of operating expenses among all occupants including pilot"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 3,
+      "question": "For a person under the age of 40, when will a third class medical certificate issued on March 15, 2016 expire?",
+      "answer": "",
+      "references": [
+        "14 CFR 61.60"
+      ],
+      "key_reference_points": [
+        "Under age 40: Third Class medical valid for 60 calendar months",
+        "Calendar month rule: expires at END of the 60th month",
+        "March 15, 2016 + 60 months = expires March 31, 2021",
+        "Age 40 or over: Third Class medical valid for only 24 calendar months",
+        "BasicMed may be alternative if requirements met under 14 CFR 68"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 4,
+      "question": "What are some examples of general medical conditions that are temporarily disqualifying?",
+      "answer": "",
+      "references": [
+        "AIM 8-1-1, 14 CFR 61.53"
+      ],
+      "key_reference_points": [
+        "Temporary disqualifications include: acute infections, anemia, peptic ulcer, diabetes requiring insulin",
+        "Any condition requiring medication that impairs judgment or alertness is disqualifying",
+        "Pregnancy may be temporarily disqualifying depending on stage and complications",
+        "Recent surgery or medical procedures require FAA medical clearance before flying",
+        "14 CFR 61.53 prohibits acting as PIC or required crewmember while having a known medical deficiency",
+        "Self-grounding is required whenever you know of any condition that would make you unable to meet medical standards"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 5,
+      "question": "If your driver’s license was recently suspended for driving under the influence of alcohol (DUI), but you have not been actually convicted of the crime, must you report this to the FAA?",
+      "answer": "",
+      "references": [
+        "14 CFR 61.15"
+      ],
+      "key_reference_points": [
+        "Yes - must report within 60 days of any administrative action (suspension, revocation, cancellation)",
+        "14 CFR 61.15 requires reporting motor vehicle actions even without conviction",
+        "Report to FAA Security and Investigations Division in Oklahoma City",
+        "Applies to actions related to alcohol OR drugs",
+        "Failure to report is grounds for certificate suspension or revocation",
+        "Two or more alcohol-related motor vehicle actions within 3 years is grounds for denial/suspension of certificates"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 6,
+      "question": "You have allowed over 24 months to lapse since your last flight review. Is your Private Pilot Certificate now invalid? What do you have to do to be legal to fly again?",
+      "answer": "",
+      "references": [
+        "14 CFR 61.19, 14 CFR 61.56"
+      ],
+      "key_reference_points": [
+        "Private Pilot Certificate does NOT expire - it remains valid for life once issued (14 CFR 61.19)",
+        "Flight review is required every 24 calendar months to exercise pilot privileges (14 CFR 61.56)",
+        "To fly again: complete a flight review with a CFI (minimum 1 hour flight, 1 hour ground)",
+        "Flight review must include review of Part 91 rules and maneuvers demonstrating safe exercise of certificate privileges",
+        "Alternative: completing a pilot proficiency check or certain wings program phases can substitute for flight review"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 7,
+      "question": "Are there any other activities a pilot can accomplish that can be substituted for a flight review?",
+      "answer": "",
+      "references": [
+        "14 CFR 61.56"
+      ],
+      "key_reference_points": [
+        "Passing a pilot proficiency check (checkride) for a new certificate or rating within the preceding 24 months satisfies flight review requirements",
+        "Completing a phase of the FAA WINGS program substitutes for a flight review",
+        "Military pilots who have completed an official proficiency check within 24 months are exempt",
+        "Flight instructor who has renewed their certificate within 24 months does not need a separate flight review",
+        "Completion of certain approved training programs (Part 121, 135) may satisfy flight review requirements"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Medical Certificates",
+      "number": 8,
+      "question": "What regulatory requirements must be met prior to a pilot acting as PIC of an aircraft towing a glider?",
+      "answer": "",
+      "references": [
+        "14 CFR 61.69"
+      ],
+      "key_reference_points": [
+        "Must hold at least a Private Pilot certificate with category rating for the tow aircraft",
+        "Must have logged at least 100 hours PIC time in the aircraft category used for towing",
+        "Must have made at least 3 actual or simulated glider tows within the preceding 24 months",
+        "Ground training on techniques and procedures for safe towing must be completed",
+        "Three training flights as sole manipulator of the controls towing a glider or simulating towing",
+        "Logbook endorsement from an authorized instructor certifying proficiency is required"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1280 @@
+{
+  "chapter": 3,
+  "title": "Weather Information",
+  "questions": [
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 1,
+      "question": "State the general characteristics in regard to the flow of air around high and low pressure systems in the Northern Hemisphere. (AC 00-6) Low Pressure—inward, upward, and counterclockwise High Pressure—outward, downward, and clockwise",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Low pressure: air flows inward, upward, and counterclockwise (Northern Hemisphere)",
+        "High pressure: air flows outward, downward, and clockwise (Northern Hemisphere)",
+        "Memory aid: 'Low' = air rises (L for Lift), 'High' = air descends",
+        "Counterclockwise rotation around lows is due to Coriolis effect in Northern Hemisphere"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 2,
+      "question": "If your route of flight takes you towards a low-pressure system, in general, what kind of weather can you expect? What if you were flying towards a high-pressure system? (AC 00-6) A low-pressure system is characterized by rising air, which is conducive to cloudiness, precipitation and bad weather. A high-pressure system is an area of descending air which tends to favor dissipation of cloudiness and good weather.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Low pressure = rising air = clouds, precipitation, bad weather",
+        "High pressure = descending air = clear skies, good weather",
+        "Descending air in highs causes warming and cloud dissipation",
+        "Rising air in lows causes cooling, condensation, and cloud formation",
+        "When flying toward a LOW, expect deteriorating weather conditions"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 3,
+      "question": "Describe the different types of fronts. (AC 00-6) Cold front—occurs when a mass of cold, dense, and stable air advances and replaces a body of warmer air. Occluded front—A frontal occlusion occurs when a fast-moving cold front catches up with a slow-moving warm front. Two types: cold front occlusion and warm front occlusion. Warm front—The boundary area formed when a warm air mass contacts and flows over a colder air mass. Stationery front—When the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days. The weather is typically a mixture of both warm and cold fronts.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Cold front: cold air advances and replaces warmer air; fast-moving with steep slope",
+        "Warm front: warm air flows over retreating cold air; slow-moving with gradual slope",
+        "Occluded front: fast cold front overtakes slow warm front; two types (cold and warm occlusion)",
+        "Stationary front: neither air mass advances; can persist for days",
+        "Cold fronts bring intense, short-duration weather; warm fronts bring prolonged, steady precipitation",
+        "Stationary fronts produce weather characteristics of both warm and cold fronts"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 4,
+      "question": "What are the general characteristics of the weather a pilot would encounter when operating near a cold front? A warm front? (FAA-H- 8083-25) Cold Front—As the front passes, expected weather can include towering cumulus or cumulonimbus, heavy rain accompanied by lightning, thunder and/or hail; tornadoes possible; during passage, poor visibility, winds variable and gusting; temperature/dew point and barometric pressure drop rapidly. Warm Front—As the front passes, expected weather can include stratiform clouds, drizzle, low ceilings and poor visibility; variable winds; rise in temperature.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Cold front passage: towering cumulus/cumulonimbus clouds, heavy rain, lightning, thunder, hail possible",
+        "Cold fronts can produce tornadoes; expect poor visibility and variable/gusty winds",
+        "Cold front passage causes rapid drop in temperature, dew point, and barometric pressure",
+        "Warm front passage: stratiform clouds, drizzle, low ceilings, poor visibility",
+        "Warm fronts bring variable winds and rising temperatures",
+        "Cold fronts move faster and produce more violent weather than warm fronts"
+      ],
+      "note": "The weather associated with a front depends on the amount of moisture available, the degree of stability of the air that is forced upward, the slope of the front, the speed of frontal movement, and the upper wind flow."
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 5,
+      "question": "What is a “trough”? (AC 00-6) A trough (also called a trough line) is an elongated area of relatively low atmospheric pressure. At the surface when air converges into a low, it cannot go outward against the pressure gradient, nor can it go downward into the ground; it must go upward. Therefore, a low or trough is an area of rising air. Rising air is conducive to cloudiness and precipitation; hence the general association of low pressure and bad weather.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Trough is an elongated area of relatively low atmospheric pressure",
+        "Air converges into a low/trough and must rise (cannot go down or outward)",
+        "Rising air in troughs is conducive to cloudiness and precipitation",
+        "Troughs are associated with bad weather conditions"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 6,
+      "question": "What is a “ridge”? (AC 00-6) A ridge (also called a ridge line) is an elongated area of relatively high atmospheric pressure. Air moving out of a high or ridge depletes the quantity of air; therefore, these are areas of descending air. Descending air favors dissipation of cloudiness; hence the association of high pressure and good weather.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Ridge is an elongated area of relatively high atmospheric pressure",
+        "Air moves outward from a high/ridge, creating descending air",
+        "Descending air favors dissipation of clouds",
+        "Ridges are associated with good weather conditions",
+        "High pressure = descending air = clear skies; Low pressure = rising air = clouds/precip"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 7,
+      "question": "What are the standard temperature and pressure values for sea level? (AC 00-6) 15°C and 29.92\" Hg",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard sea level temperature is 15°C (59°F)",
+        "Standard sea level pressure is 29.92 inches of mercury (Hg)",
+        "Standard pressure in millibars is 1013.25 mb",
+        "These values define the International Standard Atmosphere (ISA)",
+        "Temperature decreases approximately 2°C per 1,000 feet in standard atmosphere"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 8,
+      "question": "What are “isobars”? (AC 00-6) An isobar is a line on a weather chart which connects areas of equal or constant barometric pressure.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Isobars are lines connecting points of equal barometric pressure",
+        "Isobars appear on surface weather charts and constant pressure charts",
+        "Isobars help visualize pressure systems (highs and lows)",
+        "Wind flows roughly parallel to isobars (with some crossing angle due to friction)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 9,
+      "question": "If the isobars are relatively close together on a surface weather chart or a constant pressure chart, what information will this provide? (AC 00-6) The spacing of isobars on these charts defines how steep or shallow a pressure gradient is. When isobars are spaced very close together, a steep pressure gradient exists which indicates higher wind speeds. A shallow pressure gradient (isobars not close together) usually means wind speeds will be less.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Close isobars = steep pressure gradient = strong winds",
+        "Widely spaced isobars = shallow pressure gradient = light winds",
+        "Pressure gradient is the rate of change in pressure over distance",
+        "The closer the isobars, the faster the wind speed",
+        "This applies to both surface weather charts and constant pressure charts"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 10,
+      "question": "What causes the winds aloft to flow parallel to the isobars? (AC 00-6) The Coriolis force.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Coriolis force deflects wind to the right in the Northern Hemisphere",
+        "Coriolis force results from Earth's rotation",
+        "At altitude (above friction layer ~2,000 ft AGL), Coriolis force balances pressure gradient force",
+        "This balance causes winds aloft to flow parallel to isobars (geostrophic wind)",
+        "No surface friction exists at altitude to disrupt this parallel flow"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 11,
+      "question": "Why do surface winds generally flow across the isobars at an angle? (AC 00-6) Surface friction.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Surface friction extends from ground to approximately 2,000 ft AGL",
+        "Friction slows wind speed and reduces Coriolis effect",
+        "Reduced Coriolis allows pressure gradient force to dominate",
+        "Surface winds cross isobars at angles of 10-45 degrees toward low pressure",
+        "Greater friction over rough terrain = greater angle across isobars",
+        "Wind flows from high pressure to low pressure at the surface"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 12,
+      "question": "At what rate does atmospheric pressure decrease with an increase in altitude? (AC 00-6) 1\" Hg per 1,000 feet.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard pressure lapse rate: 1 inch Hg per 1,000 feet of altitude gain",
+        "Standard sea level pressure: 29.92 inches Hg (1013.2 mb)",
+        "This rate is approximate and varies with temperature and weather conditions",
+        "Used for altitude calculations and altimeter setting corrections",
+        "Memory aid: 'One inch per thousand feet'"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 13,
+      "question": "What does “dew point” mean? (AC 00-6) Dew point is the temperature to which a sample of air must be cooled to attain the state of saturation.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Dew point is the temperature at which air becomes saturated",
+        "At dew point, air can hold no more water vapor",
+        "Cooling air below dew point causes condensation (clouds, fog, dew)",
+        "Dew point is always equal to or less than the current temperature"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 14,
+      "question": "When temperature and dew point are close together (within 5°), what type of weather is likely? (AC 00-6) Visible moisture in the form of clouds, dew, or fog. Also, these are ideal conditions for carburetor icing.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Temperature/dew point spread within 5°C indicates high moisture content",
+        "Expect visible moisture: clouds, fog, or dew",
+        "Ideal conditions for carburetor icing even at relatively warm temperatures",
+        "As spread decreases to 0°, fog or clouds become increasingly likely",
+        "Monitor closely during descent as temperatures may drop toward dew point"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 15,
+      "question": "What factor primarily determines the type and vertical extent of clouds? (AC 00-6) The stability of the atmosphere.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Atmospheric stability determines cloud type and vertical development",
+        "Stable air produces stratiform (layered) clouds with limited vertical extent",
+        "Unstable air produces cumuliform clouds with significant vertical development",
+        "Unstable conditions can lead to towering cumulus and thunderstorms",
+        "Stability is determined by comparing environmental lapse rate to rising air parcel"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 16,
+      "question": "Explain the difference between a stable atmosphere and an unstable atmosphere. Why is the stability of the atmosphere important? (FAA-H- 8083-25, AC 00-6) The stability of the atmosphere depends on its ability to resist vertical motion. A stable atmosphere makes vertical movement difficult, and small vertical disturbances dampen out and disappear. In an unstable atmosphere, small vertical air movements tend to become larger, resulting in turbulent airflow and convective activity. Instability can lead to significant turbulence, extensive vertical clouds, and severe weather.",
+      "answer": "",
+      "references": [
+        "FAA-H- 8083-25, AC 00-6"
+      ],
+      "key_reference_points": [
+        "Stable atmosphere resists vertical motion; vertical disturbances dampen out",
+        "Unstable atmosphere amplifies vertical motion, causing turbulence and convection",
+        "Instability leads to turbulent airflow, cumuliform clouds, and severe weather",
+        "Stability determines cloud types, precipitation patterns, and flight conditions",
+        "Warm air over cold air = stable; cold air over warm air = unstable"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 17,
+      "question": "List the effects of stable and unstable air on clouds, turbulence, precipitation and visibility. (AC 00-6) Stable Unstable Clouds Stratiform Cumuliform Turbulence Smooth Rough Precipitation Steady Showery Visibility Fair to Poor Good",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Stable air: stratiform clouds, smooth air, steady precipitation, fair to poor visibility",
+        "Unstable air: cumuliform clouds, rough/turbulent air, showery precipitation, good visibility",
+        "Memory aid: Stable = Stratiform, Smooth, Steady, poor visibility",
+        "Memory aid: Unstable = Cumulus, rough, showery, good visibility between showers"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 18,
+      "question": "When significant precipitation is occurring at the surface, how thick can you expect the clouds to be? (AC 00-6) Significant precipitation usually requires clouds to be at least 4,000 feet thick. The heavier the precipitation, the thicker the clouds are likely to be.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Significant precipitation requires clouds at least 4,000 feet thick",
+        "Heavier precipitation indicates thicker cloud layers",
+        "Thin clouds typically produce only light precipitation or drizzle",
+        "Cloud thickness directly correlates with precipitation intensity"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 19,
+      "question": "During your preflight planning, what type of meteorological information should you be aware of with respect to icing? (AC 00-6)",
+      "answer": "a. Location of fronts—A front’s location, type, speed, and direction of movement. b. Cloud layers—The location of cloud bases and tops, which is valuable when determining if you will be able to climb above icing layers or descend beneath those layers into warmer air; reference PIREPs and area forecasts. c. Freezing level(s)—Important when determining how to avoid icing and how to exit icing conditions if accidentally encountered. d. Air temperature and pressure—Icing tends to be found in low-pressure areas and at temperatures at or around freezing.",
+      "references": [],
+      "key_reference_points": [
+        "Check front location, type, speed, and direction of movement",
+        "Determine cloud bases and tops using PIREPs and area forecasts to plan climbs/descents around icing layers",
+        "Identify freezing level(s) to plan icing avoidance and escape routes",
+        "Icing tends to occur in low-pressure areas and at temperatures at or around 0°C",
+        "Multiple freezing levels can exist when temperature inversions are present"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 20,
+      "question": "What is the definition of the term freezing level and how can you determine where that level is? (AC 00-45) The freezing level is the lowest altitude in the atmosphere over a given location at which the air temperature reaches 0°C. It is possible to have multiple freezing layers when a temperature inversion occurs above the defined freezing level. A pilot can use current icing products (CIP) and forecast icing products (FIP), as well as the freezing level graphics chart to determine the approximate freezing level. Other potential sources of icing information are: area forecasts, PIREPs, AIRMETs, SIGMETs, surface analysis charts, low-level significant weather charts, and winds and temperatures aloft (for air temperature at altitude).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Freezing level is the lowest altitude where air temperature reaches 0°C",
+        "Multiple freezing layers can exist due to temperature inversions",
+        "Use CIP (Current Icing Products) and FIP (Forecast Icing Products) to determine freezing level",
+        "Freezing level graphics chart provides visual depiction of freezing altitudes",
+        "Additional sources: Area forecasts, PIREPs, AIRMETs, SIGMETs, surface analysis charts, winds and temperatures aloft"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 21,
+      "question": "What conditions are necessary for structural icing to occur? (AC 00- 6) Visible moisture and below freezing temperatures at the point moisture strikes the aircraft.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Two conditions required: visible moisture AND below-freezing temperatures",
+        "Temperature must be at or below 0°C at the point where moisture contacts the aircraft",
+        "Visible moisture includes clouds, rain, drizzle, or fog",
+        "Both conditions must exist simultaneously for structural icing to form"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 22,
+      "question": "Name the main types of icing an aircraft may encounter in-flight. (AC 00-6) Structural, induction system, and instrument icing.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Structural icing forms on aircraft exterior surfaces (wings, tail, propeller)",
+        "Induction system icing affects carburetor or air intake systems",
+        "Instrument icing blocks pitot tubes and static ports",
+        "All three types can occur simultaneously",
+        "Icing requires visible moisture and temperatures at or below freezing"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 23,
+      "question": "Name the three types of structural icing that may occur in flight. (AC 00-6) Clear ice—forms after initial impact when the remaining liquid portion of the drop flows out over the aircraft surface, gradually freezing as a smooth sheet of solid ice. Rime ice—forms when drops are small, such as those in stratified clouds or light drizzle. The liquid portion remaining after initial impact freezes rapidly before the drop has time to spread out over aircraft surface. Mixed ice—forms when drops vary in size or when liquid drops are intermingled with snow or ice particles. The ice particles become imbedded in clear ice, building a very rough accumulation.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Clear ice: forms from large drops that flow over surface before freezing; smooth, hard, difficult to remove",
+        "Rime ice: forms from small supercooled drops that freeze rapidly on impact; rough, milky, opaque appearance",
+        "Mixed ice: combination of clear and rime; forms when drop sizes vary or snow/ice particles are present",
+        "Clear ice is most dangerous due to weight and disruption of airflow",
+        "Rime ice typically forms in stratified clouds with small droplets",
+        "Mixed ice creates very rough accumulation due to embedded ice particles"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 24,
+      "question": "What action is recommended if you inadvertently encounter icing conditions? (FAA-H-8083-15) The first course of action should be to leave the area of visible moisture. This might mean descending to an altitude below the cloud bases, climbing to an altitude above the cloud tops, or turning to a different course.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "First priority: EXIT the area of visible moisture immediately",
+        "Option 1: Descend below cloud bases to warmer air",
+        "Option 2: Climb above cloud tops if aircraft performance allows",
+        "Option 3: Turn to a different course to exit icing conditions laterally",
+        "Activate deicing/anti-icing equipment if installed",
+        "Notify ATC and consider declaring an emergency if icing is severe"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 25,
+      "question": "Is frost considered to be hazardous to flight? Why? (AC 00-6) Yes, because while frost does not change the basic aerodynamic shape of the wing, the roughness of its surface spoils the smooth flow of air, thus causing a slowing of airflow. This slowing of the air causes early airflow separation, resulting in a loss of lift. Even a small amount of frost on airfoils may prevent an aircraft from becoming airborne at normal takeoff speed. It is also possible that, once airborne, an aircraft could have insufficient margin of airspeed above stall so that moderate gusts or turning flight could produce incipient or complete stalling.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Frost disrupts smooth airflow over the wing surface",
+        "Frost causes early airflow separation resulting in loss of lift",
+        "Aircraft may not become airborne at normal takeoff speed with frost present",
+        "Even small amounts of frost on airfoils are hazardous",
+        "Frost reduces stall margin, making gusts or turns potentially dangerous",
+        "Frost does not change wing shape but affects surface roughness"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 26,
+      "question": "What factors must be present for a thunderstorm to form? (AC 00-6)",
+      "answer": "a. Sufficient water vapor b. An unstable lapse rate c. An initial upward boost (lifting) to start the storm process in motion",
+      "references": [],
+      "key_reference_points": [
+        "Three factors required: moisture, instability, and lifting action",
+        "Sufficient water vapor must be present in the atmosphere",
+        "Unstable lapse rate (temperature decreasing rapidly with altitude)",
+        "Initial lifting mechanism needed (fronts, mountains, convection, or convergence)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 27,
+      "question": "What are the three stages of a thunderstorm? (AC 00-6) Cumulus stage—Updrafts cause raindrops to increase in size. Mature stage—Rain at earth’s surface; it falls through or immediately beside the updrafts; lightning; perhaps roll clouds. Dissipating stage—Downdrafts and rain begin to dissipate.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Three stages: Cumulus, Mature, and Dissipating",
+        "Cumulus stage: characterized by updrafts only, raindrops increasing in size",
+        "Mature stage: most severe - rain reaches surface, lightning, possible roll clouds, both updrafts and downdrafts",
+        "Dissipating stage: dominated by downdrafts, rain diminishing, storm weakening",
+        "Mature stage is the most dangerous phase for aircraft"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 28,
+      "question": "What is a “temperature inversion”? (AC 00-6) An inversion is an increase in temperature with height—a reversal of the normal decrease with height. An inversion aloft permits warm rain to fall through cold air below. Temperature in the cold air can be critical to icing. A ground-based inversion favors poor visibility by trapping fog, smoke, and other restrictions into low levels of the atmosphere. The air is stable, with little or no turbulence.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Temperature inversion = temperature INCREASES with altitude (opposite of normal lapse)",
+        "Ground-based inversions trap fog, smoke, haze, and pollutants near the surface",
+        "Inversions create stable air with little to no turbulence",
+        "Inversion aloft can cause warm rain falling through cold air below, creating icing hazards",
+        "Poor visibility is common beneath an inversion layer"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 29,
+      "question": "State two basic ways that fog may form. (AC 00-6)",
+      "answer": "a. Cooling air to the dew point. b. Adding moisture to the air near the ground.",
+      "references": [],
+      "key_reference_points": [
+        "Fog forms when air is cooled to its dew point temperature",
+        "Fog forms when moisture is added to air near the ground surface",
+        "Fog requires high relative humidity (near 100%) and condensation nuclei",
+        "Small temperature-dew point spread indicates fog is likely"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 30,
+      "question": "Name several types of fog. (AC 00-6)",
+      "answer": "a. Radiation fog b. Advection fog c. Upslope fog d. Frontal fog or precipitation-induced fog e. Steam fog",
+      "references": [],
+      "key_reference_points": [
+        "Radiation fog: forms on clear, calm nights when ground cools rapidly (ground-based inversion)",
+        "Advection fog: warm moist air moves over colder surface (common along coastlines)",
+        "Upslope fog: moist air forced up sloping terrain and cools adiabatically",
+        "Frontal/precipitation-induced fog: rain falls through cool air, evaporation saturates the air",
+        "Steam fog: cold air moves over warm water, moisture evaporates into cold air",
+        "Radiation fog requires calm winds; advection fog needs light winds (5-15 knots)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 31,
+      "question": "What causes radiation fog to form? (AC 00-6) The ground cools the adjacent air to the dew point on calm, clear nights.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Forms on calm, clear nights when ground radiates heat and cools rapidly",
+        "Ground cools adjacent air to the dew point temperature",
+        "Requires light or calm winds (usually less than 5 knots)",
+        "Most common in valleys and low-lying areas where cool air settles",
+        "Typically dissipates after sunrise as ground warms"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 32,
+      "question": "What is advection fog, and where is it most likely to form? (AC 00-6) Advection fog results from the transport of warm humid air over a cold surface. A pilot can expect advection fog to form primarily along coastal areas during the winter. Unlike radiation fog, it may occur with winds, cloudy skies, over a wide geographic area, and at any time of the day or night.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Caused by warm, humid air moving over a cold surface",
+        "Most common along coastal areas, especially during winter",
+        "Can form with winds present (unlike radiation fog)",
+        "Can occur with cloudy skies",
+        "Can form any time of day or night",
+        "Covers wide geographic areas and may persist for days"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 33,
+      "question": "What is upslope fog? (AC 00-6) Upslope fog forms as a result of moist, stable air being cooled adiabatically as it moves up sloping terrain. Once the upslope wind ceases, the fog dissipates. Upslope fog is often quite dense and extends to high altitudes.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Forms when moist, stable air moves up sloping terrain",
+        "Air cools adiabatically as it rises along the slope",
+        "Dissipates when upslope wind stops",
+        "Often very dense and extends to high altitudes",
+        "Common on mountain slopes and elevated terrain"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 34,
+      "question": "Define the term “wind shear,” and state the areas in which it is likely to occur. (AC 00-6) Wind shear is defined as the rate of change of wind velocity (direction and/or speed) per unit distance; conventionally expressed as vertical or horizontal wind shear. It may occur at any level in the atmosphere but three areas are of special concern:",
+      "answer": "a. Wind shear with a low-level temperature inversion. b. Wind shear in a frontal zone or thunderstorm. c. Clear air turbulence (CAT) at high levels associated with a jet stream or strong circulation.",
+      "references": [],
+      "key_reference_points": [
+        "Wind shear is the rate of change of wind velocity (direction and/or speed) per unit distance",
+        "Expressed as either vertical or horizontal wind shear",
+        "Three critical areas: low-level temperature inversions, frontal zones/thunderstorms, and clear air turbulence (CAT) near jet streams",
+        "Can occur at any level in the atmosphere"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 35,
+      "question": "Why is wind shear an operational concern to pilots? (AC 00-6) Wind shear is an operational concern because unexpected changes in wind speed and direction can be potentially very hazardous to aircraft operations at low altitudes on approach to and departing from airports.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Unexpected changes in wind speed and direction are hazardous at low altitudes",
+        "Most dangerous during approach and departure phases of flight",
+        "Can cause sudden loss of airspeed and lift when aircraft is near the ground",
+        "Limited altitude available for recovery makes low-level wind shear especially dangerous"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Nature of the Atmosphere",
+      "number": 36,
+      "question": "What types of weather information will you examine to determine if wind shear conditions might affect your flight? (AC 00-54)",
+      "answer": "a. Terminal forecasts—any mention of low level wind shear (LLWS) or the possibility of severe thunderstorms, heavy rain showers, hail, and wind gusts suggest the potential for LLWS and microbursts. b. METARs—inspect for any indication of thunderstorms, rain showers, or blowing dust. Additional signs such as warming trends, gusty winds, cumulonimbus clouds, etc., should be noted. c. Severe weather watch reports, SIGMETS, and convective SIGMETS —severe convective weather is a prime source for wind shear and microbursts. d. LLWAS (low level windshear alert system) reports—installed at 110 airports in the U.S.; designed to detect wind shifts between outlying stations and a reference centerfield station. e. PIREPs—reports of sudden airspeed changes on departure or approach and landing corridors provide a real-time indication of the presence of wind shear.",
+      "references": [],
+      "key_reference_points": [
+        "TAFs - check for LLWS mentions, severe thunderstorms, heavy rain, hail, wind gusts",
+        "METARs - look for thunderstorms, rain showers, blowing dust, warming trends, gusty winds, CB clouds",
+        "SIGMETs and Convective SIGMETs - severe convective weather indicates wind shear/microburst potential",
+        "LLWAS reports - installed at 110 US airports, detects wind shifts between outlying and centerfield stations",
+        "PIREPs - reports of sudden airspeed changes on approach/departure indicate active wind shear"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 1,
+      "question": "What is the primary means of obtaining a weather briefing? (AIM 7-1- 2, 7-1-4) The flight service station (FSS) is the primary source for obtaining preflight briefings and inflight weather information. The FAA provides the Flight Service program through FSS’s (both government and contract, 1-800-WX- BRIEF), and via the Internet, through Direct User Access Terminal System (DUATS), and Lockheed Martin Flight Services (DUATS II).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Flight Service Station (FSS) is the PRIMARY source for preflight briefings",
+        "Contact FSS via 1-800-WX-BRIEF",
+        "DUATS and DUATS II (Lockheed Martin Flight Services) available via internet",
+        "FSS provides both preflight and inflight weather information",
+        "Both government and contract FSS facilities are available"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 2,
+      "question": "What are some examples of other sources of weather information? (AIM 7-1-2, 7-1-8)",
+      "answer": "a. Telephone Information Briefing Service, or TIBS (FSS). b. Weather and aeronautical information available from numerous private industry sources. c. DUATS and Lockheed Martin Flight Services via the internet. Pilots with a current medical certificate can receive preflight weather data and file domestic VFR and IFR flight plans. d. In Alaska, Transcribed Weather Broadcast (TWEB and telephone access to the TWEB, or TEL-TWEB).",
+      "references": [],
+      "key_reference_points": [
+        "TIBS (Telephone Information Briefing Service) available through FSS",
+        "Private industry weather sources are available",
+        "DUATS/DUATS II requires current medical certificate to file flight plans",
+        "DUATS allows filing both VFR and IFR domestic flight plans",
+        "In Alaska: TWEB (Transcribed Weather Broadcast) and TEL-TWEB available"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 3,
+      "question": "You’re planning a cross-county flight. Does the weather data provided by commercial and/or third party vendors satisfy the preflight action required by 14 CFR 91.103? (AIM 7-1-3) Pilots and operators should be aware that weather services provided by entities other than FAA, NWS or their contractors (such as the DUATS and Lockheed Martin Flight Services DUATS II) might not meet FAA/NWS quality control standards. All operators and pilots contemplating using such services should request and/or review an appropriate description of services and provider disclosure. When in doubt, consult with an FAA Flight Service Specialist.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Third-party weather services may NOT meet FAA/NWS quality control standards",
+        "14 CFR 91.103 requires pilots to obtain all available information concerning the flight",
+        "Request provider disclosure when using non-FAA/NWS weather services",
+        "When in doubt about weather data quality, consult an FAA Flight Service Specialist",
+        "Only FAA, NWS, and their contractors (DUATS/DUATS II) are guaranteed to meet quality standards"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 4,
+      "question": "What types of weather briefings are available from an AFSS/FSS briefer? (AIM 7-1-4) Standard Briefing—Request when you are planning a flight and you have not received a previous briefing or have not received preliminary information through mass dissemination media (TIBS, TWEB in Alaska only, etc.). Abbreviated Briefing—Request when you need information to supplement mass disseminated data, update a previous briefing, or when you need only one or two items. Outlook Briefing—Request whenever your proposed time of departure is six or more hours from the time of the briefing; for planning purposes only. Inflight Briefing—Request when needed to update a preflight briefing.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard Briefing: Request when no previous briefing received; provides complete weather picture",
+        "Abbreviated Briefing: Request to supplement previous briefing or when only 1-2 specific items needed",
+        "Outlook Briefing: Request when departure is 6+ hours away; for planning purposes only",
+        "Inflight Briefing: Request while airborne to update preflight briefing information"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 5,
+      "question": "What pertinent information should a weather briefing include? (AIM 7-1-4)",
+      "answer": "a. Adverse Conditions b. VFR Flight Not Recommended c. Synopsis d. Current Conditions e. Enroute Forecast f. Destination Forecast g. Winds Aloft h. Notices to Airmen (NOTAMs) i. ATC Delay j. Pilots may obtain the following from FSS briefers upon request: information on special use airspace (SUA) and SUA-related airspace, including alert areas, MOAs, MTRs (IFR, VFR, VR, and SR training routes), warning areas, and ATC assigned airspace (ATCAA); a review of the printed NOTAM publication; approximate density altitude data; information on air traffic services and rules; customs/immigration procedures; ADIZ rules; search and rescue; runway friction measurement value NOTAMs; GPS RAIM availability; and other assistance as required.",
+      "references": [],
+      "key_reference_points": [
+        "Adverse Conditions and VFR Flight Not Recommended are given first if applicable",
+        "Synopsis provides big-picture weather systems affecting the flight area",
+        "Current Conditions include METARs and PIREPs along the route",
+        "Enroute and Destination Forecasts cover expected conditions for the flight",
+        "Winds Aloft data provided for requested altitudes",
+        "NOTAMs include FDC NOTAMs, facility closures, and TFRs affecting the route"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 6,
+      "question": "What is HIWAS? (AIM 7-1-9) Hazardous In-flight Weather Advisory Service (HIWAS) is a continuous broadcast of in-flight weather advisories including summarized Aviation Weather Warnings, SIGMETs, Convective SIGMETs, Center Weather Advisories, AIRMETs, and urgent PIREPs. HIWAS is an additional source of hazardous weather information which makes this data available on a continuous basis. Navaids with HIWAS capability are depicted on sectional carts with an “H” in the upper right corner of the identification box. Where implemented, HIWAS alerts are broadcast on all except emergency frequencies once upon receipt by ARTCC, terminal facilities, and FSS.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "HIWAS = Hazardous In-flight Weather Advisory Service",
+        "Broadcasts continuously on selected VOR frequencies",
+        "Includes SIGMETs, Convective SIGMETs, AIRMETs, CWAs, and urgent PIREPs",
+        "Navaids with HIWAS shown with 'H' in upper right corner of navaid box on sectional charts",
+        "HIWAS alerts broadcast once on all frequencies (except emergency) when received by ATC/FSS"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 7,
+      "question": "What is a “flight information service” (FIS)? (FAA-H-8083-25) Flight Information Service – Broadcast (FIS-B) is a ground broadcast service provided through the Automatic Dependent Surveillance – Broadcast (ADS- B) services network over the 978 MHz UAT data link. The FAA FIS-B system provides pilots and flight crews of properly-equipped aircraft with a flightdeck display of aviation weather and aeronautical information.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "FIS-B is a ground broadcast service provided through ADS-B network",
+        "Operates over 978 MHz UAT (Universal Access Transceiver) data link",
+        "Provides weather and aeronautical information to properly-equipped aircraft",
+        "Displays aviation weather and flight information on cockpit displays",
+        "Requires ADS-B In equipment to receive FIS-B services"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 8,
+      "question": "Can onboard datalink weather (FIS-B) be useful in navigating an aircraft safely around an area of thunderstorms? (AC 00-24; AIM 7-1- 10) Weather data linked from a ground weather surveillance radar system is not real-time information; it displays recent rather than current conditions. This data is typically updated every 5 minutes, but can be as much as 15 minutes old by the time it displays in the cockpit. Therefore, FIS aviation weather products are not appropriate for tactical avoidance of severe weather such as negotiating a path through a weather hazard area.",
+      "answer": "",
+      "references": [
+        "AC 00-24; AIM 7-1- 10"
+      ],
+      "key_reference_points": [
+        "FIS-B weather data is NOT real-time - it shows recent conditions, not current",
+        "Data is typically updated every 5 minutes but can be up to 15 minutes old",
+        "FIS-B is NOT appropriate for tactical avoidance of severe weather",
+        "Should not be used to negotiate a path through thunderstorm areas",
+        "Useful for strategic planning but not for maneuvering around active storms"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Obtaining Weather Information",
+      "number": 9,
+      "question": "While en route, how can a pilot obtain updated weather information? (FAA-H-8083-25)",
+      "answer": "a. FSS on 122.2 and appropriate RCO (remote communication outlet) frequencies. b. ATIS broadcasts along your route of flight. c. HIWAS (Hazardous Inflight Weather Advisory Service). d. Datalink weather—cockpit display of FIS-B information. e. ATC (workload permitting).",
+      "references": [],
+      "key_reference_points": [
+        "FSS available on 122.2 MHz and Remote Communication Outlet (RCO) frequencies",
+        "ATIS broadcasts provide weather updates at airports along route",
+        "HIWAS (Hazardous Inflight Weather Advisory Service) broadcasts on VOR frequencies",
+        "FIS-B datalink provides cockpit weather display (if equipped)",
+        "ATC can provide weather updates workload permitting",
+        "Flight Watch (EFAS) was available on 122.0 MHz (now discontinued - use FSS)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aviation Weather Reports and Observations",
+      "number": 1,
+      "question": "What is a METAR and what are the two types? (AC 00-45) A METAR is an hourly surface observation of conditions observed at an airport. There are two types of METAR reports—a routine METAR report that is transmitted every hour and an aviation selected special weather report (SPECI). This is a special report that can be given at any time to update the METAR for rapidly changing weather conditions, aircraft mishaps, or other critical information.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "METAR = hourly surface observation of airport weather conditions",
+        "Two types: routine METAR (transmitted every hour) and SPECI (special report)",
+        "SPECI issued for rapidly changing weather, aircraft mishaps, or critical information",
+        "SPECI can be issued at any time between routine hourly reports"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aviation Weather Reports and Observations",
+      "number": 2,
+      "question": "Describe the basic elements of a METAR. (AC 00-45) A METAR report contains the following elements in order as presented:",
+      "answer": "a. Type of reports—the METAR, and the SPECI (aviation special weather report). b. ICAO station identifier—4-letter station identifiers; in the conterminous U.S., the 3-letter identifier is prefixed with K. c. Date and time of report—a 6-digit date/time group appended with Z (UTC). First two digits are the date, then two for the hour, and two for minutes. d. Modifier (as required)—if used, the modifier AUTO identifies the report as an automated weather report with no human intervention. If AUTO is shown in the body of the report, AO1 or AO2 will be encoded in the remarks section to indicate the type of precipitation sensor used at the station. e. Wind—5-digit group (6 digits if speed is over 99 knots); first three digits = wind direction, in tens of degrees referenced to true north. Directions less than 100 degrees are preceded with a zero; next two digits are the average speed in knots, measured or estimated (or, if over 99 knots, the next three digits). f. Visibility—surface visibility in statute miles, space, fractions of statute miles (as needed), and the letters SM. g. Runway visual range (RVR), as required. h. Weather phenomena—broken into two categories: qualifiers, and weather phenomena. i. Sky condition—amount/height/type (as required) or indefinite ceiling/height (vertical visibility). Heights are recorded in feet AGL. j. Temperature/dew point group—2-digit format in whole degrees Celsius, separated by a solidus (/). Temperatures below zero are prefixed with M. k. Altimeter—4-digit format representing tens, units, tenths, and hundredths of inches of mercury prefixed with A. The decimal point is not reported or stated. l. Remarks (RMK), as required—operational significant weather phenomena, location of phenomena, beginning and ending times, direction of movement. Example: METAR KLAX 140651Z AUTO 00000KT 1SM R35L/4500V6000FT -RA BR BKN030 10/10 A2990 RMK AO2",
+      "references": [],
+      "key_reference_points": [
+        "ICAO identifier: 4 letters, US stations prefixed with K",
+        "Date/time: 6 digits (DDHHMMZ) in UTC/Zulu",
+        "AUTO modifier indicates automated report with no human intervention (AO1/AO2 in remarks)",
+        "Wind: 5 digits - direction in true degrees, speed in knots",
+        "Visibility reported in statute miles (SM)",
+        "Sky condition heights reported in feet AGL",
+        "Temperature/dew point in Celsius, M prefix indicates below zero",
+        "Altimeter: 4 digits prefixed with A (e.g., A2990 = 29.90 inches Hg)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aviation Weather Reports and Observations",
+      "number": 3,
+      "question": "Describe several types of weather observing programs available. (AIM 7-1-11)",
+      "answer": "a. Manual Observations—with only a few exceptions, these reports are from airport locations staffed by FAA personnel who manually observe, perform calculations, and enter their observations into the communication system. b. AWOS—Automated Weather Observing System; consists of various sensors, a processor, a computer-generated voice subsystem, and a transmitter to broadcast local, minute-by-minute weather data directly to the pilot. Observations will include the prefix AUTO in data. c. ASOS/AWSS—Automated Surface Observing System/Automated Weather Sensor System; the primary U.S. surface weather observing systems. AWSS is a follow-on program that provides the identical data as ASOS. Both systems provide continuous minute-by-minute observations that generate METARs and other aviation weather information. Transmitted over a discrete VHF radio frequency or the voice portion of a local NAVAID, and are receivable to a maximum of 25 NM from the station and a maximum altitude of 10,000 feet AGL. Observations made without human intervention will include the modifier “AUTO” in the report data.",
+      "references": [],
+      "key_reference_points": [
+        "Manual Observations: staffed by FAA personnel at airport locations",
+        "AWOS: Automated Weather Observing System - broadcasts minute-by-minute weather via transmitter",
+        "ASOS/AWSS: Primary US surface weather observing systems providing continuous observations",
+        "AUTO prefix in reports indicates no human intervention",
+        "ASOS/AWSS receivable up to 25 NM from station and 10,000 feet AGL maximum",
+        "Automated observations transmitted on discrete VHF frequency or voice portion of local NAVAID"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aviation Weather Reports and Observations",
+      "number": 4,
+      "question": "What are PIREPs (UA), and where are they usually found? (AC 00- 45) A pilot report (PIREP) provides valuable information regarding the conditions as they actually exist in the air, which cannot be gathered from any other source. Pilots can confirm the height of bases and tops of clouds, locations of wind shear and turbulence, and the location of inflight icing. There are two types of PIREPs: routine or “UA,” and urgent or “UUA.” PIREPs should be given to the ground facility with which communications are established (i.e., FSS, ARTCC, or terminal ATC). Altitudes are MSL, visibilities SM, and distances in NM. PIREPs are available from an FSS and on the internet via the ADDS web page at: http://adds.aviationweather.gov/pireps/.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "PIREPs are pilot-reported weather conditions that confirm actual inflight conditions",
+        "Two types: routine (UA) and urgent (UUA)",
+        "Report height of cloud bases/tops, wind shear, turbulence, and icing locations",
+        "Altitudes reported in MSL, visibilities in statute miles, distances in nautical miles",
+        "Submit PIREPs to FSS, ARTCC, or terminal ATC facilities",
+        "Available from FSS and ADDS website (adds.aviationweather.gov)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 1,
+      "question": "What are Terminal Aerodrome Forecasts (TAFs)? (AC 00-45) A terminal aerodrome forecast (TAF) is a concise statement of the expected meteorological conditions significant to aviation for a specified time period within five statute miles (SM) of the center of the airport’s runway complex (terminal). The TAFs use the same weather codes found in METAR weather reports, in the following format:",
+      "answer": "a. Type of reports—a routine forecast (TAF), an amended forecast (TAF AMD), or a corrected forecast (TAF COR). b. ICAO station identifier—4-letter station identifiers. c. Date and time of origin—the date/time of forecast follows the terminal’s location identifier. It contains the day of the month in two digits and time in four digits in which the forecast is completed and ready for transmission, with a Z appended to denote UTC. Example: 061737Z—the TAF was issued on the 6th day of the month at 1737 UTC. d. Valid period date and time—The first two digits are the day of the month for the start of the TAF followed by two digits indicating the starting hour (UTC). The next two digits indicate the day of the month for the end of the TAF, and the last two digits are the ending hour (UTC) of the valid period. Scheduled 24- and 30-hour TAFs are issued four (4) times per day, at 0000, 0600, 1200, and 1800Z. Example: A 00Z TAF issued on the 9th of the month and valid for 24 hours would have a valid period of 0900/0924. e. Forecasts—wind, visibility, significant and vicinity weather, cloud and vertical obscuration, non-convective low level wind shear, forecast change indicators (FM, TEMPO and PROB).",
+      "references": [],
+      "key_reference_points": [
+        "TAF covers expected weather within 5 statute miles of airport runway complex",
+        "Valid periods are 24 or 30 hours, issued 4 times daily (0000Z, 0600Z, 1200Z, 1800Z)",
+        "Uses same weather codes as METAR reports",
+        "Format includes: type (TAF/TAF AMD/TAF COR), ICAO identifier, issuance date/time, valid period",
+        "Forecast elements: wind, visibility, weather, clouds, low-level wind shear, change indicators (FM, TEMPO, PROB)",
+        "All times in UTC (Zulu)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 2,
+      "question": "Define “aviation area forecast.” (AC 00-45) Abbreviated as “FA,” this is a forecast of specified weather phenomena covering a flight information region or other area designated by the meteorological authority. Pilots should use the area forecast (in conjunction with AIRMETs, SIGMETs, convective SIGMETs, CWAs, etc.), to determine forecast en route weather and to interpolate conditions at airports that do not have a terminal aerodrome forecast (TAF). FAs are issued 3 times daily for each of the 6 areas in the contiguous 48 states. FAs are also issued for the Gulf of Mexico, the Caribbean, Hawaii, and Alaska.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Area Forecast (FA) covers a flight information region for en route weather",
+        "Used to interpolate weather at airports without a TAF",
+        "Issued 3 times daily for each of 6 areas in contiguous 48 states",
+        "Also issued for Gulf of Mexico, Caribbean, Hawaii, and Alaska",
+        "Should be used in conjunction with AIRMETs, SIGMETs, convective SIGMETs, and CWAs"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 3,
+      "question": "What information is provided by an FA? (AC 00-45) Area forecasts are issued for the conterminous U.S. and cover the airspace between the surface and 45,000 feet AMSL. They include:",
+      "answer": "a. Synopsis—brief discussion of the synoptic weather affecting the FA area during the 18-hour valid period. b. Clouds and weather—description of the clouds and weather for the first 12-hour period for each state or group of states, including: • Cloud amount (SCT, BKN or OVC) for clouds with bases higher than or equal to 1,000 feet AGL and below FL180, • Cloud bases and tops (AMSL) associated with the above, • Precipitation, • Visibilities between 3 and 6 SM and obstruction(s) to visibility, • Sustained surface winds 20 knots or greater. c. 12 to 18-hour categorical outlook—IFR, marginal VFR (MVFR), or VFR, including expected precipitation and/or obstruction(s) to visibility.",
+      "references": [],
+      "key_reference_points": [
+        "Area Forecasts cover surface to 45,000 feet MSL for the conterminous U.S.",
+        "Valid period is 18 hours total with detailed forecast for first 12 hours",
+        "Synopsis section covers synoptic weather affecting the area",
+        "Clouds and weather section includes cloud bases/tops, precipitation, and visibility 3-6 SM",
+        "Reports sustained surface winds of 20 knots or greater",
+        "12-18 hour outlook gives categorical forecast: IFR, MVFR, or VFR"
+      ],
+      "note": "Plans are to discontinue the six FAs covering the CONUS and one FA covering Hawaii, and subsequently replace them with digital and graphical products (GFA) produced by the NWS. No near-term changes are planned for the FAs for Alaska, the Caribbean, or the Gulf of Mexico."
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 4,
+      "question": "What is a Graphical Forecast for Aviation (GFA)? (AWC) The GFA is intended to provide the necessary aviation weather information as a complete picture of the weather that may impact flight in the continental U.S. The webpage includes observational data, forecasts, and warnings that can be viewed from 14 hours in the past to 15 hours in the future, including thunderstorms, clouds, flight category, precipitation, icing, turbulence and wind.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "GFA provides complete aviation weather picture for the continental U.S.",
+        "Displays data from 14 hours in the past to 15 hours in the future",
+        "Includes observational data, forecasts, and warnings on one webpage",
+        "Covers thunderstorms, clouds, flight category, precipitation, icing, turbulence, and wind",
+        "Available through the Aviation Weather Center (AWC)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 5,
+      "question": "What are the four types of Inflight Aviation Weather Advisories? (AIM 7-1-5) Inflight Aviation Weather Advisories are forecasts to advise enroute aircraft of the development of potentially hazardous weather in four types: the SIGMET (WS), the convective SIGMET (WST), the AIRMET (WA; text or graphical product), and the center weather advisory (CWA). All heights are referenced MSL, except in the case of ceilings (CIG) which indicate AGL.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Four types: SIGMET (WS), Convective SIGMET (WST), AIRMET (WA), and Center Weather Advisory (CWA)",
+        "SIGMETs warn of severe weather hazardous to ALL aircraft",
+        "Convective SIGMETs specifically cover thunderstorms and related convective activity",
+        "AIRMETs warn of weather potentially hazardous to light aircraft (available as text or graphical)",
+        "All heights referenced MSL except ceilings which are AGL",
+        "CWAs are issued by Air Route Traffic Control Centers for conditions within their airspace"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 6,
+      "question": "What is a Convective SIGMET? (AC 00-45) Convective SIGMETs (WST) implies severe or greater turbulence, severe icing and low-level wind shear. They may be issued for any convective situation which the forecaster feels is hazardous to all categories of aircraft. Convective SIGMET bulletins are issued for the Eastern (E), Central (C) and Western (W) United States (Convective SIGMETs are not issued for Alaska or Hawaii). Bulletins are issued hourly at H+55. Special bulletins are issued at any time as required and updated at H+55. The text of the bulletin consists of either an observation and a forecast, or just a forecast. The forecast is valid for up to 2 hours.",
+      "answer": "a. Severe thunderstorm due to: • Surface winds greater than or equal to 50 knots. • Hail at the surface greater than or equal to 3⁄4 inches in diameter. • Tornadoes b. Embedded thunderstorms c. A line of thunderstorms d. Thunderstorms producing greater than or equal to heavy precipitation that affects 40% or more of an area at least 3,000 square miles.",
+      "references": [],
+      "key_reference_points": [
+        "Convective SIGMETs issued for Eastern (E), Central (C), and Western (W) U.S. only - not Alaska or Hawaii",
+        "Issued hourly at H+55, valid for up to 2 hours",
+        "Issued for surface winds ≥50 knots, hail ≥3/4 inch diameter, or tornadoes",
+        "Issued for embedded thunderstorms or lines of thunderstorms",
+        "Issued for heavy precipitation affecting ≥40% of an area at least 3,000 square miles",
+        "Implies severe or greater turbulence, severe icing, and low-level wind shear"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 7,
+      "question": "What is a SIGMET (WS)? (AIM 7-1-5) A SIGMET (WS) advises of weather that is potentially hazardous to all aircraft. SIGMETs are unscheduled products that are valid for 4 hours; SIGMETs associated with tropical cyclones and volcanic ash clouds are valid for 6 hours. Unscheduled updates and corrections are issued as necessary. In the conterminous U.S., SIGMETs are issued when the following phenomena occur or are expected to occur:",
+      "answer": "a. Severe icing not associated with thunderstorms. b. Severe or extreme turbulence or clear air turbulence (CAT) not associated with thunderstorms. c. Widespread dust storms or sandstorms lowering surface visibilities to below 3 miles. d. Volcanic ash.",
+      "references": [],
+      "key_reference_points": [
+        "SIGMETs are hazardous to ALL aircraft categories",
+        "Standard SIGMETs valid for 4 hours; tropical cyclone/volcanic ash SIGMETs valid for 6 hours",
+        "Issued for severe icing NOT associated with thunderstorms",
+        "Issued for severe/extreme turbulence or CAT NOT associated with thunderstorms",
+        "Issued for dust/sandstorms lowering visibility below 3 miles",
+        "Issued for volcanic ash"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 8,
+      "question": "What is an AIRMET (WA)? (AC 00-45) Advisories of significant weather phenomena that describe conditions at intensities lower than those which require the issuance of SIGMETs, intended for use by all pilots in the preflight and enroute phase of flight to enhance safety. AIRMET information is available in two formats: text bulletins (WA) and graphics (G-AIRMET). They are issued on a scheduled basis every 6 hours beginning at 0245 UTC. Unscheduled updates and corrections are issued as necessary. Each AIRMET Bulletin includes an outlook for conditions expected after the AIRMET valid period. AIRMETs contain details about IFR, extensive mountain obscuration, turbulence, strong surface winds, icing, and freezing levels.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "AIRMETs describe conditions LESS intense than SIGMETs",
+        "Issued every 6 hours starting at 0245 UTC",
+        "AIRMET Sierra: IFR conditions and mountain obscuration",
+        "AIRMET Tango: Turbulence and strong surface winds (≥30 knots)",
+        "AIRMET Zulu: Icing and freezing levels",
+        "Available as text bulletins (WA) and graphics (G-AIRMET)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 9,
+      "question": "What are the different types of AIRMETs? (AIM 7-1-5) There are three AIRMET types: Sierra, Tango, and Zulu:",
+      "answer": "a. AIRMET Sierra describes IFR conditions and/or extensive mountain obscurations. b. AIRMET Tango describes moderate turbulence, sustained surface winds of 30 knots or greater, and/or nonconvective low-level wind shear. c. AIRMET Zulu describes moderate icing and provides freezing level heights.",
+      "references": [],
+      "key_reference_points": [
+        "AIRMET Sierra: IFR conditions and/or extensive mountain obscurations",
+        "AIRMET Tango: Moderate turbulence, sustained surface winds ≥30 knots, and/or nonconvective low-level wind shear",
+        "AIRMET Zulu: Moderate icing and freezing level heights",
+        "Memory aid: S=Seeing (visibility), T=Turbulence, Z=froZen (icing)",
+        "AIRMETs are intended for all aircraft but particularly light aircraft"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 10,
+      "question": "Describe the winds and temperature aloft forecasts (FB). (AC 00-45) Winds and temperature aloft forecasts are computer prepared forecasts of wind direction, wind speed, and temperature at specified times, altitudes, and locations. They are produced 4 times daily for specified locations in the continental United States, Hawaii, Alaska and coastal waters, and the western Pacific Ocean. Amendments are not issued to the forecasts. Wind forecasts are not issued for altitudes within 1,500 feet of a location’s elevation. Some of the features of FBs are:",
+      "answer": "a. Product header includes date and time observations collected, forecast valid date and time, and the time period during which the forecast is to be used. b. Altitudes up to 15,000 feet referenced to MSL; altitudes at or above 18,000 feet are references to flight levels (FL). c. Temperature indicated in degrees Celsius (two digits) for the levels from 6,000 through 24,000 feet. Above 24,000 feet, minus sign is omitted since temperatures are always negative at those altitudes. Temperature forecasts are not issued for altitudes within 2,500 feet of a location’s elevation. Forecasts for intermediate levels are determined by interpolation. d. Wind direction indicated in tens of degrees (two digits) with reference to true north and wind speed is given in knots (two digits). Light and variable wind or wind speeds of less than 5 knots are expressed by 9900. Forecast wind speeds of 100 through 199 knots are indicated by subtracting 100 from the speed and adding 50 to the coded direction. For example, a forecast of 250 degrees, 145 knots, is encoded as 7545. Forecast wind speeds of 200 knots or greater are indicated as a forecast speed of 199 knots. For example, 7799 is decoded as 270 degrees at 199 knots or greater.",
+      "references": [],
+      "key_reference_points": [
+        "No wind forecasts issued for altitudes within 1,500 feet of station elevation",
+        "No temperature forecasts issued for altitudes within 2,500 feet of station elevation",
+        "Altitudes below 18,000 feet are MSL; at/above 18,000 feet are Flight Levels",
+        "Code 9900 means light and variable winds (less than 5 knots)",
+        "Winds 100-199 knots: add 50 to direction digits and subtract 100 from speed (e.g., 7545 = 250° at 145 knots)",
+        "Temperatures above 24,000 feet omit minus sign (always negative)"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 11,
+      "question": "What valuable information can be determined from Winds and Temperatures Aloft Forecasts (FB)? Most favorable altitude—based on winds and direction of flight. Areas of possible icing—by noting air temperatures of +2°C to -20°C. Temperature inversions. Turbulence—by observing abrupt changes in wind direction and speed at different altitudes.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Select most favorable cruising altitude based on wind direction and groundspeed",
+        "Identify potential icing when temperatures are between +2°C and -20°C",
+        "Detect temperature inversions by comparing temps at adjacent altitudes",
+        "Anticipate turbulence where wind direction or speed changes abruptly between altitudes",
+        "FBs help with flight planning for fuel burn, ETEs, and weather avoidance"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Aviation Weather Forecasts",
+      "number": 12,
+      "question": "What are Center Weather Advisories (CWA)? (AC 00-45) A Center Weather Advisory (CWA) is an aviation warning for use by aircrews to anticipate and avoid adverse weather conditions in the en route and terminal environments. The CWA is not a flight planning product; instead it reflects current conditions expected at the time of issuance and/or is a short-range forecast for conditions expected to begin within 2 hours of issuance. CWAs are valid for a maximum of 2 hours. If conditions are expected to continue beyond the 2-hour valid period, a statement will be included in the CWA.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "CWA is an aviation warning for en route and terminal environments",
+        "Not a flight planning product — reflects current conditions at issuance",
+        "Short-range forecast for conditions expected to begin within 2 hours of issuance",
+        "Valid for a maximum of 2 hours",
+        "If conditions expected to continue beyond 2 hours, a statement will be included"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 1,
+      "question": "Give some examples of the various NWS weather charts you will used during preflight planning. (AC 00-45)",
+      "answer": "a. Surface analysis chart b. Weather depiction chart c. Short-range surface prognostic chart d. Significant weather prognostic chart e. Convective outlook chart f. Constant pressure analysis chart",
+      "references": [],
+      "key_reference_points": [
+        "Surface analysis chart — shows fronts, pressure systems, current conditions",
+        "Weather depiction chart — shows areas of IFR/VFR conditions",
+        "Short-range surface prognostic chart — 12-36 hour forecast",
+        "Significant weather prognostic chart — shows forecast weather hazards",
+        "Convective outlook chart — shows probability of thunderstorm activity",
+        "Constant pressure analysis chart — upper air data at specific pressure levels"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 2,
+      "question": "What is a surface analysis chart? (AC 00-45) Surface analysis charts are analyzed charts of surface weather observations. The chart depicts the distribution of several items including sea level pressure, the positions of highs, lows, ridges, troughs, the location and character of fronts, and the various boundaries such as drylines, outflow boundaries, sea-breeze fronts, and convergence lines. The chart is produced eight times daily.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Analyzed chart of surface weather observations",
+        "Depicts sea level pressure distribution",
+        "Shows positions of highs, lows, ridges, and troughs",
+        "Displays location and character of fronts",
+        "Shows boundaries: drylines, outflow boundaries, sea-breeze fronts, convergence lines",
+        "Produced eight times daily"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 3,
+      "question": "What information does a weather depiction chart provide? (AC 00-45) The weather depiction chart contains a plot of weather conditions at selected METAR stations and an analysis of weather flying category (VFR, MVFR, IFR). It is designed primarily as a briefing tool to alert aviation interests to the location of critical or near-critical operational minimums at terminals in the conterminous U.S. and surrounding land areas. The chart is issued eight times daily.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Plots weather conditions at selected METAR stations",
+        "Shows flight category analysis: VFR, MVFR, IFR",
+        "Designed to alert pilots to critical or near-critical operational minimums",
+        "Covers conterminous U.S. and surrounding land areas",
+        "Issued 8 times daily"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 4,
+      "question": "Define the terms: LIFR, IFR, MVFR and VFR. (AIM 7-1-6) LIFR Low IFR—ceiling less than 500 feet and/or visibility less than 1 mile. IFR Ceiling 500 to less than 1,000 feet and/or visibility 1 to less than 3 miles. MVFR Marginal VFR—ceiling 1,000 to 3,000 feet and/or visibility 3 to 5 miles inclusive. VFR Ceiling greater than 3,000 feet and visibility greater than 5 miles; includes sky clear.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "LIFR: Ceiling less than 500 feet and/or visibility less than 1 mile",
+        "IFR: Ceiling 500 to less than 1,000 feet and/or visibility 1 to less than 3 miles",
+        "MVFR: Ceiling 1,000 to 3,000 feet and/or visibility 3 to 5 miles inclusive",
+        "VFR: Ceiling greater than 3,000 feet and visibility greater than 5 miles",
+        "Sky clear conditions are included in VFR category"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 5,
+      "question": "What are short-range surface prognostic charts? (AC 00-45) Short-range surface prognostic (prog) charts provide a forecast of surface pressure systems, fronts and precipitation for a 2-1/2 day period. They cover a forecast area of the 48 contiguous states and coastal waters, and are prepared by the NWS Weather Prediction Center (and available on the AWC website). Predicted conditions are divided into five forecast periods: 12, 18, 24, 48 and 60 hours. Each chart depicts a snapshot of weather elements expected at the specified valid time. Charts are issued four times a day and can be used to obtain an overview of the progression of surface weather features during the included periods.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Forecasts surface pressure systems, fronts, and precipitation",
+        "Covers 2-1/2 day forecast period (60 hours)",
+        "Five forecast periods: 12, 18, 24, 48, and 60 hours",
+        "Covers 48 contiguous states and coastal waters",
+        "Issued 4 times daily",
+        "Prepared by NWS Weather Prediction Center, available on AWC website"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 6,
+      "question": "Describe a U.S. low-level significant weather prog chart. (AC 00-45) The low-level significant weather (SIGWX) charts provide a forecast of aviation weather hazards primarily intended to be used as guidance products for pre-flight briefings. The forecast domain covers the continental U.S. and the coastal waters for altitudes Flight Level 240 and below. Each depicts a “snapshot” of weather expected at the specified valid time. The charts depict weather flying categories, turbulence, and freezing levels, and are issued four times per day in two types: a 12-hour and a 24-hour prog.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Covers CONUS and coastal waters at FL240 and below",
+        "Depicts weather flying categories, turbulence, and freezing levels",
+        "Shows a 'snapshot' of expected weather at a specific valid time",
+        "Issued four times daily in two versions: 12-hour and 24-hour prog",
+        "Primary purpose is pre-flight briefing guidance for aviation weather hazards"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 7,
+      "question": "Describe a mid-level significant weather (SIGWX) chart. (AC 00-45) The mid-level significant weather chart provides a forecast and an overview of significant en route weather phenomena over a range of flight levels from 10,000 feet MSL to FL450, and associated surface weather features. The chart is a “snapshot” of weather expected at the specified valid time and depicts numerous weather elements that can be hazardous to aviation. The AWC issues the 24-hour mid-level significant weather chart four times daily.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Covers altitude range from 10,000 feet MSL to FL450",
+        "Provides forecast of significant en route weather phenomena",
+        "Shows associated surface weather features",
+        "Issued four times daily as a 24-hour forecast",
+        "Depicts weather elements hazardous to aviation as a 'snapshot' at valid time"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 8,
+      "question": "What is a convective outlook chart? (AC 00-45) The convective outlook chart depicts areas forecast to have the potential for severe (tornado, wind gusts 50 knots or greater, or hail 3⁄4 inch diameter size or greater) and non-severe (general) convection and specific severe weather threats during the following three days. The chart defines areas of slight risk (SLGT), moderate risk (MDT) or high risk (HIGH) of severe thunderstorms for a 24-hour period beginning at 1200 UTC. The Day 1 and Day 2 Convective Outlooks also depict areas of general thunderstorms (GEN TSTMS), while the Day 1, Day 2, and Day 3 Convective Outlooks may use SEE TEXT for areas where convection may approach or slightly exceed severe criteria.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Forecasts potential for severe and non-severe (general) convection for 3 days",
+        "Severe criteria: tornado, wind gusts ≥50 knots, or hail ≥3/4 inch diameter",
+        "Risk categories: SLGT (slight), MDT (moderate), HIGH (high risk)",
+        "24-hour period begins at 1200 UTC",
+        "Day 1 and Day 2 also depict general thunderstorms (GEN TSTMS)",
+        "SEE TEXT used when convection may approach or slightly exceed severe criteria"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 9,
+      "question": "What are constant pressure analysis charts? (AC 00-45) Any surface of equal pressure in the atmosphere is a constant pressure surface. A constant pressure analysis chart is an upper air weather map where all information depicted is at the specified pressure of the chart. From these charts, a pilot can approximate the observed air temperature, wind, and temperature-dewpoint spread along a proposed route. They also depict highs, lows, troughs, and ridges aloft by the height contour patterns resembling isobars on a surface map. Twice daily, five constant pressure charts are issued from observed data obtained at 00Z and 12Z: 850 mb—5,000 ft 700 mb—10,000 ft 500 mb—18,000 ft 300 mb—30,000 ft 200 mb—39,000 ft",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Constant pressure charts show upper air data at specific pressure altitudes",
+        "Five standard levels: 850mb (5,000ft), 700mb (10,000ft), 500mb (18,000ft), 300mb (30,000ft), 200mb (39,000ft)",
+        "Charts are issued twice daily based on 00Z and 12Z observations",
+        "Provide temperature, wind, and temperature-dewpoint spread information",
+        "Height contours show pressure patterns (highs, lows, troughs, ridges) similar to surface isobars"
+      ],
+      "exam_tip": "Be prepared to interpret and discuss current and forecast weather along your planned route of flight. The evaluator will want you to demonstrate that you can interpret the various aviation weather reports, forecasts, charts/graphics and make an assessment of how it will affect your planned flight."
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 1,
+      "question": "When evaluating the weather reports and forecasts during your pre- flight planning, what process will you use to make a go/no-go decision? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Use PAVE checklist: Pilot, Aircraft, enVironment, External pressures",
+        "Evaluate personal minimums against current/forecast conditions",
+        "Check ceiling and visibility against VFR requirements (1,000ft/3SM basic)",
+        "Assess winds, turbulence, icing, and thunderstorm potential",
+        "Consider alternate airports and contingency plans",
+        "Never let external pressures (get-there-itis) override safety judgment"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 2,
+      "question": "Decode the following pilot weather report (PIREP): (AIM 7-1-19) KCMH UA/OV KAPE 230010/TM 1516/FL085/TP BE20/SK BKN 065/WX FV03SM HZ FU/TA 20/TB LGT",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "UA = routine PIREP; UUA = urgent PIREP",
+        "OV = location (230° from APE at 10nm)",
+        "TM = time (1516Z), FL = flight level (8,500ft MSL)",
+        "TP = aircraft type (Beechcraft King Air 200)",
+        "SK = sky condition (broken at 6,500ft)",
+        "WX = flight visibility 3SM in haze and smoke, TA = temperature 20°C, TB = light turbulence"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 3,
+      "question": "Decode the following METAR and Terminal Aerodrome Forecast (TAF): (AIM 7-1-29) METAR KPIT 091955Z COR 22015G25KT 3/4SM R28L/2600FT TSRA OVC010CB 18/16 A2992 RMK SLP045 T01820159 TAF KPIT 091730Z 0918/1024 15005KT 5SM HZ FEW020 WS010/31022KT FM091930 30015G25KT 3SM SHRA OVC015 TEMPO 0920/0922 1/2SM +TSRA OVC008CB FM100100 27008KT 5SM SHRA BKN020 OVC040 PROB30 1004/1007 1SM RA BR FM101015 18005KT 6SM SHRA OVC020 BECMG 1013/1015 P6SM NSW SKC",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "METAR: KPIT = Pittsburgh; 091955Z = 9th day at 1955 Zulu; COR = corrected report",
+        "22015G25KT = wind from 220° at 15 knots gusting to 25 knots",
+        "3/4SM = 3/4 statute mile visibility; R28L/2600FT = Runway 28 Left RVR 2600 feet",
+        "TSRA OVC010CB = thunderstorm with rain, overcast at 1000 feet with cumulonimbus",
+        "TAF valid period 0918/1024 = 9th day 1800Z to 10th day 2400Z",
+        "FM = From (permanent change); TEMPO = temporary fluctuation; PROB30 = 30% probability; BECMG = gradual change"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 4,
+      "question": "What symbols are used to depict the following frontal systems on surface analysis charts? Cold, Warm, Stationary, Occluded. (AC 00-6)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Cold front: Blue line with triangular points/pips pointing in direction of movement",
+        "Warm front: Red line with semicircles pointing in direction of movement",
+        "Stationary front: Alternating blue triangles and red semicircles on opposite sides of line",
+        "Occluded front: Purple line with alternating triangles and semicircles on same side",
+        "All symbols point in the direction the front is moving (except stationary)"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 5,
+      "question": "What is a microburst? When and where are they most likely to occur? (AIM 7-1-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Microburst: Small-scale intense downdraft that spreads outward in all directions upon reaching the surface",
+        "Horizontal extent less than 4 km (2.2 NM); vertical extent typically less than 3000 feet AGL",
+        "Peak winds last 2-5 minutes; can produce headwind/tailwind shear of 45 knots or more",
+        "Most common with convective activity (thunderstorms), but can occur in light rain or virga (dry microbursts)",
+        "Greatest threat during takeoff and landing due to rapid airspeed changes and altitude loss",
+        "Associated with heavy rain shafts, virga, and cumulonimbus clouds"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 6,
+      "question": "What is a sea breeze, and why does it occur? (AC 00-6)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Sea breeze occurs during the day when land heats faster than water",
+        "Cool air flows from the sea toward the warmer land",
+        "Typically develops in the late morning and is strongest in the afternoon",
+        "Wind direction reverses at night (land breeze) as land cools faster than water",
+        "Sea breeze front can trigger convective activity and thunderstorms"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 7,
+      "question": "What is a mountain wave? (AC 00-6)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Mountain wave forms when stable air flows over a mountain ridge",
+        "Wind must be perpendicular to the ridge at 25 knots or greater at ridge top",
+        "Characterized by lenticular (lens-shaped) clouds that remain stationary",
+        "Rotor clouds may form below the wave and indicate severe turbulence",
+        "Can produce strong updrafts, downdrafts, and severe turbulence",
+        "Cap cloud may form over the mountain peak"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 8,
+      "question": "Define the term “ceiling.” (AC 00-6)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Ceiling is the height AGL of the lowest layer of clouds reported as broken or overcast",
+        "Also includes vertical visibility into an obscuration (e.g., fog, smoke)",
+        "Scattered or few cloud layers do NOT constitute a ceiling",
+        "Broken = 5/8 to 7/8 sky coverage; Overcast = 8/8 sky coverage",
+        "Reported in METAR as BKN or OVC with height in hundreds of feet AGL"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 9,
+      "question": "Give some examples of charts and reports useful in determining the potential for and location of thunderstorms along your route. (AC 00-45)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Convective Outlook Charts (AC) show areas of possible thunderstorm activity for Day 1, 2, and 3",
+        "Radar Summary Charts display precipitation intensity and cell movement",
+        "Surface Analysis Charts show frontal positions where thunderstorms commonly develop",
+        "AIRMETs (Sierra, Tango, Zulu) and SIGMETs warn of convective activity",
+        "Convective SIGMETs specifically address severe thunderstorms, lines of thunderstorms, and embedded thunderstorms",
+        "Area Forecasts (FA) and Graphical Forecasts for Aviation (GFA) depict thunderstorm potential"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 10,
+      "question": "If your destination has no Terminal Forecast, which primary source of information should be referenced for forecasted weather at the estimated time of arrival? (AC 00-45)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Area Forecast (FA) or Graphical Forecasts for Aviation (GFA) covers areas without TAFs",
+        "GFA provides forecast information out to 18 hours including ceiling, visibility, and weather",
+        "METARs from nearby airports can supplement forecast information",
+        "Pilot reports (PIREPs) provide real-time weather observations along your route",
+        "Flight Service Station (FSS) briefing can provide interpolated forecasts for non-TAF locations"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 11,
+      "question": "How can a pilot reduce or eliminate the risks associated with flying in a constantly changing weather environment? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Obtain a thorough preflight weather briefing from FSS or approved sources",
+        "Establish personal minimums that exceed regulatory requirements",
+        "Have alternate plans and escape routes identified before departure",
+        "Maintain situational awareness by continuously monitoring weather in flight",
+        "Use the PAVE checklist (Pilot, Aircraft, enVironment, External pressures) for risk assessment",
+        "Be willing to divert, delay, or cancel the flight when conditions deteriorate"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 12,
+      "question": "One way to control risk is to set personal minimums. What personal weather minimums would you establish for yourself? (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Personal minimums should be higher than regulatory minimums, especially for new private pilots",
+        "Consider ceiling minimums (e.g., 3,000 ft AGL minimum vs. VFR requirement of 1,000 ft)",
+        "Consider visibility minimums (e.g., 5 SM minimum vs. VFR requirement of 3 SM)",
+        "Consider crosswind component limits based on demonstrated crosswind ability",
+        "Personal minimums should account for pilot currency, experience, and proficiency",
+        "Minimums should be adjusted based on aircraft familiarity and airport complexity"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Aviation Weather Charts",
+      "number": 13,
+      "question": "When considering the possibility that the weather may be different than what was forecast, what can you do before departure and while en route to reduce the overall risk? (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Obtain multiple weather briefings from FSS, online sources, and AWOS/ASOS",
+        "Identify alternate airports along the route before departure",
+        "Establish go/no-go decision points and personal minimums in advance",
+        "Monitor weather en route via Flight Watch (122.0), HIWAS, or ATC flight following",
+        "Have a predetermined turnaround point if weather deteriorates",
+        "File a flight plan and maintain communication with ATC or FSS for updated weather"
+      ]
+    }
+  ]
+}

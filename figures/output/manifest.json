@@ -1,0 +1,912 @@
+{
+  "version": 1,
+  "docId": "sport-rec-private-akts",
+  "generatedAt": "2026-02-18T23:32:55.590Z",
+  "pageCount": 113,
+  "pages": [
+    {
+      "page": 1,
+      "type": "svg",
+      "path": "pages/001.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 8094396
+    },
+    {
+      "page": 2,
+      "type": "svg",
+      "path": "pages/002.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 89
+    },
+    {
+      "page": 3,
+      "type": "svg",
+      "path": "pages/003.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 109193
+    },
+    {
+      "page": 4,
+      "type": "svg",
+      "path": "pages/004.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 307
+    },
+    {
+      "page": 5,
+      "type": "svg",
+      "path": "pages/005.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 105322
+    },
+    {
+      "page": 6,
+      "type": "svg",
+      "path": "pages/006.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 385
+    },
+    {
+      "page": 7,
+      "type": "svg",
+      "path": "pages/007.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 371344
+    },
+    {
+      "page": 8,
+      "type": "svg",
+      "path": "pages/008.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 408143
+    },
+    {
+      "page": 9,
+      "type": "svg",
+      "path": "pages/009.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 57302
+    },
+    {
+      "page": 10,
+      "type": "svg",
+      "path": "pages/010.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 475
+    },
+    {
+      "page": 11,
+      "type": "svg",
+      "path": "pages/011.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 16587
+    },
+    {
+      "page": 12,
+      "type": "svg",
+      "path": "pages/012.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 89
+    },
+    {
+      "page": 13,
+      "type": "svg",
+      "path": "pages/013.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 509447
+    },
+    {
+      "page": 14,
+      "type": "svg",
+      "path": "pages/014.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2331741
+    },
+    {
+      "page": 15,
+      "type": "svg",
+      "path": "pages/015.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1512047
+    },
+    {
+      "page": 16,
+      "type": "svg",
+      "path": "pages/016.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2619763
+    },
+    {
+      "page": 17,
+      "type": "svg",
+      "path": "pages/017.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2269253
+    },
+    {
+      "page": 18,
+      "type": "svg",
+      "path": "pages/018.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1961966
+    },
+    {
+      "page": 19,
+      "type": "svg",
+      "path": "pages/019.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2225463
+    },
+    {
+      "page": 20,
+      "type": "svg",
+      "path": "pages/020.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2297574
+    },
+    {
+      "page": 21,
+      "type": "svg",
+      "path": "pages/021.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2369036
+    },
+    {
+      "page": 22,
+      "type": "svg",
+      "path": "pages/022.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1820207
+    },
+    {
+      "page": 23,
+      "type": "svg",
+      "path": "pages/023.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1460043
+    },
+    {
+      "page": 24,
+      "type": "svg",
+      "path": "pages/024.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2131675
+    },
+    {
+      "page": 25,
+      "type": "svg",
+      "path": "pages/025.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2693109
+    },
+    {
+      "page": 26,
+      "type": "svg",
+      "path": "pages/026.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2549503
+    },
+    {
+      "page": 27,
+      "type": "svg",
+      "path": "pages/027.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2207409
+    },
+    {
+      "page": 28,
+      "type": "svg",
+      "path": "pages/028.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1569369
+    },
+    {
+      "page": 29,
+      "type": "svg",
+      "path": "pages/029.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1051323
+    },
+    {
+      "page": 30,
+      "type": "svg",
+      "path": "pages/030.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1857546
+    },
+    {
+      "page": 31,
+      "type": "svg",
+      "path": "pages/031.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1621612
+    },
+    {
+      "page": 32,
+      "type": "svg",
+      "path": "pages/032.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 3349
+    },
+    {
+      "page": 33,
+      "type": "svg",
+      "path": "pages/033.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 17869
+    },
+    {
+      "page": 34,
+      "type": "svg",
+      "path": "pages/034.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 89
+    },
+    {
+      "page": 35,
+      "type": "svg",
+      "path": "pages/035.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 45127
+    },
+    {
+      "page": 36,
+      "type": "svg",
+      "path": "pages/036.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 80853
+    },
+    {
+      "page": 37,
+      "type": "svg",
+      "path": "pages/037.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 783048
+    },
+    {
+      "page": 38,
+      "type": "svg",
+      "path": "pages/038.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 129521
+    },
+    {
+      "page": 39,
+      "type": "svg",
+      "path": "pages/039.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 241730
+    },
+    {
+      "page": 40,
+      "type": "svg",
+      "path": "pages/040.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 269294
+    },
+    {
+      "page": 41,
+      "type": "svg",
+      "path": "pages/041.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 284856
+    },
+    {
+      "page": 42,
+      "type": "svg",
+      "path": "pages/042.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1188355
+    },
+    {
+      "page": 43,
+      "type": "svg",
+      "path": "pages/043.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 186733
+    },
+    {
+      "page": 44,
+      "type": "svg",
+      "path": "pages/044.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 709468
+    },
+    {
+      "page": 45,
+      "type": "svg",
+      "path": "pages/045.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 9279261
+    },
+    {
+      "page": 46,
+      "type": "svg",
+      "path": "pages/046.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 46414
+    },
+    {
+      "page": 47,
+      "type": "svg",
+      "path": "pages/047.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1125317
+    },
+    {
+      "page": 48,
+      "type": "svg",
+      "path": "pages/048.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 27043
+    },
+    {
+      "page": 49,
+      "type": "svg",
+      "path": "pages/049.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 52095
+    },
+    {
+      "page": 50,
+      "type": "svg",
+      "path": "pages/050.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 76674
+    },
+    {
+      "page": 51,
+      "type": "svg",
+      "path": "pages/051.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1593452
+    },
+    {
+      "page": 52,
+      "type": "svg",
+      "path": "pages/052.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1358867
+    },
+    {
+      "page": 53,
+      "type": "svg",
+      "path": "pages/053.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 9539387
+    },
+    {
+      "page": 54,
+      "type": "svg",
+      "path": "pages/054.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 9023428
+    },
+    {
+      "page": 55,
+      "type": "svg",
+      "path": "pages/055.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 12528255
+    },
+    {
+      "page": 56,
+      "type": "svg",
+      "path": "pages/056.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 11521535
+    },
+    {
+      "page": 57,
+      "type": "svg",
+      "path": "pages/057.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 10106983
+    },
+    {
+      "page": 58,
+      "type": "svg",
+      "path": "pages/058.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 11115558
+    },
+    {
+      "page": 59,
+      "type": "svg",
+      "path": "pages/059.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 9561258
+    },
+    {
+      "page": 60,
+      "type": "svg",
+      "path": "pages/060.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2565861
+    },
+    {
+      "page": 61,
+      "type": "svg",
+      "path": "pages/061.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1720644
+    },
+    {
+      "page": 62,
+      "type": "svg",
+      "path": "pages/062.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1901728
+    },
+    {
+      "page": 63,
+      "type": "svg",
+      "path": "pages/063.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 266570
+    },
+    {
+      "page": 64,
+      "type": "svg",
+      "path": "pages/064.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 336140
+    },
+    {
+      "page": 65,
+      "type": "svg",
+      "path": "pages/065.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 633400
+    },
+    {
+      "page": 66,
+      "type": "svg",
+      "path": "pages/066.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 215879
+    },
+    {
+      "page": 67,
+      "type": "svg",
+      "path": "pages/067.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1235016
+    },
+    {
+      "page": 68,
+      "type": "svg",
+      "path": "pages/068.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 478224
+    },
+    {
+      "page": 69,
+      "type": "svg",
+      "path": "pages/069.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 97721
+    },
+    {
+      "page": 70,
+      "type": "svg",
+      "path": "pages/070.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1882290
+    },
+    {
+      "page": 71,
+      "type": "svg",
+      "path": "pages/071.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 506935
+    },
+    {
+      "page": 72,
+      "type": "svg",
+      "path": "pages/072.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 81352
+    },
+    {
+      "page": 73,
+      "type": "svg",
+      "path": "pages/073.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2514308
+    },
+    {
+      "page": 74,
+      "type": "svg",
+      "path": "pages/074.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 88639
+    },
+    {
+      "page": 75,
+      "type": "svg",
+      "path": "pages/075.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1465934
+    },
+    {
+      "page": 76,
+      "type": "svg",
+      "path": "pages/076.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1436150
+    },
+    {
+      "page": 77,
+      "type": "svg",
+      "path": "pages/077.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 112694
+    },
+    {
+      "page": 78,
+      "type": "svg",
+      "path": "pages/078.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 325074
+    },
+    {
+      "page": 79,
+      "type": "svg",
+      "path": "pages/079.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 324928
+    },
+    {
+      "page": 80,
+      "type": "svg",
+      "path": "pages/080.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 33228
+    },
+    {
+      "page": 81,
+      "type": "svg",
+      "path": "pages/081.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 181987
+    },
+    {
+      "page": 82,
+      "type": "svg",
+      "path": "pages/082.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 110604
+    },
+    {
+      "page": 83,
+      "type": "svg",
+      "path": "pages/083.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1877504
+    },
+    {
+      "page": 84,
+      "type": "svg",
+      "path": "pages/084.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 204469
+    },
+    {
+      "page": 85,
+      "type": "svg",
+      "path": "pages/085.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 212657
+    },
+    {
+      "page": 86,
+      "type": "svg",
+      "path": "pages/086.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 3382728
+    },
+    {
+      "page": 87,
+      "type": "svg",
+      "path": "pages/087.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 450606
+    },
+    {
+      "page": 88,
+      "type": "svg",
+      "path": "pages/088.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1565134
+    },
+    {
+      "page": 89,
+      "type": "svg",
+      "path": "pages/089.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 44878
+    },
+    {
+      "page": 90,
+      "type": "svg",
+      "path": "pages/090.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 11670157
+    },
+    {
+      "page": 91,
+      "type": "svg",
+      "path": "pages/091.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 173471
+    },
+    {
+      "page": 92,
+      "type": "svg",
+      "path": "pages/092.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 141015
+    },
+    {
+      "page": 93,
+      "type": "svg",
+      "path": "pages/093.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1051149
+    },
+    {
+      "page": 94,
+      "type": "svg",
+      "path": "pages/094.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 2148642
+    },
+    {
+      "page": 95,
+      "type": "svg",
+      "path": "pages/095.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 154889
+    },
+    {
+      "page": 96,
+      "type": "svg",
+      "path": "pages/096.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 169932
+    },
+    {
+      "page": 97,
+      "type": "svg",
+      "path": "pages/097.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 317378
+    },
+    {
+      "page": 98,
+      "type": "svg",
+      "path": "pages/098.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 355658
+    },
+    {
+      "page": 99,
+      "type": "svg",
+      "path": "pages/099.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 367039
+    },
+    {
+      "page": 100,
+      "type": "svg",
+      "path": "pages/100.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 10804727
+    },
+    {
+      "page": 101,
+      "type": "svg",
+      "path": "pages/101.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 12064822
+    },
+    {
+      "page": 102,
+      "type": "svg",
+      "path": "pages/102.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 11549371
+    },
+    {
+      "page": 103,
+      "type": "svg",
+      "path": "pages/103.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 312575
+    },
+    {
+      "page": 104,
+      "type": "svg",
+      "path": "pages/104.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1215533
+    },
+    {
+      "page": 105,
+      "type": "svg",
+      "path": "pages/105.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 12568527
+    },
+    {
+      "page": 106,
+      "type": "svg",
+      "path": "pages/106.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 12129027
+    },
+    {
+      "page": 107,
+      "type": "svg",
+      "path": "pages/107.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 10517750
+    },
+    {
+      "page": 108,
+      "type": "svg",
+      "path": "pages/108.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 471100
+    },
+    {
+      "page": 109,
+      "type": "svg",
+      "path": "pages/109.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 9969689
+    },
+    {
+      "page": 110,
+      "type": "svg",
+      "path": "pages/110.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 543509
+    },
+    {
+      "page": 111,
+      "type": "svg",
+      "path": "pages/111.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 11775477
+    },
+    {
+      "page": 112,
+      "type": "svg",
+      "path": "pages/112.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 418134
+    },
+    {
+      "page": 113,
+      "type": "svg",
+      "path": "pages/113.svg",
+      "width": 594,
+      "height": 774,
+      "bytes": 1137785
+    }
+  ]
+}

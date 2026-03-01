@@ -1,0 +1,877 @@
+{
+  "chapter": 2,
+  "title": "Airworthiness Requirements",
+  "questions": [
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 1,
+      "question": "What documents are required on board an aircraft prior to flight? (14 CFR 91.203, 91.9) A irworthiness Certificate (14 CFR 91.203) R egistration Certificate (14 CFR 91.203) R adio Station License (if operating outside of U.S.; an FCC regulation) O perating Limitations—AFM/POH and supplements, placards, markings (14 CFR 91.9) W eight and balance data (current) Compass Deviation Card (14 CFR 23.1547) External Data Plate/Serial Number",
+      "answer": "",
+      "references": [
+        "14 CFR 91.203, 91.9",
+        "14 CFR 91.203",
+        "14 CFR 91.203",
+        "14 CFR 91.9",
+        "14 CFR 23.1547",
+        "14 CFR 45.11"
+      ],
+      "key_reference_points": [
+        "ARROW mnemonic: Airworthiness certificate, Registration, Radio station license (international flights only), Operating limitations (AFM/POH), Weight and balance data",
+        "Airworthiness certificate must be displayed so it is visible to passengers/crew",
+        "Registration certificate must be current (valid for 7 years) and carried on board",
+        "Radio station license required only when operating outside the U.S.",
+        "Operating limitations include AFM/POH, supplements, placards, and cockpit markings",
+        "Compass deviation card required per 14 CFR 23.1547"
+      ],
+      "exam_tip": "During the practical test your evaluator may wish to examine the various required aircraft documents (ARROW) during the preflight inspection, as well as the currency of any aeronautical charts, EFB data, etc. on board the aircraft. Prior to the test, verify that all of the necessary aircraft documentation, on-board databases and charts are current and available."
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 2,
+      "question": "What is an airworthiness certificate? (FAA-H-8083-25) An airworthiness certificate is issued by the FAA to an aircraft that has been proven to meet the minimum design and manufacturing requirements and is condition for safe operation. Under any circumstances, the aircraft must meet the requirements of the original type certificate or it is no longer airworthy. These certificates come in two different classifications: standard airworthiness and special airworthiness.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Airworthiness certificate is issued by FAA when aircraft meets minimum design/manufacturing standards",
+        "Certificate confirms aircraft is in condition for safe operation",
+        "Aircraft must continue to meet original type certificate requirements to remain airworthy",
+        "Two classifications: Standard Airworthiness and Special Airworthiness",
+        "Certificate remains valid as long as aircraft meets maintenance and inspection requirements"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 3,
+      "question": "What is the difference between standard and special airworthiness certificates? (FAA-H-8083-25) Standard airworthiness certificates (white paper) are issued for normal, utility, acrobatic, commuter, or transport category aircraft. Special airworthiness certificates (pink paper) are issued for primary, restricted, or limited category aircraft, and light sport aircraft.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard airworthiness certificate is printed on WHITE paper",
+        "Standard certificates issued for: Normal, Utility, Acrobatic, Commuter, Transport categories",
+        "Special airworthiness certificate is printed on PINK paper",
+        "Special certificates issued for: Primary, Restricted, Limited, and Light Sport Aircraft (LSA)",
+        "Standard certificate has no expiration date if aircraft is properly maintained"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 4,
+      "question": "What is an experimental airworthiness certificate? (FAA-H-8083-25) A special airworthiness certificate in the experimental category is issued to operate an aircraft that does not have a type certificate or does not conform to its type certificate yet is in a condition for safe operation. Additionally, this certificate is issued to operate a primary category kit-built aircraft that was assembled without the supervision and quality control of the production certificate holder.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Experimental certificate is a type of special airworthiness certificate",
+        "Issued for aircraft without a type certificate or not conforming to type certificate",
+        "Aircraft must still be in condition for safe operation",
+        "Also issued for primary category kit-built aircraft assembled without production certificate holder supervision",
+        "Operating limitations are specific to each experimental aircraft"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 5,
+      "question": "Does an airworthiness certificate have an expiration date? (FAA-H- 8083-25) No. A standard airworthiness certificate remains valid for as long as the aircraft meets its approved type design, is in a condition for safe operation, and the maintenance, preventative maintenance, and alterations are performed in accordance with 14 CFR Parts 21, 43, and 91.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard airworthiness certificate does NOT expire",
+        "Remains valid as long as aircraft meets approved type design",
+        "Aircraft must be maintained in condition for safe operation",
+        "Maintenance must comply with 14 CFR Parts 21, 43, and 91",
+        "Validity depends on proper maintenance, preventive maintenance, and alterations"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 6,
+      "question": "Where must the airworthiness certificate be located? (14 CFR 91.203, FAA-H-8083-19) The certificate must be displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.203, FAA-H-8083-19"
+      ],
+      "key_reference_points": [
+        "Must be displayed at cabin or cockpit entrance",
+        "Must be legible to passengers or crew",
+        "Required by 14 CFR 91.203",
+        "Part of required aircraft documents (ARROW: Airworthiness, Registration, Radio license, Operating limitations, Weight & balance)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 7,
+      "question": "For an aircraft to be considered airworthy, what two conditions must be met? (FAA-H-8083-19)",
+      "answer": "a. The aircraft must conform to its type design (type certificate). This is attained when the required and proper components are installed consistent with the drawings, specifications, and other data that are part of the type certificate. Conformity includes applicable supplemental type certificate(s) (STC) and field-approval alterations. b. The aircraft must be in a condition for safe operation, referring to the condition of the aircraft in relation to wear and deterioration.",
+      "references": [],
+      "key_reference_points": [
+        "Aircraft must conform to its Type Certificate (TC) design",
+        "Conformity includes proper components installed per drawings and specifications",
+        "Supplemental Type Certificates (STCs) and field-approved alterations must also conform",
+        "Aircraft must be in condition for safe operation",
+        "Safe operation condition refers to wear and deterioration status",
+        "Both conditions must be met simultaneously for airworthiness"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 8,
+      "question": "Explain how a pilot determines if an aircraft conforms to its approved type design and is in a condition for safe operation.",
+      "answer": "a. For type design, a pilot must determine that the maintenance, preventive maintenance, and alterations have been performed in accordance 14 CFR Parts 21, 43, and 91 and that the aircraft is registered in the U.S. The pilot does this by ensuring that all required inspections, maintenance, preventive maintenance, repairs and alterations have been appropriately documented in the aircraft’s maintenance records. b. For safe operation, the pilot conducts a thorough preflight inspection of the aircraft for wear and deterioration, structural damage, fluid leaks, tire wear, inoperative instruments and equipment, etc. If an unsafe condition exists or inoperative instruments or equipment are found, the pilot uses the guidance in 14 CFR 91.213 for handling the inoperative equipment.",
+      "references": [
+        "14 CFR Part 21"
+      ],
+      "key_reference_points": [
+        "Type design conformity verified through maintenance records per 14 CFR Parts 21, 43, and 91",
+        "Aircraft must be registered in the United States",
+        "All inspections, maintenance, repairs, and alterations must be documented in maintenance records",
+        "Safe operation determined through thorough preflight inspection",
+        "Check for wear, deterioration, structural damage, fluid leaks, tire wear, and inoperative equipment",
+        "Use 14 CFR 91.213 for guidance on handling inoperative instruments or equipment"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 9,
+      "question": "What records or documents should be checked to determine that the owner or operator of an aircraft has complied with all required inspections and airworthiness directives? (14 CFR 91.405) The maintenance records (aircraft and engine logbooks). Each owner or operator of an aircraft shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.405"
+      ],
+      "key_reference_points": [
+        "Check aircraft and engine logbooks for compliance",
+        "14 CFR 91.405 requires owners/operators to ensure proper maintenance record entries",
+        "Maintenance personnel must make entries indicating aircraft approved for return to service",
+        "Records must show compliance with required inspections (annual, 100-hour, etc.)",
+        "Airworthiness Directive (AD) compliance must be documented in maintenance records"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 10,
+      "question": "Who is responsible for ensuring that an aircraft is maintained in an airworthy condition? (14 CFR 91.403) The owner or operator of an aircraft is primarily responsible for maintaining an aircraft in an airworthy condition.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.403"
+      ],
+      "key_reference_points": [
+        "14 CFR 91.403 assigns primary responsibility to the owner or operator",
+        "Responsibility includes maintaining aircraft in airworthy condition",
+        "Owner/operator must ensure all required inspections are performed",
+        "Responsibility cannot be delegated even if maintenance is performed by others"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 11,
+      "question": "Describe some of the responsibilities an aircraft owner has pertaining to aircraft documents, maintenance, and inspections of their aircraft? (FAA-H-8083-25) Aircraft owners must:",
+      "answer": "a. Have a current airworthiness certificate and aircraft registration in the aircraft. b. Maintain the aircraft in an airworthy condition including compliance with all applicable Airworthiness Directives. c. Ensure maintenance is properly recorded. d. Keep abreast of current regulations concerning the operation of that aircraft. e. Notify the FAA Civil Aviation Registry immediately of any change of permanent mailing address, or of the sale or export of the aircraft, or of the loss of citizenship. f. Have a current FCC radio station license if equipped with radios, including emergency locator transmitter (ELT), if operated outside of the United States.",
+      "references": [],
+      "key_reference_points": [
+        "Must display current airworthiness certificate and registration in aircraft",
+        "Must comply with all applicable Airworthiness Directives (ADs)",
+        "Must ensure all maintenance is properly recorded in aircraft logs",
+        "Must notify FAA Civil Aviation Registry of address changes, sale, export, or loss of citizenship",
+        "FCC radio station license required if operating outside U.S. with radios or ELT",
+        "Must stay current on regulations applicable to their aircraft"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 12,
+      "question": "What are “airworthiness directives”? (FAA-H-8083-25) An airworthiness directive (AD) is the medium by which the FAA notifies aircraft owners and other potentially interested persons of unsafe conditions that may exist because of design defects, maintenance, or other causes, and specifies the conditions under which the product may continue to be operated. ADs are regulatory in nature, and compliance is mandatory. It is the aircraft owner’s or operator’s responsibility to ensure compliance with all pertinent ADs.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "ADs are FAA notifications of unsafe conditions in aircraft",
+        "ADs are regulatory and compliance is MANDATORY",
+        "Unsafe conditions may result from design defects, maintenance, or other causes",
+        "Owner/operator is responsible for ensuring compliance with all pertinent ADs",
+        "ADs specify conditions under which aircraft may continue to operate",
+        "Non-compliance with an AD renders the aircraft unairworthy"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 13,
+      "question": "What are the two types of ADs? (FAA-H-8083-19) ADs are divided into two categories: Those of an emergency nature requiring immediate compliance prior to further flight, and those of a less urgent nature requiring compliance within a specified period of time.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Two categories of ADs: Emergency and Less Urgent",
+        "Emergency ADs require immediate compliance BEFORE further flight",
+        "Less urgent ADs allow compliance within a specified time period",
+        "ADs are legally binding and mandatory for continued airworthiness",
+        "ADs address unsafe conditions discovered after certification"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 14,
+      "question": "When are emergency ADs issued? (FAA-H-8083-19) An emergency AD is issued when an unsafe condition exists that requires immediate action by an owner/operator. The intent of an emergency AD is to rapidly correct an urgent safety-of-flight situation. All known owners and operators of affected U.S.-registered aircraft or those aircraft that have an affected product installed will be sent a copy of an emergency AD.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Emergency ADs are issued when unsafe conditions require IMMEDIATE action",
+        "Purpose is to rapidly correct urgent safety-of-flight situations",
+        "FAA sends copies directly to all known owners/operators of affected U.S.-registered aircraft",
+        "Applies to aircraft with affected products installed",
+        "No further flight permitted until emergency AD compliance is completed"
+      ],
+      "exam_tip": "ADs and recurring ADs—Be capable of finding and explaining the status of all ADs and recurring ADs that exist for your aircraft. Locate and tab prior to the practical test."
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 15,
+      "question": "What is a type certificate data sheet? (FAA-H-8083-30) The FAA issues a type certificate when a new aircraft, engine, propeller, etc., is found to meet safety standards set forth by the FAA. The type certificate data sheet (TCDS) lists the specifications, conditions and limitations under which airworthiness requirements were met for the specified product, such as engine make and model, fuel type, engine limits, airspeed limits, maximum weight, minimum crew, etc.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "TCDS is issued when new aircraft/engine/propeller meets FAA safety standards",
+        "Lists specifications, conditions, and limitations for airworthiness",
+        "Contains: engine make/model, fuel type, engine limits, airspeed limits",
+        "Also includes: maximum weight and minimum crew requirements",
+        "TCDS defines the approved configuration and operating limitations for the aircraft type"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 16,
+      "question": "What is a supplemental type certificate? (FAA-H-8083-3, FAA-H- 8083-30, AC 21-40) A supplemental type certificate (STC) is the FAA’s approval of a major change in the type design of a previously approved type certificated product. The certificate authorizes an alteration to an airframe, engine, or component that has been granted an approved type certificate. Sometimes alterations are made that are not specified or authorized in the TCDS. When that condition exists, an STC will be issued. STCs are considered a part of the permanent records of an aircraft, and should be maintained as part of that aircraft’s logs.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-3, FAA-H- 8083-30, AC 21-40"
+      ],
+      "key_reference_points": [
+        "STC is FAA approval for a major change to a type certificated product",
+        "Authorizes alterations to airframe, engine, or component not in original TCDS",
+        "Issued when modifications exceed what's specified in Type Certificate Data Sheet",
+        "STCs are permanent aircraft records and must be maintained with aircraft logs",
+        "STC becomes part of the aircraft's official documentation"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 17,
+      "question": "What is an aircraft registration certificate? (FAA-H-8083-25) Before an aircraft can be flown legally, it must be registered with the FAA Aircraft Registry. The Certificate of Aircraft Registration, which is issued to the owner as evidence of the registration, must be carried in the aircraft at all times.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Aircraft must be registered with FAA Aircraft Registry before legal flight",
+        "Certificate of Aircraft Registration proves ownership/registration",
+        "Registration certificate must be carried in the aircraft at all times",
+        "Part of required documents (ARROW - R is for Registration)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 18,
+      "question": "Does an aircraft’s registration certificate have an expiration date? (14 CFR 47.31, 47.40) Yes. A Certificate of Aircraft Registration issued in accordance with 14 CFR §47.31 expires three years after the last day of the month in which it was issued. A temporary certification of registration is valid for no more than 90 days after the date the applicant signs the application.",
+      "answer": "",
+      "references": [
+        "14 CFR 47.31, 47.40"
+      ],
+      "key_reference_points": [
+        "Registration certificate expires 3 years after last day of month issued",
+        "Temporary registration is valid for no more than 90 days",
+        "90-day period begins when applicant signs the application",
+        "Referenced in 14 CFR 47.31 and 47.40",
+        "Must renew before expiration to maintain legal flight status"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 19,
+      "question": "Where can you find information on the placards and marking information required to be in the airplane? (FAA-H-8083-25, AC 60-6, 14 CFR 91.9, 14 CFR 23.1541) The principle source of information for identifying the required Airplane Flight Manuals, approved manual materials, markings, and placards is the FAA type certificate data sheet or aircraft specification issued for each airplane eligible for an airworthiness certificate. The required placards are also reproduced in the “Limitations” section of the AFM or as directed by an AD.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, AC 60-6, 14 CFR 91.9, 14 CFR 23.1541"
+      ],
+      "key_reference_points": [
+        "FAA Type Certificate Data Sheet (TCDS) is the primary source for required placards and markings",
+        "Aircraft specifications list required manuals, markings, and placards for airworthiness",
+        "Required placards are reproduced in the 'Limitations' section of the AFM/POH",
+        "Airworthiness Directives (ADs) may direct additional required placards",
+        "14 CFR 91.9 requires compliance with operating limitations including placards"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft Certificates and Documents",
+      "number": 20,
+      "question": "What are several examples of placards and markings required in the airplane? (14 CFR 23.1545 through 23.1567) Placards—Day-Night-VFR-IFR placard, “Flight Maneuvers Permitted” placard, “Caution Control Lock Remove before Starting,” “Maneuvering Speed,” “Compass Calibration Card,” etc. Markings—Airspeed indicator markings, cockpit control markings, fuel, oil, and coolant filler openings, etc.",
+      "answer": "",
+      "references": [
+        "14 CFR 23.1545 through 23.1567"
+      ],
+      "key_reference_points": [
+        "Day/Night/VFR/IFR operations placard indicates approved flight conditions",
+        "Maneuvering speed (Va) placard required and varies with weight",
+        "Compass calibration card must show deviation corrections",
+        "Airspeed indicator markings: white arc (flaps), green arc (normal), yellow arc (caution), red line (Vne)",
+        "Fuel filler openings must be marked with fuel type and grade",
+        "Control lock removal warning placards required when control locks are installed"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 1,
+      "question": "What are the required tests and inspections to be performed on an aircraft? Include inspections for IFR. (14 CFR 91.409, 91.171, 91.411, 91.413, 91.207) A Annual inspection within the preceding 12 calendar months (14 CFR 91.409) A Airworthiness directives and life-limited parts complied with, as required (14 CFR 91.403, 91.417) V VOR equipment check every 30 days (for IFR ops) (14 CFR 91.171) 1 100-hour inspection, if used for hire or flight instruction in aircraft CFI provides (14 CFR 91.409) A Altimeter, altitude reporting equipment, and static pressure systems tested and inspected (for IFR ops) every 24 calendar months (14 CFR 91.411) T Transponder tests and inspections, every 24 calendar months (14 CFR 91.413) E Emergency locator transmitter, operation and battery condition inspected every 12 calendar months",
+      "answer": "",
+      "references": [
+        "14 CFR 91.409, 91.171, 91.411, 91.413, 91.207",
+        "14 CFR 91.409",
+        "14 CFR 91.403, 91.417",
+        "14 CFR 91.171",
+        "14 CFR 91.409",
+        "14 CFR 91.411",
+        "14 CFR 91.413",
+        "14 CFR 91.207"
+      ],
+      "key_reference_points": [
+        "Annual inspection required every 12 calendar months (91.409)",
+        "100-hour inspection required for aircraft used for hire or flight instruction for compensation (91.409)",
+        "VOR check required every 30 days for IFR operations (91.171)",
+        "Transponder inspection required every 24 calendar months (91.413)",
+        "Altimeter/static system check required every 24 calendar months for IFR (91.411)",
+        "ELT inspection required every 12 calendar months; battery replacement per 91.207"
+      ],
+      "exam_tip": "Be prepared to locate all of the required inspections, ADs, life- limited parts, etc. in the aircraft and engine logbooks and be able to determine when the next inspections are due. Create an aircraft status sheet that indicates the status of all required inspections, ADs, life limited, parts, etc. and/or use post-it notes to tab the specific pages in the aircraft and engine logbooks. Write the due date of the next inspection on the post-it note."
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 2,
+      "question": "What is an “annual” inspection and which aircraft are required to have annual inspections? (FAA-H-8083-25) An annual inspection is a complete inspection of an aircraft and engine, required by the regulations and is required to be accomplished every 12 calendar months on all certificated aircraft. Only an A&P technician holding an Inspection Authorization can conduct an annual inspection.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Annual inspection required every 12 calendar months",
+        "Required for ALL certificated aircraft",
+        "Only an A&P technician with Inspection Authorization (IA) can perform annual inspections",
+        "It is a complete inspection of aircraft and engine",
+        "Calendar month means the inspection expires at the end of the 12th month"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 3,
+      "question": "What aircraft are required to have 100-hour inspections?",
+      "answer": "a. All aircraft under 12,500 pounds (except turbojet/ turbopropeller- powered multi-engine airplanes and turbine powered rotorcraft), used to carry passengers for hire. b. Aircraft used for flight instruction for hire, when provided by the person giving the flight instruction.",
+      "references": [
+        "FAA-H- 8083-25, 14 CFR 91.409"
+      ],
+      "key_reference_points": [
+        "Required for aircraft under 12,500 lbs used to carry passengers for hire",
+        "Required for aircraft used for flight instruction for hire",
+        "Excludes turbojet/turbopropeller multi-engine airplanes",
+        "Excludes turbine-powered rotorcraft",
+        "The person providing flight instruction must also be providing the aircraft",
+        "Reference: 14 CFR 91.409"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 4,
+      "question": "If an aircraft is operated for hire, is it required to have a 100-hour inspection as well as an annual inspection? (14 CFR 91.409) Yes, if an aircraft is operated for hire it must have a 100-hour inspection as well as an annual inspection when due. If not operated for hire, only an annual inspection is required.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.409"
+      ],
+      "key_reference_points": [
+        "Aircraft operated for hire require BOTH 100-hour AND annual inspections",
+        "Aircraft NOT operated for hire require only annual inspections",
+        "100-hour inspection is in addition to, not a substitute for, annual inspection",
+        "100-hour inspection can exceed by 10 hours for repositioning to maintenance facility",
+        "Reference: 14 CFR 91.409"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 5,
+      "question": "What is the difference between an annual inspection and a 100-hour inspection? (14 CFR Part 43) The main difference is who is allowed to perform these inspections. Only an A&P mechanic with an Inspection Authorization can perform an annual inspection. 100-hour inspections may be performed by any A&P mechanic (no IA required). 14 CFR Part 43, Appendix D (“Scope and Detail of Items to be Included in Annual and 100-Hour Inspections”) contains a list of items to be checked during inspections.",
+      "answer": "",
+      "references": [
+        "14 CFR Part 43"
+      ],
+      "key_reference_points": [
+        "Annual inspection requires A&P mechanic with Inspection Authorization (IA)",
+        "100-hour inspection can be performed by any A&P mechanic (no IA required)",
+        "Both inspections use the same checklist found in 14 CFR Part 43, Appendix D",
+        "100-hour inspections required only for aircraft used for hire or flight instruction",
+        "Annual inspections required for all aircraft regardless of use"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 6,
+      "question": "If an aircraft has been on a schedule of inspection every 100 hours, under what condition may it continue to operate beyond the 100 hours without a new inspection? (14 CFR 91.409) The 100-hour limitation may be exceeded by not more than 10 hours while en route to a place where the inspection can be done. The excess time used to reach a place where the inspection can be done must be included in computing the next 100 hours of time in service.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.409"
+      ],
+      "key_reference_points": [
+        "100-hour limit may be exceeded by not more than 10 hours",
+        "Excess allowed only while en route to a place where inspection can be done",
+        "Excess time must be included in computing the next 100-hour interval",
+        "This provision does not apply to annual inspections"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 7,
+      "question": "If the annual inspection date has passed, can an aircraft be operated to a location where the inspection can be performed? (FAA-H-8083-25) An aircraft overdue for an annual inspection may be operated under a Special Flight Permit issued by the FAA for the purpose of flying the aircraft to a location where the annual inspection can be performed. However, all applicable ADs that are due must be complied with before the flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Annual inspection cannot be exceeded like the 100-hour inspection",
+        "Special Flight Permit required to fly aircraft overdue for annual inspection",
+        "Special Flight Permit issued by FAA (local FSDO)",
+        "All applicable Airworthiness Directives (ADs) must be complied with before the flight",
+        "Permit allows flight only to location where annual inspection can be performed"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 8,
+      "question": "What are “Special Flight Permits,” and when are they necessary? (14 CFR 91.213, 14 CFR 21.197) A Special Flight Permit may be issued for an aircraft that may not currently meet applicable airworthiness requirements but is capable of safe flight. These permits are typically issued for the following purposes:",
+      "answer": "a. Flying an aircraft to a base where repairs, alterations or maintenance are to be performed, or to a point of storage. b. Delivering or exporting an aircraft. c. Production flight testing new-production aircraft. d. Evacuating aircraft from areas of impending danger. e. Conducting customer demonstration flights in new-production aircraft that have satisfactorily completed production flight tests.",
+      "references": [
+        "14 CFR 91.213, 14 CFR 21.197"
+      ],
+      "key_reference_points": [
+        "Special Flight Permit allows flight when aircraft doesn't meet airworthiness requirements but is capable of safe flight",
+        "Used for ferry flights to a repair base or storage location",
+        "Used for delivering or exporting aircraft",
+        "Used for production flight testing of new aircraft",
+        "Used for evacuating aircraft from areas of impending danger",
+        "Used for customer demonstration flights after production flight tests are complete"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 9,
+      "question": "How are “Special Flight Permits” obtained? (FAA-H-8083-25) If a special flight permit is needed, assistance and the necessary forms may be obtained from the local FSDO or Designated Airworthiness Representative (DAR).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Contact local Flight Standards District Office (FSDO) to obtain a Special Flight Permit",
+        "Designated Airworthiness Representative (DAR) can also issue Special Flight Permits",
+        "FSDO or DAR will provide necessary forms and assistance"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 10,
+      "question": "After aircraft inspections have been made and defects have been repaired, who is responsible for determining that the aircraft is in an airworthy condition? (14 CFR 91.7) The pilot-in-command of a civil aircraft is responsible for determining whether that aircraft is in a condition for safe flight. The pilot-in-command shall discontinue the flight when un-airworthy, mechanical, electrical, or structural conditions occur.",
+      "answer": "",
+      "references": [
+        "14 CFR 91.7"
+      ],
+      "key_reference_points": [
+        "PIC is responsible for determining aircraft is in condition for safe flight per 14 CFR 91.7",
+        "This responsibility exists even after maintenance has been performed and signed off",
+        "PIC must discontinue flight when unairworthy mechanical, electrical, or structural conditions occur",
+        "Airworthiness determination is a preflight duty that cannot be delegated"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 11,
+      "question": "What regulations apply concerning the operation of an aircraft that has had alterations or repairs which may have substantially affected its operation in flight? (14 CFR 91.407) No person may operate or carry passengers in any aircraft that has undergone maintenance, preventative maintenance, rebuilding, or alteration that may have appreciably changed its flight characteristics or substantially affected its operation in flight until an appropriately-rated pilot with at least a private pilot certificate",
+      "answer": "a. Flies the aircraft; b. Makes an operational check of the maintenance performed or alteration made; and c. Logs the flight in the aircraft records.",
+      "references": [
+        "14 CFR 91.407"
+      ],
+      "key_reference_points": [
+        "Aircraft that had maintenance/alterations affecting flight characteristics requires test flight before carrying passengers",
+        "Test flight must be conducted by appropriately-rated pilot with at least a Private Pilot certificate",
+        "Pilot must fly the aircraft and perform operational check of maintenance/alteration performed",
+        "Flight must be logged in the aircraft records",
+        "Reference: 14 CFR 91.407"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 12,
+      "question": "Can a pilot legally conduct flight operations with known inoperative equipment onboard? (14 CFR 91.213, AC 91-67) Yes, under specific conditions. 14 CFR Part 91 describes acceptable methods for the operation of an aircraft with certain inoperative instruments and equipment that are not essential for safe flight—they are:",
+      "answer": "a. Operation of an aircraft with a Minimum Equipment List (MEL), as authorized by 14 CFR 91.213(a) or - b. Operation of an aircraft without a MEL under 14 CFR 91.213(d)",
+      "references": [
+        "14 CFR 91.213, AC 91-67"
+      ],
+      "key_reference_points": [
+        "Two legal methods to fly with inoperative equipment: with MEL (91.213a) or without MEL (91.213d)",
+        "MEL is a document approved by the FAA specific to that aircraft's operation",
+        "Without MEL (91.213d): equipment must not be required by VFR-day type certificate, 91.205, ADs, or STC",
+        "Inoperative equipment must be placarded INOPERATIVE and deactivated/removed",
+        "91.213(d) applies to non-MEL aircraft (most Part 91 general aviation aircraft)",
+        "Reference: 14 CFR 91.213 and AC 91-67"
+      ],
+      "exam_tip": "Know this regulation well—unfamiliarity with 14 CFR 91.213 is a common weakness of applicants at all levels. You must demonstrate that you know this regulation and how to apply it."
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 13,
+      "question": "What limitations apply to aircraft operations conducted using the deferral provision of 14 CFR 91.213(d)? (FAA-H-8083-25) When inoperative equipment is found during preflight or prior to departure, the decision should be to cancel the flight, obtain maintenance prior to flight, or to defer the item or equipment. Maintenance deferrals are not used for inflight discrepancies. The manufacturer’s AFM/POH procedures are to be used in those situations.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Maintenance deferrals under 91.213(d) apply only to discrepancies found during preflight or prior to departure",
+        "Deferrals are NOT used for inflight discrepancies",
+        "Pilot options when inoperative equipment is found: cancel flight, obtain maintenance, or defer the item",
+        "For inflight discrepancies, use AFM/POH emergency or abnormal procedures",
+        "Deferred items must be properly placarded and documented"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 14,
+      "question": "During the preflight inspection in an aircraft that doesn’t have a MEL, you notice that an instrument or equipment item is inoperative. Describe how you will determine if the aircraft is still airworthy for flight. (14 CFR 91.213(d), AC 91-67, FAA-H-8083-25) I will ask myself the following questions to determine if I can legally fly the airplane with the inoperative equipment item:",
+      "answer": "a. Are the inoperative instruments or equipment part of the VFR-day type certification? b. Are the inoperative instruments or equipment listed as “Required” on the aircraft’s equipment list or “Kinds of Operations Equipment List (KOEL)” for the type of flight operation being conducted? c. Are the inoperative instruments or equipment required by 14 CFR §91.205, §91.207 or any other rule of 14 CFR Part 91 for the specific kind of flight operation being conducted? (For example, VFR, IFR, day, night.) d. Are the inoperative instruments or equipment required to be operational by an AD? If the answer is “Yes” to any of these questions, the aircraft is not airworthy and maintenance is required before I can fly. If the answer is “No” to any of these questions, then the inoperative instruments or equipment must be removed (by an A&P) from the aircraft, or deactivated and placarded “Inoperative.”",
+      "references": [
+        "14 CFR 91.213(d"
+      ],
+      "key_reference_points": [
+        "Check if equipment is required for VFR-day type certification",
+        "Check if equipment is listed as 'Required' on aircraft equipment list or KOEL",
+        "Check if equipment is required by 14 CFR 91.205, 91.207, or other Part 91 rules",
+        "Check if equipment is required to be operational by an Airworthiness Directive (AD)",
+        "If YES to any question: aircraft is NOT airworthy, maintenance required",
+        "If NO to all questions: equipment must be removed by A&P OR deactivated and placarded 'Inoperative'"
+      ],
+      "exam_tip": "If an instrument or equipment item is inoperative in your aircraft, be able to explain how you will determine if the aircraft is airworthy and legal for flight.",
+      "note": "See Appendix 3 for further explanation of this regulation."
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 15,
+      "question": "What are Minimum Equipment Lists? (AC 91-67) The Minimum Equipment List (MEL) is a precise listing of instruments, equipment and procedures that allows an aircraft to be operated under specific conditions with inoperative equipment. The MEL is the specific inoperative equipment document for a particular make and model aircraft by serial and registration numbers; e.g., BE-200, N12345. The FAA-approved MEL includes only those items of equipment that the FAA deems may be inoperative and still maintain an acceptable level of safety with appropriate conditions and limitations.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "MEL is specific to a particular aircraft by make, model, serial number, and registration",
+        "MEL is FAA-approved and allows operation with certain inoperative equipment",
+        "MEL specifies conditions and limitations for operating with inoperative items",
+        "Only aircraft with an approved MEL can use MEL provisions (not all aircraft have one)",
+        "MEL provides an alternative to the 91.213(d) decision process"
+      ],
+      "note": "Do not confuse an MEL with the aircraft’s equipment list. They are not the same."
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 16,
+      "question": "For an aircraft with an approved MEL, explain the decision sequence a pilot would use after discovering the position lights are inoperative. (FAA-H-8083-25) With an approved MEL, if the position lights were discovered inoperative prior to a daytime flight, the pilot would make an entry in the maintenance record or discrepancy record provided for that purpose. The item is then either repaired or deferred in accordance with the MEL. Upon confirming that daytime flight with inoperative position lights is acceptable in accordance with the provisions of the MEL, the pilot would leave the position lights switch OFF, open the circuit breaker (or whatever action is called for in the procedures document), and placard the position light switch as INOPERATIVE.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Make an entry in maintenance record or discrepancy record",
+        "Item must be either repaired or deferred per MEL procedures",
+        "Verify MEL permits the specific operation (daytime flight without position lights)",
+        "Leave the position light switch in OFF position",
+        "Open the circuit breaker or follow MEL-specified procedure",
+        "Placard the position light switch as 'INOPERATIVE'"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 17,
+      "question": "Explain the limitations that apply to aircraft operations being conducted using an MEL. (FAA-H-8083-25) The use of an MEL for a small, non-turbine-powered airplane operated under Part 91 allows for the deferral of inoperative items or equipment. The FAA considers an approved MEL to be a supplemental type certificate (STC) issued to an aircraft by serial number and registration number. Once an operator requests an MEL, and a Letter of Authorization (LOA) is issued by the FAA, then the MEL becomes mandatory for that aircraft. All maintenance deferrals must be done in accordance with the terms and conditions of the MEL and the operator-generated procedures document.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "MEL is considered a Supplemental Type Certificate (STC) issued by serial and registration number",
+        "MEL becomes mandatory once Letter of Authorization (LOA) is issued by FAA",
+        "All maintenance deferrals must follow MEL terms and operator-generated procedures",
+        "MEL allows deferral of inoperative items for Part 91 non-turbine aircraft",
+        "Cannot defer items beyond what the MEL specifically permits"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 18,
+      "question": "What instruments and equipment are required for VFR day flight? (14 CFR 91.205) For VFR flight during the day, the following instruments and equipment are required: A nticollision light system—aviation red or white for small airplanes certificated after March 11, 1996 T achometer for each engine O il pressure gauge for each engine M anifold pressure gauge (for each altitude engine, i.e. turbocharged) A ltimeter T emperature gauge for each liquid-cooled engine O il temperature gauge for each air-cooled engine F uel gauge indicating the quantity in each tank F lotation gear—if operated for hire over water beyond power-off gliding distance from shore L anding gear position indicator, if the airplane has retractable gear A irspeed indicator M agnetic direction indicator E mergency locator transmitter (if required by 14 CFR 91.207) S afety belts (and shoulder harnesses for each front seat in aircraft manufactured after 1978)",
+      "answer": "",
+      "references": [
+        "14 CFR 91.205",
+        "if required by 14 CFR 91.207"
+      ],
+      "key_reference_points": [
+        "Memory aid: A-TOMATO-FLAMES for VFR day equipment",
+        "Anticollision lights required for aircraft certificated after March 11, 1996",
+        "ELT required per 14 CFR 91.207",
+        "Shoulder harnesses required for front seats in aircraft manufactured after 1978",
+        "Flotation gear required only if operated for hire over water beyond gliding distance",
+        "Landing gear position indicator required only for retractable gear aircraft"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 19,
+      "question": "What instruments and equipment are required for VFR night flight? (14 CFR 91.205) For VFR flight at night, all the instruments and equipment for VFR day flight are required, plus the following: F uses—one spare set or three fuses of each kind required accessible to the pilot in flight L anding light—if the aircraft is operated for hire A nticollision light system—approved aviation red or white P osition lights—(navigation lights) S ource of electrical energy—adequate for all installed electrical and radio equipment",
+      "answer": "",
+      "references": [
+        "14 CFR 91.205"
+      ],
+      "key_reference_points": [
+        "Memory aid: FLAPS added to day VFR requirements for night flight",
+        "F-Fuses (spare set or 3 of each kind, accessible to pilot)",
+        "L-Landing light required only if operated for hire",
+        "A-Anticollision light system (red or white)",
+        "P-Position lights (navigation lights: red, green, white)",
+        "S-Source of electrical energy adequate for all electrical/radio equipment"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 20,
+      "question": "Who can perform maintenance on an aircraft? (FAA-H-8083-25) FAA-certificated A&P mechanic, an A&P mechanic with Inspector Authorization, an appropriately-rated FAA-certificated repair station, or the aircraft manufacturer.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "FAA-certificated A&P (Airframe and Powerplant) mechanic can perform maintenance",
+        "A&P mechanic with Inspector Authorization (IA) can perform and approve maintenance",
+        "FAA-certificated repair stations with appropriate ratings can perform maintenance",
+        "Aircraft manufacturer can perform maintenance on their own aircraft"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 21,
+      "question": "Define “preventive maintenance.” (FAA-H-8083-25, 14 CFR Part 43, AC 43-12) Preventive maintenance means simple or minor preservation operations and the replacement of small standard parts not involving complex assembly operations. Certificated pilots, excluding student pilots, sport pilots, and recreational pilots, may perform preventive maintenance on any aircraft that is owned or operated by them provided that aircraft is not used in air carrier service. 14 CFR Part 43 Appendix A identifies typical preventive maintenance operations which include such basic items as oil changes, wheel bearing lubrication, hydraulic fluid (brakes, landing gear system) refills.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, 14 CFR Part 43, AC 43-12"
+      ],
+      "key_reference_points": [
+        "Preventive maintenance = simple/minor preservation operations and replacement of small standard parts",
+        "Must NOT involve complex assembly operations",
+        "Certificated pilots may perform preventive maintenance EXCEPT student, sport, and recreational pilots",
+        "Aircraft must be owned or operated by the pilot performing the maintenance",
+        "Aircraft cannot be used in air carrier service",
+        "Examples: oil changes, wheel bearing lubrication, brake/landing gear hydraulic fluid refills (see 14 CFR Part 43 Appendix A)"
+      ],
+      "exam_tip": "Know where to look in the regulations for items approved for preventive maintenance: 14 CFR Part 43, Appendix A, Paragraph C— Preventive Maintenance."
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 22,
+      "question": "What logbook entry information is required of the person performing preventive maintenance? (FAA-H-8083-25, 14 CFR 43.3) All pilots who maintain or perform preventive maintenance must make an entry in the maintenance record of the aircraft. The entry must include a description of the work, the date of completion of the work performed, and an entry of the pilot’s name, signature, certificate number, and type of certificate held.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, 14 CFR 43.3"
+      ],
+      "key_reference_points": [
+        "Must include description of work performed",
+        "Must include date of completion",
+        "Must include pilot's name and signature",
+        "Must include pilot's certificate number",
+        "Must include type of certificate held",
+        "Entry must be made in the aircraft maintenance record"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 1,
+      "question": "During preflight, you discover that one of the position lights (installed equipment) is inoperative prior to a daytime flight. Can you legally conduct the flight? (14 CFR 91.213(d), FAA-H-8083-25)",
+      "answer": "",
+      "references": [
+        "14 CFR 91.213(d"
+      ],
+      "key_reference_points": [
+        "14 CFR 91.213(d) allows flight with inoperative equipment if aircraft has no MEL",
+        "Equipment must NOT be required by VFR-day type certificate, 91.205, or any AD",
+        "Equipment must NOT be required for the specific kind of operation being conducted",
+        "Inoperative equipment must be removed OR deactivated and placarded 'INOPERATIVE'",
+        "Position lights are required for night flight only (91.205(c)), not day VFR",
+        "Flight is legal if properly placarded and no other regulations require the equipment"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 2,
+      "question": "How can a pilot determine if all applicable airworthiness directives have been complied with for his/her airplane?",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, 14 CFR 91.417"
+      ],
+      "key_reference_points": [
+        "Review aircraft maintenance records including logbooks and AD compliance records",
+        "14 CFR 91.417 requires maintenance records be retained showing AD compliance",
+        "Check for recurring ADs that require compliance at specific intervals",
+        "FAA AD search database can verify all ADs applicable to airframe, engine, propeller, and appliances",
+        "A&P mechanic or IA can assist in verifying AD compliance status",
+        "Compliance must be recorded with AD number, revision date, and method of compliance"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 3,
+      "question": "Explain how you will “deactivate” an item or system that has become inoperative in your airplane. Can you deactivate any item or system in the airplane? What is required?",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, AC 91-67"
+      ],
+      "key_reference_points": [
+        "Deactivation must be performed by appropriately rated personnel (A&P mechanic or pilot for certain items)",
+        "Inoperative item must be placarded 'INOPERATIVE' and clearly marked",
+        "Pilot can only deactivate items NOT requiring specialized maintenance",
+        "AC 91-67 provides guidance on inoperative equipment procedures",
+        "Some items require physical removal; others may be deactivated by pulling circuit breakers",
+        "Deactivation of instruments/equipment requiring maintenance must be done by certificated mechanic"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 4,
+      "question": "If the AFM for an aircraft you are about to fly is missing, what substitution may be made, if any?",
+      "answer": "",
+      "references": [
+        "14 CFR 91.9, FAA-H-8083-25"
+      ],
+      "key_reference_points": [
+        "14 CFR 91.9 requires the AFM or equivalent to be available in the aircraft",
+        "For older aircraft without an FAA-approved AFM, operating limitations may be found on placards, markings, or in an Approved Flight Manual",
+        "Type Certificate Data Sheet (TCDS) contains approved operating limitations",
+        "Some aircraft certificated before 1979 may not have a formal AFM but must have approved operating limitations available",
+        "No substitution is permitted for aircraft that require an AFM - it must be the original or an approved copy"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 5,
+      "question": "Are the AFM Supplements required to be onboard the airplane? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "AFM Supplements for installed equipment MUST be carried in the aircraft",
+        "Supplements provide specific operating procedures and limitations for optional equipment (e.g., GPS, autopilot)",
+        "Without applicable supplements, the aircraft may not be considered airworthy for operations using that equipment",
+        "Supplements become part of the approved AFM when equipment is installed via STC or field approval"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 6,
+      "question": "As PIC, you have the responsibility for determining whether your aircraft is in a condition for safe flight. When flying rental aircraft, how can procedures regarding discrepancy records or “squawk” sheets, affect the total risk of a flight? (FAA Safety Briefing)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "14 CFR 91.7 requires PIC to determine aircraft is in airworthy condition before flight",
+        "Squawk sheets document known discrepancies that may affect airworthiness",
+        "Unresolved or recurring squawks indicate potential systemic maintenance issues",
+        "PIC must review maintenance records and discrepancy logs before accepting aircraft",
+        "Flying with undocumented or ignored squawks increases operational risk",
+        "Proper documentation ensures the next pilot is aware of aircraft condition"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 7,
+      "question": "You have just completed the first leg of a long cross-country and notice that the oil level is approaching the one quart low mark. As a private pilot, can you add the quart of oil yourself or is a mechanic required?",
+      "answer": "",
+      "references": [
+        "14 CFR Part 43"
+      ],
+      "key_reference_points": [
+        "14 CFR Part 43 Appendix A lists preventive maintenance items pilots can perform",
+        "Adding oil is specifically listed as preventive maintenance a pilot may perform",
+        "Pilot must hold at least a private pilot certificate to perform preventive maintenance",
+        "Preventive maintenance must be logged in aircraft maintenance records",
+        "Pilot who performs preventive maintenance must sign off the work"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 8,
+      "question": "What are Special Airworthiness Safety Bulletins (SAIB)? Are they regulatory? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "SAIBs are informational notices issued by the FAA to alert owners and operators",
+        "SAIBs are NOT regulatory - they are advisory in nature",
+        "SAIBs highlight safety concerns that may require inspection or action",
+        "SAIBs differ from Airworthiness Directives (ADs) which ARE mandatory/regulatory",
+        "SAIBs may recommend but cannot require compliance"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 9,
+      "question": "During your preflight inspection, you discover that the left main tire on your aircraft has a large flat spot with nylon cord showing. You wisely decide that this is unacceptable and the tire should be replaced before flight. Do the regulations allow the pilot to perform this maintenance or must it be performed by a licensed mechanic (A&P)?",
+      "answer": "",
+      "references": [
+        "14 CFR Part 43, Appendix A, Paragraph C – Preventive Maintenance"
+      ],
+      "key_reference_points": [
+        "14 CFR Part 43 Appendix A Paragraph C lists all approved preventive maintenance items",
+        "Tire replacement is NOT listed as preventive maintenance pilots can perform",
+        "Servicing landing gear tires (adding air) IS allowed, but replacement is NOT",
+        "Tire replacement must be performed by an A&P mechanic or repair station",
+        "Only the 31 specific items listed in Appendix A(c) qualify as pilot-performed preventive maintenance"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Aircraft Maintenance Requirements",
+      "number": 10,
+      "question": "A 100-hour inspection was due at 3,302.5 hours. The 100 hour inspection was actually done at 3,309.5 hours. When is the next 100-hour inspection due? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "100-hour inspections are required for aircraft used for hire (flight instruction, rental)",
+        "Next 100-hour inspection is due 100 hours from when inspection was ACTUALLY performed, not when it was due",
+        "In this case: 3,309.5 + 100 = 3,409.5 hours is when next inspection is due",
+        "Exceeding the 100-hour limit by up to 10 hours is permitted ONLY to reposition aircraft for inspection",
+        "Any time exceeded must be subtracted from the next 100-hour interval",
+        "Reference: 14 CFR 91.409"
+      ]
+    }
+  ]
+}

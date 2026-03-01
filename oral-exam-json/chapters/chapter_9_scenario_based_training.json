@@ -1,0 +1,631 @@
+{
+  "chapter": 9,
+  "title": "Scenario-Based Training",
+  "questions": [
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 1,
+      "question": "Your good friend has requested you to fly as safety pilot in his retractable gear Piper Arrow while he practices flight by reference to instruments. What do regulations require for you to be able to do this? Your answer should include knowledge of safety pilot requirements, currency requirements to carry passengers, and the requirements for a complex endorsement. I must meet safety pilot requirements, currency requirements to carry passengers, and the requirements for a complex endorsement, including: • To be a safety pilot I must hold at least a private pilot certificate with single-engine land. • I must be endorsed to act as PIC in a complex airplane. • I must hold a valid medical certificate. • I must have satisfactorily met the requirements of a flight review, and • I must have logged at least 3 takeoffs and landings in the preceding 90 days to carry passengers.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Safety pilot must hold at least a Private Pilot certificate with category and class ratings (single-engine land)",
+        "Safety pilot must hold a valid medical certificate (at least Class 3)",
+        "Complex endorsement required per 14 CFR 61.31(e) for aircraft with retractable gear, flaps, and controllable propeller",
+        "Flight review must be current within preceding 24 calendar months per 14 CFR 61.56",
+        "Passenger currency requires 3 takeoffs and landings within preceding 90 days per 14 CFR 61.57(a)",
+        "Safety pilot is a required crewmember and must occupy a front seat with adequate visibility"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 2,
+      "question": "What personal items will you take with you to ensure that you are legal for this flight, carrying me as your passenger? • Pilot certificate, photo ID and a current medical certificate (duration based on age). These must be available in the cockpit. • Verify in the logbook the following were completed: › A flight review (or equivalency) within the previous 24 months. › 3 takeoffs and landings within the previous 90 days (to a full stop if at night).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Pilot certificate must be in physical possession per 14 CFR 61.3(a)",
+        "Government-issued photo ID required per 14 CFR 61.3(a)",
+        "Valid medical certificate required per 14 CFR 61.3(c) - duration varies by age and class",
+        "Flight review within preceding 24 calendar months per 14 CFR 61.56",
+        "3 takeoffs and landings within 90 days for day passenger carrying per 14 CFR 61.57(a)",
+        "Night currency requires 3 takeoffs and landings to a full stop within 90 days per 14 CFR 61.57(b)"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 3,
+      "question": "Tell me about the FAA Pilot Proficiency Program (WINGS). A good pilot is always in training, even after passing the practical exam. The FAA Pilot Proficiency Program: • is an FAA and industry accident prevention initiative. • is based on the premise that pilots who maintain proficiency are safer pilots. • encourages on-going flight training and aviation education. • is accomplished in little bits, throughout the year, encouraging pilots to fly in different seasons and in different flight conditions. • satisfies the flight review recency requirement as prescribed in 61.56(e), as long as the requirements for at least the “basic WINGS” level are met within the preceding 24 months. • has its official home at www.faasafety.gov, where free on-line courses are available. • specifics of the program are outlined in Advisory Circular 61-91.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "WINGS is the FAA Pilot Proficiency Program designed to reduce accidents through ongoing training",
+        "Completing Basic WINGS level satisfies flight review requirement per 14 CFR 61.56(e)",
+        "Basic WINGS must be completed within the preceding 24 calendar months to substitute for flight review",
+        "Program details found in Advisory Circular 61-91",
+        "Official program website is FAASafety.gov with free online courses",
+        "Program encourages year-round training in varied conditions and seasons"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 4,
+      "question": "Let’s talk about the plane: How do you know that it is “airworthy”? An airplane’s airworthiness involves 3 different levels of verification: • The Airworthiness Certificate proves that the aircraft was manufactured in compliance with Regulations. • The maintenance technician having an Inspector Authorization (IA certificate) certifies the airworthiness at least annually by the “return to service” statement upon completion of the annual inspection. • The pilot certifies airworthiness, and is the final authority, before each flight with a thorough preflight inspection and inspection status review.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Airworthiness Certificate proves aircraft was manufactured in compliance with FARs",
+        "Inspector Authorization (IA) holder certifies airworthiness annually via 'return to service' statement",
+        "Pilot is final authority on airworthiness before each flight through preflight inspection",
+        "Three levels: manufacturer certification, annual IA inspection, pilot preflight verification"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 5,
+      "question": "Prove to me the airplane is airworthy for our flight today. Include required inspections, documents, and instruments/equipment, as well as your statement that the preflight inspection shows the aircraft to be satisfactory. Here are my pertinent aircraft documents and papers: • Airworthiness Certificate. • Registration. • Operating Limitations [which is probably in the AFM or POH]—and here are the placards and markings on the instruments [when appropriate]. • Weight and Balance Data. Regarding the aircraft maintenance records for this airplane: • The annual inspection was completed within the past 12 months and a repairman with an Inspector Authorization stated that the aircraft was “Returned To Service.” • The 100-hour inspection was completed [if appropriate]. • The transponder inspection was completed within the previous 24 months [if appropriate]. • The ELT battery is current and the system was inspected within the previous 12 months. • Airworthiness Directives are complied with. • Outstanding maintenance discrepancies have been checked and the status of inoperative equipment verified. Also, the aircraft has the required instruments and equipment (i.e., day VFR versus night VFR); a thorough preflight inspection has been completed, the aircraft is properly serviced and it is in airworthy condition—safe for this flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Required documents: ARROW (Airworthiness Certificate, Registration, Radio station license if international, Operating limitations/POH, Weight and Balance)",
+        "Annual inspection required every 12 calendar months",
+        "100-hour inspection required if aircraft used for hire",
+        "Transponder inspection required every 24 calendar months",
+        "ELT inspection required every 12 months; battery replacement per manufacturer specs or after 1 hour cumulative use",
+        "All Airworthiness Directives (ADs) must be complied with",
+        "Required equipment for day/night VFR per 14 CFR 91.205 (ATOMATOFLAMES/FLAPS)"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 6,
+      "question": "You planned a cross-country. Show me your true course, and what items you considered when choosing this course. For extra credit and to demonstrate good ADM, experienced instructors suggest you discuss alternative courses that were considered but discarded, and why. My chosen course considered: • Terrain—and I considered circumnavigating extreme high terrain, or areas of dense forest with no possible emergency landing areas. • Checkpoints that are easy to see and identify. • Navigation and communication reception—I considered altering course and/or altitude for reliable reception. • Airspace—I considered altering course and/or altitude to avoid SUA and Class B airspace, etc. • Weather avoidance.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Consider terrain for safety and emergency landing options",
+        "Select easily identifiable visual checkpoints for pilotage",
+        "Plan for reliable VOR/communication reception based on altitude and terrain",
+        "Identify and plan around Special Use Airspace (SUAs), TFRs, and Class B/C/D airspace",
+        "Check weather along route and plan for avoidance of adverse conditions",
+        "Document alternative routes considered and reasoning for chosen course (demonstrates ADM)"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 7,
+      "question": "Immediately after takeoff, you’re at 100 feet AGL when your kneeboard falls onto the floor. You reach down to get it and suddenly become aware of a buffeting feeling. What should you be concerned about? Demonstrate here that you recognize and understand stalls and spins, and know how to recover from them. My first concern is to immediately get the nose down—reduce the angle of attack. • The buffeting means the aircraft is on the brink of an unintended stall without having sufficient altitude to recover. • The distraction may also mean that the aircraft is not in coordinated flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Buffeting is the primary aerodynamic warning of an impending stall",
+        "Immediate stall recovery: reduce angle of attack by lowering the nose",
+        "At 100 feet AGL, there is insufficient altitude to recover from a developed stall or spin",
+        "Distractions during critical phases of flight can lead to uncoordinated flight and stall/spin entry",
+        "Uncoordinated flight (slip or skid) combined with a stall can result in a spin",
+        "Maintain focus on aircraft control during takeoff until at a safe altitude"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 8,
+      "question": "Beginning with takeoff, and along your true course until landing, talk me through the different airspace we will fly through, and what implications each has on our flight. Use the sectional chart and begin with the airspace surrounding your departure airport, then proceed along your route, describing each airspace area as you come to it and how it may impact your flight. Continue describing the airspace and special use airspace as you encounter it along your route, and mention how that airspace may impact your decisions and requirements to be there—or not be there! • Class D airspace extends to the blue dashed line—while in this area I must maintain two-way communications with the control tower. • Assuming a normal climb, by the time I clear the “D” airspace, I’ll be above 700 feet AGL. At this point, I will be at the area depicted on the chart where the base of the Class E airspace is at 700 feet AGL. Therefore, I am required to maintain VFR cloud clearances and 3 SM visibility. › If I’m not above 700 feet AGL, then I’ll be in Class G airspace where I’m required to remain clear of the clouds and at least 1 SM visibility. • Further along the course, I’m now in an area where the base of Class E airspace is at 1,200 AGL.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Class D airspace (blue dashed line): requires two-way radio communication with tower",
+        "Class E airspace with 700 ft AGL floor (magenta fade): requires 3 SM visibility and 500 below/1,000 above/2,000 horizontal cloud clearance",
+        "Class E airspace with 1,200 ft AGL floor (no shading): same VFR weather minimums as 700 ft floor",
+        "Class G airspace below 1,200 AGL (day): 1 SM visibility and clear of clouds",
+        "Special use airspace (MOAs, Restricted, Prohibited): check NOTAMs and chart legends for activity and restrictions",
+        "TFRs require checking current NOTAMs before and during flight"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 9,
+      "question": "Why did you choose this altitude? Consider the following, as appropriate for your planned flight: • Terrain clearances—high enough to exceed minimum safe altitudes. As a new pilot, I will fly at least 1,500 feet AGL. • Cloud clearances—it meets the requirements (for example, 500 feet below the clouds). • Direction of flight—complies with regulations. • Airspace—stays clear of any airspace I’d rather not fly close to or into (such as TFRs, prohibited, or restricted areas). • Favorable winds—a suitable altitude that allows the most favorable ground speed. • Allows me to see visual checkpoints easily. • Best for aircraft performance (true airspeed vs. economic fuel burn). • Personal minimums—this is an altitude I feel comfortable flying and allows safety margins.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "VFR cruising altitudes: above 3,000 ft AGL, odd thousands +500 for magnetic courses 0-179°, even thousands +500 for 180-359° (FAR 91.159)",
+        "Minimum safe altitude: 1,000 ft above highest obstacle within 2,000 ft horizontally in congested areas; 500 ft AGL in non-congested areas (FAR 91.119)",
+        "Cloud clearance requirements vary by airspace class (Class E: 500 below, 1,000 above, 2,000 horizontal)",
+        "Consider winds aloft for favorable groundspeed and fuel efficiency",
+        "Altitude selection must account for nearby restricted/prohibited areas and TFRs",
+        "Higher altitudes provide more glide distance options for emergency landings"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 10,
+      "question": "Looking at your Nav Log, how did you calculate fuel requirements? Here, demonstrate your ability to use performance charts and graphs located in the POH/AFM. Calculate precisely, but add a safety margin at the end; also, remember to apply any and all pertinent notes included in the performance charts. Show and discuss your precise calculations (do not round-off, do not add “fudge factors”). Here are my precise calculations for: • Fuel required for start, runup and taxi. • Fuel for takeoff and climb. • The chosen power setting and its associated fuel flow for the duration of cruise. • Fuel required for descent and landing. • +30 minutes for required fuel reserve. In addition to the above, I added fuel as necessary to meet my personal safety minimums (for example, a new pilot should carry enough fuel to fly to a suitable alternate airport or +30 minutes cruise fuel after that—a total 1 hour reserve).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "14 CFR 91.151 requires 30-minute fuel reserve for VFR day flight, 45 minutes for VFR night",
+        "Use POH performance charts for each phase: taxi, takeoff, climb, cruise, descent, landing",
+        "Apply all chart notes and correction factors (temperature, altitude, weight adjustments)",
+        "Calculate fuel burn at specific power setting and altitude for cruise phase",
+        "Add personal safety margin beyond legal minimums (e.g., fuel to alternate + 30 min)",
+        "Do not round calculations until final total; precision prevents fuel exhaustion"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 11,
+      "question": "You are required to prepare a navigation log. Why is having a nav log important? Demonstrate your own routine use of a nav log. I use a nav log because: • “All available information” is organized on one piece of paper—that’s good cockpit management. • It provides a mental rehearsal and preparation for each aspect of the flight—that’s good situational awareness. • During flight, it is used to monitor the plan by: › Verifying ground speeds and fuel consumption. › Verifying ETAs to checkpoints and final destination. › Helping me in thinking and planning ahead. › Helping to prevent me from getting lost. › Reminding me of routine cockpit tasks (change fuel tanks, listen to ATIS, cancel flight plan, etc.). › Assisting in diversion to an alternate, if it should become necessary.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "14 CFR 91.103 requires pilot to become familiar with all available information before flight",
+        "Nav log organizes checkpoints, headings, distances, ground speeds, ETAs, and fuel on one document",
+        "Use nav log in-flight to verify ground speed and compare actual vs. planned fuel burn",
+        "Nav log aids situational awareness and helps prevent becoming lost",
+        "Include reminder items: fuel tank switches, ATIS frequencies, flight plan cancellation",
+        "Nav log supports diversion planning by providing organized reference data"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 12,
+      "question": "When planning a cross-country that will require a fuel stop, what factors do you feel are important in selecting an airport for a stop? Demonstrate here your understanding of aeronautical decision making. In selecting an airport for a fuel stop, important factors to consider include: • Airport airspace—airspace similar to my training and/or experience. • Runways—length and relation to the wind. • Size of the airport—not too small but not so big that the amount and type of traffic is intimidating. • Pilot support facilities available (FSS access, weather station, hours of operation, etc.) • Amenities (restrooms, service, loaner car, restaurant on the airport, etc.) • Price of fuel or method for payment.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Consider airspace classification and ensure it matches pilot experience level",
+        "Verify runway length is adequate for aircraft performance and aligned favorably with forecast winds",
+        "Check airport services: fuel availability, hours of operation, and payment methods",
+        "Evaluate pilot support facilities: FSS access, weather reporting capability",
+        "Assess traffic volume and complexity relative to pilot comfort and experience",
+        "Use Chart Supplement (A/FD) to research airport data, NOTAMs, and available amenities"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 13,
+      "question": "Considering your calculated takeoff distance for our flight, how would that change if the outside air temperature were 20° warmer or 20° cooler? Your specific answer to this question will depend on the individual circumstances of your practical exam; but whatever your situation is, the answer should demonstrate your ability to accurately use the performance table and your understanding of the effects of atmospheric conditions on the airplane's performance. You should include the table or chart in your aircraft’s POH, specifically: • How your calculations were carefully performed. Interpolate as necessary for accuracy and apply any “Notes” that may be applicable. • Re-calculate performance using the 20° warmer and 20° cooler scenarios. Discuss the differences in performance and effects of density altitude on performance, not only for takeoff but through each of the phases of flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Higher temperature = higher density altitude = longer takeoff distance required",
+        "Lower temperature = lower density altitude = shorter takeoff distance required",
+        "Must interpolate between chart values when conditions fall between listed figures",
+        "Apply all Notes from POH performance charts (e.g., add 10% for each 25°F above standard)",
+        "Density altitude affects all phases: takeoff roll, climb rate, cruise TAS, and landing distance",
+        "Standard temperature at sea level is 15°C (59°F); decreases approximately 2°C per 1,000 feet"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 14,
+      "question": "Are the runways you plan to use today suitable for us? Demonstrate your ability to use the performance tables in your aircraft’s POH and your understanding for the need to include a safety margin. Show your calculations. Yes, using the takeoff and landing performance charts, I calculated the required distance to takeoff and to land. This shows what the aircraft is capable of; however, as a new pilot, I am not always able to achieve takeoffs or landings that precisely—so, I added 50% [or whatever your safety margin is] more to my calculations as my personal minimum when determining runway suitability.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "POH performance charts show aircraft capability under ideal conditions with experienced pilots",
+        "Add personal safety margin (commonly 50%) to calculated takeoff and landing distances",
+        "Account for runway surface condition, slope, and obstacles in departure path",
+        "Compare total required distance (with safety margin) to available runway length",
+        "Consider pressure altitude and temperature when calculating performance",
+        "New pilots should use conservative personal minimums until proficiency increases"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 15,
+      "question": "During our flight today, with whom will you communicate? Demonstrate your knowledge of available resources and your willingness to use them. • Ground/Tower/Departure (if departing from a controlled airport), or • Unicom or Multicom (if from an uncontrolled airport). • Enroute: Flight Following to assist in knowing about pop-up TFRs and to assist with traffic avoidance. • FSS for update weather, altimeter settings and possible revisions to the filed flight plan. • Destination airport communications [as appropriate to the destination].",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Controlled airports: Contact Ground, Tower, and Departure/Approach as appropriate",
+        "Uncontrolled airports: Use CTAF/Unicom (122.7, 122.8, or 123.0) or Multicom (122.9)",
+        "Flight Following (VFR radar advisory service) provides traffic advisories and TFR alerts",
+        "FSS frequencies for enroute weather updates, NOTAMs, and flight plan amendments",
+        "122.2 is the universal FSS frequency; also available via VOR voice capability",
+        "Always monitor appropriate frequencies at destination and obtain current ATIS/AWOS/ASOS"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 16,
+      "question": "How did you obtain weather information for our flight? • Beginning last night, I watched the weather channel on TV. The weather channel is not a specific aviation weather source, but it helps me to hear the meteorologist talk about the weather patterns. • Then I logged online to DUATS and received an outlook briefing. • This morning I logged on to DUATS for a standard weather briefing to complete my planning and nav log. • I was confused about an abbreviation that I didn’t know, so I called Flight Service and got their help. • Then about 1 hour ago I called FSS again for an abbreviated weather briefing, just to make sure that nothing had changed since this morning’s briefing.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Three types of FSS briefings: Outlook (6+ hours before departure), Standard (complete briefing), and Abbreviated (update or supplement)",
+        "Weather information sources include FSS (1-800-WX-BRIEF), DUATS, and aviationweather.gov",
+        "FSS specialists can help interpret weather data and decode abbreviations",
+        "Always get a standard briefing before flight and consider an abbreviated briefing closer to departure",
+        "Non-aviation sources like TV weather can supplement but not replace official aviation weather briefings"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 17,
+      "question": "Tell me about the weather along our flight. Demonstrate your understanding of meteorology and what entails a complete weather briefing. My standard weather briefing shows: • Pressure areas affecting weather. • Fronts affecting weather and their direction of movement. • Ceilings, winds and visibility at departure, at several points en route and at the destination. • Wind direction and speed at cruise altitude. • Significant or adverse weather near the route or during possible flight time, and how it may affect the flight; it includes a plan to escape a possible problem of this kind. • NOTAMs.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Standard briefing includes: Adverse conditions, VFR flight not recommended (if applicable), Synopsis, Current conditions, En route forecast, Destination forecast, Winds aloft, NOTAMs, and ATC delays",
+        "Must check weather at departure, en route checkpoints, and destination",
+        "Winds aloft forecasts (FB) provide wind direction/speed and temperature at cruise altitude",
+        "AIRMETs and SIGMETs alert pilots to significant weather hazards",
+        "Always have an alternate plan or escape route if weather deteriorates",
+        "TFRs and NOTAMs are part of a complete weather briefing"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 18,
+      "question": "Tell me about 2 different weather charts that you used in preparing for our flight and how you used them. It’s easy to get confused when discussing these charts. To make answering this question easier, bring print-outs to the exam of the charts you used and show them as you answer. • I used the surface analysis chart to see the pressure areas, fronts, wind, local weather, and visual obstructions. It is transmitted every 3 hours and covers the country. • I used the weather depiction chart to get an overview of the surface conditions as derived from METAR and other surface observations. It gives me an overall picture of the weather across the United States. It is transmitted every 3 hours. • I used the significant weather prognostic chart to see the forecast. The chart has four-panels that include 12- and 24-hour forecasts. Charts are issued four times a day. The valid time is printed on each panel. The upper two panels show forecast significant weather, which may include turbulence, freezing levels, and IFR or MVFR weather.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Surface Analysis Chart: Shows pressure systems, fronts, winds, and current conditions; issued every 3 hours",
+        "Weather Depiction Chart: Provides overview of VFR/MVFR/IFR conditions from METARs; issued every 3 hours",
+        "Prognostic Charts: 4-panel forecast charts showing 12- and 24-hour predictions; issued 4 times daily",
+        "Prognostic charts show forecast freezing levels, turbulence areas, and IFR/MVFR weather",
+        "Surface charts show actual observed conditions; prognostic charts show forecast conditions",
+        "Always note the valid time printed on each chart to ensure currency"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 19,
+      "question": "Tell me about 2 different weather forecasts that you used in preparing for our flight and how you used them. Include, as appropriate for your flight planning purposes, details of weather forecasts such as: • I used the area forecast to get the big picture about the general weather in the area, what is causing the weather, and how it may change during the upcoming 24 hours. • I used the TAF to get specific weather for certain weather reporting areas along my route, and for how conditions at those airports may change. This allows me to evaluate if the clouds and visibility will allow my flight to continue VFR. I could also find areas of VFR in case I run into unforecasted weather that I need to escape. • I used the winds and temperatures aloft forecast. With the wind direction and velocity, I found the most desirable altitude giving the best ground speeds. I also used the temperatures aloft to determine probable altitudes for clouds to form.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Area Forecast (FA) provides big picture weather for a large region over 12-18 hours with an additional 12-hour outlook",
+        "TAF (Terminal Aerodrome Forecast) covers specific airports within 5 SM radius, valid for 24-30 hours, updated 4 times daily",
+        "Winds and Temperatures Aloft Forecast (FB) provides wind direction/speed and temperatures at various altitudes for flight planning",
+        "TAFs use same format as METARs but include change groups (FM, TEMPO, PROB) to show expected weather changes",
+        "Winds aloft help determine optimal cruise altitude for best groundspeed and fuel efficiency",
+        "Temperatures aloft help predict icing levels, cloud bases, and turbulence potential"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 20,
+      "question": "How will you obtain updated weather information while enroute? Demonstrate your understanding of all resources available and how to choose the best resource to use in a given situation. For example: • I will use technology. (As an example, the GNS530 or G1000 supplies weather information. Handheld units such as the GNS 396, 496 or 696 supply weather, etc.). But technology by itself shouldn’t be used to make decisions—there are too many problems with updating and interpreting the information. • If I only need recorded information (for instance, to update an altimeter setting), I could listen to a nearby AWOS/ASOS/ATIS. Also, the HIWAS has valuable updated weather information in a recorded format. • If I need to ask questions (for example, if I guess that weather is unexpectedly changing), I would contact FSS on 122.4 or one of the remote transmitters associated with a VOR. • If I’m in a pinch, or if the flight is becoming unsafe, ATC might be of assistance. • For the best weather update, I would collect information from a variety of resources before making a decision.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Flight Service Station (FSS) can be reached on 122.2 (universal) or 122.4, or through RCO frequencies associated with VORs",
+        "AWOS/ASOS provides automated surface weather observations; ATIS includes airport operational information",
+        "HIWAS (Hazardous Inflight Weather Advisory Service) broadcasts SIGMETs, AIRMETs, and urgent PIREPs over select VOR frequencies",
+        "ADS-B In receivers and certified equipment (like GNS530/G1000 with weather subscription) provide graphical weather but have latency limitations",
+        "Flight Watch (EFAS) was discontinued in 2015; use FSS at 122.2 instead",
+        "ATC can provide assistance in emergencies but is not a primary weather briefing source"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 21,
+      "question": "While enroute, we listen to the ATIS of a Class D airport near our course to update the altimeter setting and find that the ATIS is reporting visibility as 2 SM. What does that mean for us? Demonstrate your understating of VFR weather minimums in Class E and Class G airspace, and the special VFR clearance. Show your aeronautical decision making ability by evaluating your options and choosing the best option based on the specifics of your flight. We have 2 priorities: (1) to remain legal, and (2) as a new pilot, the prudent choice is an immediate diversion to an alternate airport to land. • Option 1 is to fly in “G” airspace, where regulations allow us to remain clear of clouds with 1 SM visibility while enroute to an uncontrolled airport and land. • Option 2 is to fly in “G” airspace while heading for the Class D airport and request a special VFR from ATC to land there.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Class E airspace below 10,000 MSL requires 3 SM visibility and 500 below/1,000 above/2,000 horizontal from clouds for VFR",
+        "Class G airspace (day, below 1,200 AGL) requires 1 SM visibility and clear of clouds",
+        "Special VFR allows flight in controlled airspace with 1 SM visibility and clear of clouds, requires ATC clearance",
+        "Special VFR at night requires instrument rating and IFR-equipped aircraft",
+        "Private pilots must have 3 SM flight visibility to operate in Class D airspace under basic VFR",
+        "When weather deteriorates unexpectedly, safest option for new pilots is immediate diversion to a suitable alternate airport"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 22,
+      "question": "You have chosen to divert to an airport that you were not intending to visit. How will you obtain the needed information about your alternate airport? Demonstrate your understanding of all resources available and how to choose the best resource for a given situation. For extra credit, mention that you would turn on the autopilot to help relieve workload while researching information. The most pressing information needed is airport airspace, runway length, airport elevation, and an airport communication frequency. I would: • use technology—most GPS databases include all of this information. • use the sectional chart—the needed information is on the airport legend. • use the Chart Supplement U.S. • use a combination of the above.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "GPS databases contain airport airspace, runway length, elevation, and frequencies",
+        "Sectional chart airport legends show basic airport information including frequencies and runway data",
+        "Chart Supplement U.S. provides comprehensive airport details including NOTAMs and services",
+        "Use autopilot (if equipped) to reduce workload while gathering diversion information",
+        "Priority information needed: airspace type, runway length, field elevation, and communication frequency",
+        "Cross-reference multiple sources when time permits for accuracy"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 23,
+      "question": "What deice or anti-ice equipment is your airplane equipped with? Demonstrate that you know the specific equipment installed on your airplane, as well as when to use it. • Defrost—used to keep the windshield clear. Turn it on in advance of a possible icing situation. • Pitot heat—used to keep the pitot/static instruments operational. Turn it on in advance of a possible icing situation. • Carburetor heat—used to keep fuel and air flowing to the engine. It’s normally turned on after the first sign of possible carburetor icing. • The most important piece of equipment is a thinking pilot who, when encountering dangerous icing conditions, can make a timely decision to turn around or land as soon as practical.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Windshield defrost should be activated BEFORE entering potential icing conditions",
+        "Pitot heat prevents ice blockage of pitot tube affecting airspeed indicator - turn on before icing",
+        "Carburetor heat prevents carburetor ice - typically applied at first indication of icing (RPM drop)",
+        "Know specific anti-ice equipment installed on YOUR aircraft per POH",
+        "Most critical decision: recognize icing conditions and divert or turn back immediately",
+        "Most light aircraft are NOT certified for flight into known icing conditions"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 24,
+      "question": "Tell me about the fuel system on your airplane. Include the components of your airplane’s fuel system, the normal operation of the system, and how you interact with it. Be specific, using the information contained in the POH for your airplane. The following answer, based on an example airplane, illustrates the type of details you might cover. • Twenty-eight gallons are stored in each wing tank. Three gallons are unusable and a total of 53 gallons are usable. I would order and verify that 100LL is being serviced into the airplane. • Fuel quantity is measured by float-type quantity indicators, but good pilots always verify the fuel visually. Annunciators show L and R “LOW FUEL” if the fuel quantity is below 5 gallons in a tank. • The tank has a visual FUEL TAB, allowing verification that 17.5 gallons are on board when takeoffs are performed with less than full fuel. • The tanks are vented and I ensure the vents are not blocked during the preflight inspection. • Also on the preflight inspection, I drain fuel from 13 fuel sumps to verify fuel grade and to remove any possible sediment. Ten of these sumps are on the wings, 2 are on the belly, and there is a fuel strainer in the cowling that is pulled to collect a fuel sample. • Fuel flows by gravity from the wing tanks to the fuel selector value. I control fuel to the engine being fed from the L, R or BOTH tanks. I select “BOTH” for takeoff, climbs, landings, and maneuvers that involve slips or skids of more than 30 seconds. • From the fuel selector, fuel flows to a reservoir tank, aux fuel pump, fuel shutoff valve, and into the engine. • I activate the auxiliary fuel pump for start and during engine emergencies. • The fuel shutoff valve shuts off fuel to the engine. I activate this to decrease the likelihood of fire upon ditching, and during an extended period of aircraft storage.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Know total fuel capacity, usable fuel, and unusable fuel amounts for your aircraft",
+        "Always visually verify fuel quantity - do not rely solely on fuel gauges",
+        "Drain fuel sumps during preflight to check for water contamination and proper fuel grade (100LL is blue)",
+        "Fuel selector positions: know when to use LEFT, RIGHT, or BOTH (BOTH for takeoff, landing, and extended slips/skids)",
+        "Auxiliary fuel pump used during engine start and emergency procedures",
+        "Fuel tank vents must be clear - blocked vents can cause fuel starvation",
+        "Know location of all fuel sumps and drains on your specific aircraft"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 25,
+      "question": "What method of navigation will you use today and what are the advantages and limitations of that method? Demonstrate your understanding of navigation methods and resources available and how to choose the best resource to use in a given situation. For extra credit and to demonstrate ADM, point out that the best way to navigate is by using a combination of methods. Dead Reckoning—Advantages are that it is simple. When everything else fails, it will bring us home. The limitations are that it requires accurate winds and performance calculations, and careful time-keeping. Pilotage—Advantages: It builds confidence; you see it on the chart and see it on the ground. Limitations: It requires prominent checkpoints and enough visibility to see them. VOR—Advantages: It’s more reliable than dead reckoning or pilotage; an accurate form of navigation over an area where no prominent checkpoints exist. Limitations: Line-of-sight navigation, somewhat dependent on altitude, less accurate when far away from the station. GPS—Advantages: It is not limited to line-of-sight; ground speed and other calculations are provided. Distance is not slant distance. Limitations: There are occasional outages, and the database must be current for reliable data. Ground speeds are instantaneous but not point-to-point, as is needed for calculating accurate ETAs and fuel remaining.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Dead Reckoning: Simple backup method, requires accurate wind/performance calculations and careful timekeeping",
+        "Pilotage: Uses visual checkpoints matched to chart, requires prominent landmarks and adequate visibility",
+        "VOR: Line-of-sight limitation, accuracy decreases with distance from station, altitude dependent",
+        "GPS: Not line-of-sight limited, provides groundspeed/calculations, requires current database, subject to outages",
+        "Best practice is combining multiple navigation methods for redundancy and cross-checking",
+        "GPS groundspeed is instantaneous, not point-to-point average needed for accurate ETA/fuel calculations"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 26,
+      "question": "Let’s talk about your passenger safety briefing. Assume that I am your good friend who has never been in a small plane. Give me your passenger safety briefing. The items below (indicated as bold initials of the word “safety”) are what you are required to include in a safety briefing. Demonstrate your knowledge of the elements of a complete safety briefing and your understanding that an effective briefing at the start of the flight can add to the safety and enjoyment of the flight for everyone. S Seat belts—fastened for taxi, takeoff and landing. Shoulder harness—fastened for takeoff and landing. Seat—adjusted and locked into place. A Air vents—location and operation; you can adjust. All environment controls—what’s available; you shouldn’t adjust (ask me). Action in case of passenger discomfort. F Fire extinguisher—location and operation. E Exit doors (and windows)—how to secure, how to operate. Emergency evacuation plan. Emergency equipment—location and operation. T Traffic (scanning, spotting, and notifying pilot). Talking (sterile cockpit expectations). Y Your questions? There are no dumb questions. It’s more fun when you ask.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "S - Seatbelts/Shoulder harness fastened for taxi, takeoff, landing; seat adjusted and locked",
+        "A - Air vents location, environmental controls, action plan for passenger discomfort",
+        "F - Fire extinguisher location and operation",
+        "E - Exit doors/windows operation, emergency evacuation plan, emergency equipment location",
+        "T - Traffic scanning responsibilities, sterile cockpit expectations during critical phases",
+        "Y - Invite questions to ensure passenger understanding and comfort"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 27,
+      "question": "Enroute you notice a discharge on the ammeter. What will you do? Demonstrate your understanding of the electrical system, using specifics relevant to your airplane. A discharge on the ammeter indicates the possibility of an electrical problem. If left unchecked, it might exhaust the battery, causing a partial or total loss of electrical equipment. I would: • Turn off the avionics master switch (if appropriate) and the master switch to reset what may be an over-voltage relay. • Turn the master back on and notice the indication on the ammeter. If it is still not showing a charge, then: › Turn off any unnecessary electrical equipment, and › Re-evaluate how this may affect the safety of continued flight. › Consider landing as soon as practical during the day or as soon as possible at night, for repairs.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Ammeter discharge indicates alternator/generator failure or electrical system malfunction",
+        "First action: Turn off avionics master, then master switch to reset over-voltage relay",
+        "If discharge continues after reset: shed non-essential electrical loads",
+        "Battery will eventually deplete without charging source, causing loss of electrical equipment",
+        "Day operations: Land as soon as practical; Night operations: Land as soon as possible",
+        "Re-evaluate safety of continued flight based on remaining electrical needs and conditions"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 28,
+      "question": "As you approach the airport of intended landing with your battery now dead, are we in danger of the engine quitting? If not, what problems might we encounter while landing with a dead battery? Demonstrate your understanding of the electrical system, using specifics relevant to your airplane. • No, the engine will not quit; it derives its electrical ignition power from magnetos—not the electrical system. • We may have to land without flaps—a slip might be needed to descend. • We will not have engine gauges—the fuel gauges will show empty which is always uncomfortable to see. • We will not have lights—if at night, a flashlight will be needed in the cockpit. The landing will be made without a landing light. • We will not have a turn coordinator, but the pitot/static and gyro instruments will be operational. • We will not have COM radios—if landing at a controlled airport, we should look for light gun signals. If landing at an uncontrolled airport at night, we might not be able to turn on the pilot-controlled lighting.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Magnetos provide ignition power independently of the aircraft electrical system—engine will continue running",
+        "Electric flaps will be inoperative; plan for no-flap landing using forward slip if needed",
+        "All electrical gauges (fuel quantity, engine instruments) will be inoperative",
+        "No COM radios available; use light gun signals at towered airports",
+        "Pilot-controlled lighting at uncontrolled airports will be unavailable at night",
+        "Pitot-static instruments (airspeed, altimeter, VSI) and vacuum gyros remain operational"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 29,
+      "question": "Are there specific techniques that you normally use for collision avoidance? Demonstrate the need for good collision avoidance habits during each phase of flight. • Ensure that the windshield is as clean as possible. • Organize the cockpit to avoid a lot of “head down” time —pre-fold charts, pre-select frequencies, etc. • Keep my head up and eyes outside during all ground maneuvering. On the ground, stop while copying ATC clearances. • Perform clearing turns before performance maneuvers requiring rapid changes in heading or altitude. • Scan for traffic often when in straight-and-level flight and during maneuvers. • Don’t practice maneuvers over VORs, airports, or other areas where traffic normally converges. • Enter traffic patterns correctly and at proper traffic pattern altitude. • Listen on frequencies, especially at uncontrolled airports, to hear possible traffic in the area. • Visually verify that final approach is clear before taking the runway for takeoff. • Use anti-collision lights and a landing light at night and during times of low visibility. • Comply with right of way rules (14 CFR §91.113). • In the radar environment, if ATC issues traffic, I look to see it and maneuver to avoid it. If I lose sight of the traffic, I report that to ATC. • Use flight following en route as another tool for traffic avoidance.",
+      "answer": "",
+      "references": [
+        "14 CFR §91.113"
+      ],
+      "key_reference_points": [
+        "Perform clearing turns before any maneuver involving rapid heading or altitude changes",
+        "Use proper scanning technique—eyes outside 90% of the time, avoid fixation",
+        "Avoid practicing maneuvers over VORs, airports, or other traffic convergence areas",
+        "Comply with right-of-way rules per 14 CFR §91.113",
+        "Use flight following and respond to ATC traffic advisories; report when traffic is in sight or lost",
+        "Use landing lights and anti-collision lights to increase aircraft visibility"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 30,
+      "question": "With our head in the cockpit reading the taxi diagram, we accidentally hit a large taxiway light. The prop is chewed up pretty bad and the lower nose cowling is banged up but nothing else seems to be damaged. Are you required to report this to the NTSB? This does not require a report to the NTSB because the damage is limited to the prop and the damage to other people’s property probably doesn’t exceed $25,000. Therefore, I would: • Have the airplane towed to the maintenance shop for repairs. • Contact the airport manager to have possible foreign object debris cleaned from the taxiway.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "NTSB notification required only for accidents or serious incidents meeting specific criteria",
+        "Propeller damage alone (with no other substantial damage) does not constitute an accident",
+        "Substantial damage excludes engine damage limited to one engine, bent fairings, and propeller damage",
+        "Property damage to other persons exceeding $25,000 would require NTSB notification",
+        "This scenario is considered an incident, not an accident—no NTSB report required",
+        "Coordinate with airport management for FOD cleanup and arrange maintenance repairs"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 31,
+      "question": "Tell me about the emergency equipment and survival gear that is onboard for our flight today. Show your awareness that the need for emergency equipment and survival gear is not limited to flights over extreme terrain or extreme temperature changes. If the emergency originates in flight and there is time: • The autopilot could be considered emergency equipment to help relieve workload. • The communications radio can be used to send a “mayday.” • The GPS could be used for “NRST” and “DIRECT TO” navigation to an airport. • The transponder could be used to signal “7700.” I have the following items onboard that could be useful after ditching: • Fire extinguisher—It is charged and I know how to use it. • Cell phone • Water and snacks • Pocket knife/all-purpose tool • First aid kit • Emergency locator transmitter (ELT)—I can manually activate it. • Other items that I routinely carry that would be of use in an emergency are _______ [if relevant].",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Autopilot reduces workload during in-flight emergencies",
+        "Comm radio for 'MAYDAY' distress calls on 121.5 MHz",
+        "GPS 'NRST' function locates nearest airport; 'DIRECT TO' for immediate navigation",
+        "Transponder code 7700 signals emergency to ATC",
+        "ELT can be manually activated and transmits on 121.5 and 406 MHz",
+        "Essential survival items: fire extinguisher, first aid kit, water, cell phone, knife/multi-tool"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 32,
+      "question": "What do you feel are the major differences between the PAVE checklist and the 5P checklist? Show your awareness of the need to manage the risks of flight and the tools available to help pilots. • Both checklists are tools recommended for pilots in managing the risks associated in flying. • Both consider the risk elements, those are: the pilot, the airplane, the environment and the external factors. • The PAVE checklist encourages the pilot to react to a risk element that he finds unacceptable. • The 5P checklist encourages the pilot to be proactive: to do surveillance, look ahead for changes in a risk element, and take early action to prevent a problem.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "PAVE stands for Pilot, Aircraft, enVironment, External pressures",
+        "5P stands for Plan, Plane, Pilot, Passengers, Programming",
+        "Both checklists assess the same core risk elements but differ in approach",
+        "PAVE is reactive—identify and respond to unacceptable risks",
+        "5P is proactive—continuous surveillance and early intervention to prevent problems",
+        "5P encourages periodic reassessment throughout all phases of flight"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 33,
+      "question": "For a flight involving first time fliers as passengers, how would you manage the risks pertaining to their aeromedical factors? Demonstrate your knowledge of aeromedical factors as well as your understanding of what causes them and how to address them. • If possible, I would sit the passenger most likely to experience motion sickness in the front seat so I can keep his attention outside—far, far away on the horizon. • I keep a Sic-Sac onboard in case of motion sickness or hyperventilation. • If possible, I would sit the passenger most likely to experience ear or sinus problems in the front seat so I can watch for early signs of problems and possibly take corrective action, especially during climbs and descents.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Seat motion-sickness-prone passengers in front with view of distant horizon",
+        "Keep Sic-Sacs (airsickness bags) readily accessible in the aircraft",
+        "Passengers with ear/sinus issues need monitoring during altitude changes",
+        "Valsalva maneuver or slower descent rates can help equalize ear pressure",
+        "Brief passengers on what to expect and encourage them to communicate discomfort early",
+        "Hyperventilation treated by slowing breathing rate or breathing into a bag"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 34,
+      "question": "Your friend owns a condo in Colorado ski country. It’s a long trip from the East Coast. How would you manage the risks pertaining to the aeromedical factors? Demonstrate your knowledge of relevant aeromedical factors as well as your understanding of what causes them and how to address them. • I would consider each element of the “I’M SAFE” checklist before takeoff. • Although the regulations require supplemental oxygen when flying over 12,500 feet for more than 30 minutes, if flying at an altitude of more than 10,000 feet MSL, I would carry supplemental oxygen, especially at night to aid my eyesight. • Unless terrain (as an example) requires otherwise, I would plan to fly below 8,000 feet MSL to prevent possible hypoxia. • I would carry a small bottle of water to ward off the possibility of dehydration (but not a big bottle because that might create another problem!). • Rather than planning long legs (more than 4 hours), I’d plan shorter legs with a fuel/rest stop every 2 to 3 hours to prevent stress and fatigue.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "I'M SAFE checklist: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion",
+        "Supplemental oxygen required above 12,500 ft MSL for more than 30 minutes (14 CFR 91.211)",
+        "Hypoxia symptoms can begin as low as 5,000 ft MSL at night; consider oxygen above 10,000 ft MSL",
+        "Plan flight legs of 2-3 hours maximum to prevent fatigue",
+        "Stay hydrated but manage intake to avoid distraction",
+        "High altitude destinations increase hypoxia risk - plan to fly below 8,000 ft MSL when possible"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 35,
+      "question": "You are considering the flight home after a scuba diving vacation during the week of Christmas. You want to enjoy every minute possible in the water and partying on the beach. How would you manage the risks pertaining to aeromedical factors on the flight home? Demonstrate your knowledge of the relevant aeromedical factors as well as your understanding of what causes them and how to address them. • I would consider each element of the “I’M SAFE” checklist before takeoff. • Because it’s Christmas week (winter), the cabin heat will be probably be on. I would place the carbon monoxide detector near the heat outlet on the floor of the cabin for the earliest possible detection of carbon monoxide. • Winter may involve snow showers. If flying in low visibility conditions, I scan instruments more often to prevent spatial disorientation. If an autopilot is available, it should be turned on to assist in better aircraft control and keeping the wings level, whenever spatial disorientation is a concern. • I would wait 12 to 24 hours after scuba diving, depending on if it were a controlled descent or not, to ward off possible nitrogen oxide symptoms. • I would wait at least 8 hours after drinking alcohol before takeoff.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Wait minimum 12 hours after non-decompression diving, 24 hours after controlled ascent/decompression diving before flying",
+        "8 hours bottle-to-throttle rule for alcohol (14 CFR 91.17)",
+        "0.04% BAC maximum legal limit for pilots",
+        "Carbon monoxide detector should be placed near heater outlet for early detection",
+        "Spatial disorientation prevention: trust instruments, use autopilot if available in low visibility",
+        "I'M SAFE checklist addresses Illness, Medication, Stress, Alcohol, Fatigue, Eating"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 36,
+      "question": "Hazardous weather caused you to delay your return flight home by a few days. As a result, the annual inspection and transponder check are now both out of date. Do regulations permit you to fly home with these items out of date? Yes, I can legally fly home without the transponder inspection, provided that: • The transponder is not turned ON. • An “INOP” sticker is placed near the ON/OFF switch (to indicate inoperative equipment). • I avoid flight into Class C airspace, above Class C airspace, within 30 NM of Class B airspace, above Class B airspace, anywhere above 10,000 MSL, or • If flying in airspace normally requiring a transponder, I have the authorization of the air traffic facility chief to operate in airspace without it. (I would call the facility chief on the phone before takeoff.) Flight without an annual inspection can be initiated only with the issuance of a special flight permit issued by the FSDO. So I can fly home provided I’ve been issued a permit and am in compliance with the conditions listed on the permit.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Transponder inspection required every 24 calendar months (14 CFR 91.413)",
+        "Annual inspection required every 12 calendar months (14 CFR 91.409)",
+        "Inoperative transponder requires INOP placard and must not be used",
+        "Without operable transponder: avoid Class B, Class C, within 30 NM of Class B primary airport, and above 10,000 ft MSL",
+        "ATC facility chief can authorize operations in transponder-required airspace without transponder",
+        "Special Flight Permit (ferry permit) from FSDO required to fly aircraft with overdue annual inspection"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 37,
+      "question": "It’s Saturday morning and you are ready for the flight home. During your preflight, you find that the landing light is inoperative. Will this affect your ability to fly home? Demonstrate your awareness that all installed equipment must be operational on the airplane before takeoff, and the two legal ways to fly with inoperative equipment. Regulations require that: • all installed equipment be operational before takeoff, unless: › the flight is in compliance with an approved minimum equipment list, or › the inoperative equipment is not required by type design, regulations, or airworthiness directives (ADs). • the pilot can safely operate the airplane without the equipment that has become inoperative. • the pilot removes or deactivates any inoperative equipment. • the pilot has placarded any inoperative equipment near the ON/OFF switch. Because the landing light is not required and I feel that I can safely fly the airplane during the day without it, I will pull the circuit breaker and stick an INOP sticker near the light switch.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "14 CFR 91.213 governs flight with inoperative equipment",
+        "Two legal methods: MEL (Minimum Equipment List) or aircraft equipment list/type certificate approach",
+        "Equipment NOT required if: not required by type design, not required by 14 CFR 91.205, not required by AD, and not required for specific flight operation",
+        "Inoperative equipment must be removed or deactivated and placarded 'INOPERATIVE'",
+        "Landing lights required only for hire operations at night (14 CFR 91.205)",
+        "Pilot must determine aircraft can be safely operated without the inoperative equipment"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 38,
+      "question": "You have volunteered to fly a sick child to meet an ambulance at Big Controlled Airport. It’s a clear night when at 60 NM out you notice an ammeter discharge. You guess you have about 30 minutes of battery remaining. What will you do? There is no right answer; this is simply your opportunity to demonstrate your aeronautical decision making (ADM). You should show a willingness to declare an emergency and divert. Include a discussion of ways to manage the electrical system until landing. Include your thoughts out loud until you make a final decision. You could also mention whether you would you do anything differently if this was a Pilot-N-Paws flight with a sick animal rather than a sick child. • Within 30 minutes, I might make Big Controlled Airport, but may not be able to communicate with ATC when I get there. • I could declare an emergency (to obtain radar assistance and priority handling into Big Controlled Airport). • It might be safer to divert to the “NRST” airport, but then we would miss the ambulance pre-arranged for the patient. I would reduce the electrical load by turning off all unnecessary electrical system equipment. [Specify the particular cockpit equipment you would turn off in your training airplane.]",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Declare emergency using 121.5 MHz or current ATC frequency to get priority handling",
+        "Reduce electrical load immediately: turn off non-essential avionics, lights, and unnecessary equipment",
+        "Know your aircraft's essential bus and minimum electrical requirements for flight",
+        "Use transponder code 7700 while still able to transmit",
+        "Consider NRST airport vs. mission objective - safety takes priority over mission completion",
+        "PIC has emergency authority under 14 CFR 91.3 to deviate from any rule to meet emergency"
+      ]
+    },
+    {
+      "section": "",
+      "section_title": "General",
+      "number": 39,
+      "question": "After an exhausting three-day business meeting, you are loading up the rental airplane for the two-hour flight home when you discover you have lost your reading glasses. You can see in the distance, but can’t read instruments or a chart very easy. The weather is good and if you depart in the next 20 minutes you can be home before dark. What will you do? There is no right answer; this is simply an opportunity to demonstrate your risk management and aeronautical decision making (ADM). Voice your thought process out loud until you make a final decision. • I would ask passengers or others (if available) to assist me in searching for my lost glasses. • If possession of corrective lenses is required on my medical certificate, then a takeoff is not permitted. • How familiar am I with the rental plane? Can I see “well enough” to fly a plane I don’t often fly? • I could spend the night, buy a new pair of glasses, get some rest, and depart fresh in the morning.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Check medical certificate for 'must possess corrective lenses' limitation - if required, flight is prohibited without them",
+        "IMSAFE checklist applies: Illness, Medication, Stress, Alcohol, Fatigue, Emotion/Eating",
+        "PAVE checklist for risk assessment: Pilot, Aircraft, enVironment, External pressures",
+        "Get-there-itis is a hazardous attitude - recognize and mitigate external pressures",
+        "14 CFR 61.23 requires compliance with all medical certificate limitations",
+        "ADM principle: No flight is so important it cannot be delayed or cancelled for safety"
+      ]
+    }
+  ]
+}

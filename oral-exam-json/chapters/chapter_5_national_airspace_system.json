@@ -1,0 +1,1679 @@
+{
+  "chapter": 5,
+  "title": "Operation of Systems",
+  "questions": [
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 1,
+      "question": "What are the four main control surfaces and what are their functions? (FAA-H-8083-25) Elevators—The elevators control the movement of the airplane about its lateral axis. This motion is called pitch. Ailerons—The ailerons control the airplane’s movement about its longitudinal axis. This motion is called roll. Rudder—The rudder controls movement of the airplane about its vertical axis. This motion is called yaw. Trim Tabs—Trim tabs are small, adjustable hinged-surfaces on the aileron, rudder, or elevator control surfaces. They are labor-saving devices that enable the pilot to release manual pressure on the primary control.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Elevators control pitch (movement about lateral axis)",
+        "Ailerons control roll (movement about longitudinal axis)",
+        "Rudder controls yaw (movement about vertical axis)",
+        "Trim tabs are adjustable surfaces that relieve control pressure",
+        "Trim tabs are located on ailerons, rudder, or elevator",
+        "Each control surface corresponds to one of three axes of rotation"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 2,
+      "question": "How are the various flight controls operated? (AFM) The flight control surfaces are manually actuated through use of either a rod or cable system. A control wheel actuates the ailerons and elevator, and rudder/brake pedals actuate the rudder.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Flight controls are manually actuated via rod or cable systems",
+        "Control wheel operates ailerons and elevator",
+        "Rudder pedals actuate the rudder",
+        "Brake pedals are combined with rudder pedals"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 3,
+      "question": "What are flaps and what is their function? (FAA-H-8083-25) The wing flaps are movable panels on the inboard trailing edges of the wings. They are hinged so that they may be extended downward into the flow of air beneath the wings to increase both lift and drag. Their purpose is to permit a slower airspeed and a steeper angle of descent during a landing approach. In some cases, they may also be used to shorten the takeoff distance.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Flaps are located on inboard trailing edges of wings",
+        "Flaps increase both lift and drag when extended",
+        "Flaps permit slower airspeed on approach",
+        "Flaps allow steeper angle of descent during landing",
+        "Flaps can shorten takeoff distance when used for departure",
+        "Flaps are hinged panels that extend downward into airflow"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 4,
+      "question": "Describe the landing gear system on this airplane. (AFM) The landing gear consists of a tricycle-type system utilizing two main wheels and a steerable nosewheel. Tubular spring steel main gear struts provide main gear shock absorption, while nose gear shock absorption is provided by a combination air/oil shock strut.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Tricycle-type landing gear: two main wheels plus steerable nosewheel",
+        "Main gear shock absorption: tubular spring steel struts",
+        "Nose gear shock absorption: combination air/oil shock strut (oleo strut)",
+        "Steerable nosewheel connected to rudder pedals for ground steering"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 5,
+      "question": "Describe the braking system on this aircraft. (AFM) Hydraulically actuated disc-type brakes are utilized on each main gear wheel. A hydraulic line connects each brake to a master cylinder located on each pilot’s rudder pedals. By applying pressure to the top of either the pilot’s or copilot’s set of rudder pedals, the brakes may be applied.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Hydraulically actuated disc-type brakes on each main gear wheel",
+        "Each brake connected to its own master cylinder on rudder pedals",
+        "Brakes applied by pressing top of rudder pedals (toe brakes)",
+        "Both pilot and copilot rudder pedals can actuate brakes independently",
+        "Differential braking possible for ground maneuvering"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 6,
+      "question": "What type of hydraulic fluid does your aircraft use and what color is it? (FAA-H-8083-25, FAA-H-8083-31) Refer to your AFM/POH; a mineral-based hydraulic fluid (MIL-H-5606) is the most widely used type for small aircraft. It has an odor similar to penetrating oil and is dyed red. A newer, fire-resistant fluid (MIL-H-83282) is also used in small aircraft and is dyed red.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, FAA-H-8083-31"
+      ],
+      "key_reference_points": [
+        "MIL-H-5606: mineral-based hydraulic fluid, most common in small aircraft",
+        "MIL-H-83282: fire-resistant hydraulic fluid, also used in small aircraft",
+        "Both fluid types are dyed RED",
+        "MIL-H-5606 has odor similar to penetrating oil",
+        "Always verify correct fluid type in your specific aircraft's AFM/POH",
+        "Never mix different types of hydraulic fluid"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 7,
+      "question": "How is steering accomplished on the ground? (AFM) Light airplanes are generally provided with nosewheel steering capabilities through a simple system of mechanical linkage connected to the rudder pedals. When a rudder pedal is depressed, a spring-loaded bungee (push-pull rod) connected to the pivotal portion of a nosewheel strut will turn the nosewheel.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Nosewheel steering is mechanically linked to the rudder pedals",
+        "A spring-loaded bungee or push-pull rod connects rudder pedals to nosewheel strut",
+        "Depressing a rudder pedal turns the nosewheel in that direction",
+        "Differential braking can supplement nosewheel steering for tighter turns",
+        "Nosewheel steering is only effective with forward momentum or while taxiing"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 8,
+      "question": "What type of engine does your aircraft have? (AFM) A horizontally opposed four-cylinder, overhead-valve, air-cooled, carbureted engine. The engine is manufactured by Lycoming and rated at 110 HP.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Horizontally opposed engine configuration (cylinders opposite each other)",
+        "Four-cylinder, overhead-valve design",
+        "Air-cooled (no liquid cooling system)",
+        "Carbureted fuel delivery system (not fuel injected)",
+        "Lycoming manufacturer with 110 HP rating",
+        "Know your specific aircraft's engine model number (e.g., O-235)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 9,
+      "question": "What four strokes must occur in each cylinder of a typical four stroke engine in order for it to produce full power? (FAA-H-8083-25) The four strokes are: Intake—begins as the piston starts its downward travel causing the intake valve to open and the fuel-air mixture to be drawn into the cylinder. Compression—begins when the intake valve closes, and the piston starts moving back to the top of the cylinder. This phase of the cycle is used to obtain a much greater power output from the fuel-air mixture once it is ignited. Power—begins when the fuel-air mixture is ignited which causes a tremendous pressure increase in the cylinder and forces the piston downward away from the cylinder head, creating the power that turns the crankshaft. Exhaust—is used to purge the cylinder of burned gases and begins when the exhaust valve opens, and the piston starts to move toward the cylinder head once again. Remember: Suck, Squeeze, Bang, Blow",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Four strokes: Intake, Compression, Power, Exhaust",
+        "Memory aid: Suck, Squeeze, Bang, Blow",
+        "Intake: piston moves down, intake valve opens, fuel-air mixture drawn in",
+        "Compression: both valves closed, piston moves up compressing the mixture",
+        "Power: spark ignites mixture, expanding gases force piston down, turns crankshaft",
+        "Exhaust: exhaust valve opens, piston moves up pushing burned gases out"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 10,
+      "question": "What does the carburetor do? (FAA-H-8083-25) Carburetion may be defined as the process of mixing fuel and air in the correct proportions so as to form a combustible mixture. The carburetor vaporizes liquid fuel into small particles and then mixes it with air. It measures the airflow and meters fuel accordingly.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Carburetion is the process of mixing fuel and air in correct proportions to form a combustible mixture",
+        "Carburetor vaporizes liquid fuel into small particles",
+        "Carburetor measures airflow and meters fuel accordingly",
+        "Proper fuel-to-air ratio is essential for combustion"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 11,
+      "question": "How does the carburetor heat system work? (AFM) A carburetor heat valve, controlled by the pilot, allows unfiltered, heated air from a shroud located around an exhaust riser or muffler to be directed to the induction air manifold prior to the carburetor. Carburetor heat should be used anytime suspected or known carburetor icing conditions exist.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Carburetor heat valve is controlled by the pilot",
+        "Heated air comes from a shroud around the exhaust riser or muffler",
+        "Heated air is directed to the induction air manifold before the carburetor",
+        "Heated air bypasses the air filter (unfiltered)",
+        "Use carburetor heat anytime suspected or known carburetor icing conditions exist"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 12,
+      "question": "What change occurs to the fuel/air mixture when applying carburetor heat? (FAA-H-8083-25) Normally, the introduction of heated air into the carburetor will result in a richer mixture. Warm air is less dense, resulting in less air for the same amount of fuel. Use of carburetor heat can cause a decrease in engine power of up to 15 percent.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Applying carburetor heat results in a RICHER mixture",
+        "Warm air is less dense, meaning less air enters for the same amount of fuel",
+        "Carburetor heat can cause up to 15% decrease in engine power",
+        "Expect RPM drop when carburetor heat is applied (normal indication)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 13,
+      "question": "What does the throttle do? (FAA-H-8083-25) The throttle allows the pilot to manually control the amount of fuel/air charge entering the cylinders. This in turn regulates the engine speed and power.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Throttle controls the amount of fuel/air mixture entering the cylinders",
+        "Controls engine RPM and power output",
+        "Forward throttle = more power, aft throttle = less power",
+        "Works similarly to a gas pedal in a car"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 14,
+      "question": "What does the mixture control do? (FAA-H-8083-25) It regulates the fuel-to-air ratio. All airplane engines incorporate a device called a mixture control, by which the fuel/air ratio can be controlled by the pilot during flight. The purpose of a mixture control is to prevent the mixture from becoming too rich at high altitudes, due to decreasing air density. It is also used to lean the mixture during cross-country flights to conserve fuel and provide optimum power.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Mixture control regulates the fuel-to-air ratio",
+        "Lean mixture at high altitudes to compensate for decreased air density",
+        "Rich mixture for takeoff, climb, and high power settings",
+        "Leaning during cruise conserves fuel and optimizes power",
+        "Full rich typically used below 3,000 feet density altitude",
+        "Red knob typically identifies the mixture control"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 15,
+      "question": "Describe a fuel injection system installed in some aircraft. (FAA-H- 8083-25) The fuel injection system injects fuel directly into the cylinders, or just ahead of the intake valve. It incorporates six basic components:",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fuel injection sprays fuel directly into cylinders or just ahead of intake valve",
+        "Six basic components: fuel pump, fuel/air control unit, fuel manifold, discharge nozzles, fuel pressure gauge, fuel flow indicator",
+        "Advantages: more uniform fuel distribution, improved fuel efficiency, instant throttle response",
+        "Disadvantages: harder to start when hot, vapor lock susceptibility",
+        "No carburetor ice potential since no venturi"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 1,
+      "question": "Engine-driven fuel pump—provides fuel under pressure from the fuel tank to the fuel/air control unit.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Engine-driven fuel pump is the primary pump in fuel-injected engines",
+        "Provides positive fuel pressure from tank to fuel/air control unit",
+        "Located between the fuel tank and fuel metering system",
+        "Typically backed up by an auxiliary electric boost pump for starting and emergencies"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 2,
+      "question": "Fuel/air control unit—meters fuel based on the mixture control setting and sends it to the fuel manifold valve at a rate controlled by the throttle.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fuel/air control unit is the metering device in fuel injection systems",
+        "Mixture control setting determines the fuel-to-air ratio",
+        "Throttle position controls the rate/quantity of fuel flow",
+        "Replaces the carburetor's function in fuel-injected engines",
+        "Sends metered fuel to the fuel manifold valve for distribution"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 3,
+      "question": "Fuel manifold valve—distributes fuel to the individual fuel discharge nozzles.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fuel manifold valve (also called fuel distributor or flow divider)",
+        "Provides equal fuel distribution to all cylinders",
+        "Routes fuel to individual fuel discharge nozzles at each cylinder",
+        "Located downstream of the fuel/air control unit",
+        "Ensures balanced fuel delivery for smooth engine operation"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 4,
+      "question": "Discharge nozzles—located in each cylinder head, these inject the fuel/air mixture at the precise time for each cylinder directly into each cylinder intake port.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Discharge nozzles are located in each cylinder head",
+        "They inject fuel/air mixture directly into cylinder intake ports",
+        "Injection timing is precise and specific to each cylinder",
+        "Part of the fuel injection system (not carburetor)",
+        "Provides more even fuel distribution than carbureted systems"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 5,
+      "question": "Auxiliary fuel pump—provides fuel under pressure to fuel/air control unit for engine starting and/or emergency use.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Auxiliary fuel pump is also called boost pump or electric fuel pump",
+        "Primary uses: engine starting and emergency backup",
+        "Provides pressurized fuel to the fuel/air control unit",
+        "Used if engine-driven fuel pump fails",
+        "Typically activated before engine start and during takeoff/landing as a precaution"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 6,
+      "question": "Fuel pressure/flow indicators—measures metered fuel pressure/flow.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fuel pressure gauge measures pressure of metered fuel going to engine",
+        "Fuel flow indicator shows fuel consumption rate (typically in GPH)",
+        "Green arc indicates normal operating range",
+        "Red line indicates minimum/maximum limits",
+        "Used to verify proper fuel system operation and detect fuel system malfunctions"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 16,
+      "question": "What type of ignition system does your airplane have? (AFM) Engine ignition is provided by two engine-driven magnetos, and two spark plugs per cylinder. The ignition system is completely independent of the aircraft electrical system. The magnetos are engine-driven self-contained units supplying electrical current without using an external source of current. However, before they can produce current, the magnetos must be actuated, as the engine crankshaft is rotated by some other means. To accomplish this, the aircraft battery furnishes electrical power to operate a starter which, through a series of gears, rotates the engine crankshaft. This in turn actuates the armature of the magneto to produce the sparks for ignition of the fuel in each cylinder. After the engine starts, the starter system is disengaged, and the battery no longer contributes to the actual operation of the engine.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Two engine-driven magnetos provide ignition",
+        "Two spark plugs per cylinder for redundancy",
+        "Ignition system is completely independent of aircraft electrical system",
+        "Magnetos are self-contained and generate their own electrical current",
+        "Battery and starter only needed to initially rotate crankshaft for engine start",
+        "After engine starts, battery is not required for continued engine operation"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 17,
+      "question": "What are the two main advantages of a dual ignition system? (FAA- H-8083-25)",
+      "answer": "a. Increased safety: in case one system fails the engine may be operated on the other until a landing is safely made. b. More complete and even combustion of the mixture, and consequently, improved engine performance; i.e., the fuel/air mixture will be ignited on each side of the combustion chamber and burn toward the center.",
+      "references": [],
+      "key_reference_points": [
+        "Safety redundancy: if one magneto fails, engine continues running on the other",
+        "Improved combustion: two spark plugs ignite mixture from both sides of cylinder",
+        "More complete burning of fuel/air mixture improves engine performance",
+        "Dual ignition allows continued flight to a safe landing if one system fails",
+        "Even combustion reduces engine stress and increases efficiency"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 18,
+      "question": "What type of fuel system does your aircraft have? (AFM) The fuel system is a “gravity feed” system. Using gravity, the fuel flows from two wing fuel tanks to a fuel shutoff valve which, in the “on” position, allows fuel to flow through a strainer and then to the carburetor. From there, the fuel is mixed with air and then flows into the cylinders through the intake manifold tubes.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Gravity feed system uses no fuel pumps - fuel flows by gravity alone",
+        "Fuel flows from wing tanks to fuel shutoff valve to strainer to carburetor",
+        "Fuel shutoff valve must be in ON position for fuel to flow",
+        "Fuel strainer removes contaminants before fuel reaches carburetor",
+        "High-wing aircraft typically use gravity feed; low-wing aircraft require fuel pumps",
+        "Carburetor mixes fuel with air before entering intake manifold"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 19,
+      "question": "What purpose do fuel tank vents have? (AFM) As the fuel level in an aircraft fuel tank decreases, a vacuum would be created within the tank which would eventually result in a decreasing fuel flow and finally engine stoppage. Fuel system venting provides a way of replacing fuel with outside air, preventing formation of a vacuum.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fuel tank vents prevent vacuum formation as fuel is consumed",
+        "Vents allow outside air to replace fuel, maintaining positive pressure",
+        "Blocked vents can cause fuel flow reduction and eventual engine stoppage",
+        "Vent blockage can also cause tank structural damage due to pressure differential",
+        "Always check vents are clear during preflight inspection"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 20,
+      "question": "Does your aircraft use a fuel pump? (AFM) No, the fuel is transferred from the wing tanks to the carburetor by the “gravity feed” system. The gravity system does not require a fuel pump because the fuel is always under positive pressure to the carburetor. For some aircraft where for some reason it is not possible to place the wings above the carburetor, or for which a greater pressure is required than what gravity feed can supply, it is necessary to utilize engine-driven fuel pumps and auxiliary fuel pumps as backups.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Gravity feed systems rely on fuel tanks positioned above the carburetor",
+        "No fuel pump required when fuel flows under constant positive pressure from gravity",
+        "High-wing aircraft typically use gravity feed systems",
+        "Low-wing aircraft require engine-driven fuel pumps due to tank position",
+        "Aircraft with fuel pumps also have auxiliary/electric backup pumps for redundancy"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 21,
+      "question": "What type fuel does your aircraft require (minimum octane rating and color)? (AFM) The approved fuel grade used is 100LL and the color is blue.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "100LL (Low Lead) aviation gasoline is blue in color",
+        "The 100 indicates the octane rating",
+        "Never use fuel with a lower octane rating than specified in the AFM/POH",
+        "Higher grade fuel (100 octane) may be substituted if approved grade unavailable",
+        "Automotive gasoline requires an STC (Supplemental Type Certificate) for legal use",
+        "Always verify fuel grade and color during preflight and refueling"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 22,
+      "question": "Can other types of fuel be used if the specified grade is not available? (FAA-H-8083-25) Airplane engines are designed to operate using a specific grade of fuel as recommended by the manufacturer. If the proper grade of fuel is not available, it is possible, but not desirable, to use the next higher grade as a substitute. Always reference the aircraft’s AFM or POH. Auto gas should never be used in aircraft engines unless the aircraft has been modified with an FAA-issued Supplemental Type Certificate (STC).",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Use only the fuel grade specified by the manufacturer in the AFM/POH",
+        "If specified grade unavailable, next HIGHER grade may be substituted (not lower)",
+        "Auto gas requires an FAA-issued Supplemental Type Certificate (STC) to use legally",
+        "Using improper fuel grade is not desirable even when permitted",
+        "Always verify fuel requirements in the aircraft's AFM or POH before fueling"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 23,
+      "question": "What color of dye is added to the following fuel grades: 80, 100, 100LL, Turbine? (FAA-H-8083-25, FAA-P-8740-35) Grade Color 80 (obsolete) Red 100 (obsolete) Green 100LL Blue Jet A Colorless or Straw",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, FAA-P-8740-35"
+      ],
+      "key_reference_points": [
+        "100LL (Low Lead) is dyed BLUE - most common aviation fuel",
+        "Grade 100 is dyed GREEN (obsolete)",
+        "Grade 80 is dyed RED (obsolete)",
+        "Jet A is COLORLESS or STRAW colored",
+        "Fuel color identification prevents misfueling accidents",
+        "Always visually verify fuel color during preflight sampling"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 24,
+      "question": "If a non-turbine piston engine powered airplane is accidentally fueled with JET-A fuel, will it start? (FAA-H-8083-25, FAA-P-8740-35) Yes. Reciprocating engines may run briefly on jet fuel, but detonation and overheating will soon cause power failure. When an aircraft that requires Avgas is inadvertently fueled with Jet A, there is usually a small amount of Avgas remaining in the aircraft’s fuel system (tanks, fuel lines, carburetor, etc.). This remaining fuel can enable an aircraft to taxi, perform an engine run-up, and possibly even take off before experiencing a catastrophic engine failure.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, FAA-P-8740-35"
+      ],
+      "key_reference_points": [
+        "Piston engine MAY start and run briefly on Jet A due to residual Avgas in system",
+        "Jet A in piston engines causes detonation and overheating leading to power failure",
+        "Aircraft may taxi, run-up, and even take off before catastrophic engine failure occurs",
+        "Misfueling is extremely dangerous - failure often occurs shortly after takeoff",
+        "Always verify proper fuel type (color) during preflight fuel sampling"
+      ],
+      "note": "Other than the kerosene smell and the oily feel when rubbed between the fingers, it can be very difficult to visually identify an accidental mixture of 100LL Avgas (blue) and Jet A (straw color)."
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 25,
+      "question": "What is the function of the manual primer, and how does it operate? (AFM) The manual primer’s main function is to provide assistance in starting the engine. The primer draws fuel from the fuel strainer and injects it directly into the cylinder intake ports. This usually results in a quicker, more efficient engine start.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Manual primer draws fuel from the fuel strainer",
+        "Primer injects fuel directly into cylinder intake ports",
+        "Used to assist in cold engine starting",
+        "Must be locked after use to prevent fuel from being drawn into cylinders during operation",
+        "Unlocked primer can cause rough engine operation or engine failure"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 26,
+      "question": "Describe the electrical system on your aircraft. (AFM) Electrical energy is provided by a 28-volt, direct-current system powered by an engine-driven 60-amp alternator and a 24-volt battery.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "28-volt direct-current (DC) electrical system",
+        "Engine-driven alternator rated at 60 amps",
+        "24-volt battery provides backup and starting power",
+        "Alternator is primary power source when engine is running",
+        "Battery supplies power for engine start and serves as backup if alternator fails"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 27,
+      "question": "How are the circuits for the various electrical accessories within the aircraft protected? (AFM) Most of the electrical circuits in an airplane are protected from an overload condition by either circuit breakers or fuses or both. Circuit breakers perform the same function as fuses except that when an overload occurs, a circuit breaker can be reset.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Circuit breakers and fuses protect against electrical overload",
+        "Circuit breakers can be reset after tripping; fuses must be replaced",
+        "Never reset a circuit breaker more than once in flight",
+        "A popped breaker indicates a fault in that circuit",
+        "Spare fuses of proper amperage required for flight per 14 CFR 91.205"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 28,
+      "question": "The electrical system provides power for what equipment in an airplane? (AFM) Normally, the following:",
+      "answer": "a. Radio equipment b. Turn coordinator c. Fuel gauges d. Pitot heat e. Landing light f. Taxi light g. Strobe lights h. Interior lights i. Instrument lights j. Position lights k. Flaps (maybe) l. Stall warning system (maybe) m. Oil temperature gauge n. Electric fuel pump (maybe)",
+      "references": [],
+      "key_reference_points": [
+        "Radios and communication/navigation equipment are electrically powered",
+        "Turn coordinator uses electric gyro (unlike attitude indicator and heading indicator which are typically vacuum)",
+        "Fuel quantity gauges are required to be electrically powered per regulations",
+        "Pitot heat prevents ice blockage and is electrically heated",
+        "All exterior lights (landing, taxi, strobe, position) are electrical",
+        "Flaps may be electric or hydraulic depending on aircraft type"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 29,
+      "question": "What does the ammeter indicate? (AFM) The ammeter indicates the flow of current, in amperes, from the alternator to the battery or from the battery to the electrical system. With the engine running and master switch on, the ammeter will indicate the charging rate to the battery. If the alternator has gone off-line and is no longer functioning, or the electrical load exceeds the output of the alternator, the ammeter indicates the discharge rate of the battery.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Ammeter shows current flow in amperes between alternator and battery",
+        "Positive indication (+) means alternator is charging the battery",
+        "Negative indication (-) means battery is discharging to power the system",
+        "Negative reading indicates alternator failure or electrical load exceeds alternator output",
+        "With engine running and master ON, ammeter should show slight positive charge"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 30,
+      "question": "What function does the voltage regulator have? The voltage regulator is a device which monitors system voltage, detects changes, and makes the required adjustments in the output of the alternator to maintain a constant regulated system voltage. It must do this at low RPM, such as during taxi, as well as at high RPM in flight. In a 28-volt system, it will maintain 28 volts ±0.5 volts.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Voltage regulator maintains constant system voltage regardless of engine RPM",
+        "Monitors and adjusts alternator output automatically",
+        "Must function at both low RPM (taxi) and high RPM (flight)",
+        "28-volt systems maintain 28V ±0.5 volts; 14-volt systems maintain approximately 14 volts",
+        "Prevents overcharging of battery and damage to electrical components"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 31,
+      "question": "Why is the generator/alternator voltage output slightly higher than the battery voltage? (FAA-H-8083-25) The difference in voltage keeps the battery charged. For example, a 12-volt battery would be supplied with 14 volts.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Generator/alternator output is typically 2 volts higher than battery voltage",
+        "12-volt battery system uses 14-volt alternator output",
+        "24-volt battery system uses 28-volt alternator output",
+        "Voltage differential maintains battery charge during flight",
+        "Alternator must produce higher voltage to overcome battery resistance and keep it charged"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 32,
+      "question": "How does the aircraft cabin heat work? (AFM) Fresh air, heated by an exhaust shroud, is directed to the cabin through a series of ducts.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Cabin heat uses an exhaust shroud wrapped around the exhaust system",
+        "Fresh outside air passes over the hot exhaust manifold to be heated",
+        "Heated air is directed into cabin through a duct system",
+        "Exhaust shroud cracks can allow carbon monoxide into cabin",
+        "CO detector recommended; symptoms include headache, drowsiness, cherry-red skin"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 33,
+      "question": "How does the pilot control temperature in the cabin? (AFM) Temperature is controlled by mixing outside air (cabin air control) with heated air (cabin heat control) in a manifold near the cabin firewall. This air is then ducted to vents located on the cabin floor.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Cabin air control admits unheated outside air",
+        "Cabin heat control admits air heated by exhaust shroud",
+        "Both air sources mix in a manifold near the firewall",
+        "Mixed air is distributed through floor vents",
+        "Pilot adjusts both controls to achieve desired cabin temperature"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aircraft and Engine Operations",
+      "number": 34,
+      "question": "What are the five basic functions of aircraft engine oil? (FAA-H- 8083-25) Lubricates—the engine’s moving parts Cools—the engine by reducing friction Removes—heat from the cylinders Seals—provides a seal between the cylinder walls and pistons Cleans—by carrying off metal and carbon particles and other oil contaminants",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Lubricates moving parts to reduce metal-to-metal contact",
+        "Cools engine by reducing friction and absorbing heat",
+        "Removes heat from cylinders and carries it to the oil cooler",
+        "Seals the gap between cylinder walls and pistons",
+        "Cleans by carrying away metal particles, carbon, and contaminants"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 1,
+      "question": "What causes “carburetor icing,” and what are the first indications of its presence? (FAA-H-8083-25) The vaporization of fuel, combined with the expansion of air as it passes through the carburetor, causes a sudden cooling of the mixture. The temperature of the air passing through the carburetor may drop as much as 60°F within a fraction of a second. Water vapor is squeezed out by this cooling, and if the temperature in the carburetor reaches 32°F or below, the moisture will be deposited as frost or ice inside the carburetor. For airplanes with a fixed-pitch propeller, the first indication of carburetor icing is loss of RPM. For airplanes with controllable-pitch (constant-speed) propellers, the first indication is usually a drop in manifold pressure.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Fuel vaporization and air expansion cause rapid temperature drop (up to 60°F)",
+        "Carburetor ice can form when temperature drops to 32°F or below",
+        "Carburetor ice can occur at ambient temperatures between 20°F and 70°F with visible moisture or high humidity",
+        "Fixed-pitch propeller: first indication is loss of RPM",
+        "Constant-speed propeller: first indication is drop in manifold pressure",
+        "Most likely to occur during reduced power settings (descent or cruise)"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 2,
+      "question": "What method is used to determine that carburetor ice has been eliminated? (FAA-H-8083-25) When heat is first applied, there will be a drop in RPM in airplanes equipped with a fixed-pitch propeller; there will be a drop in manifold pressure in airplanes equipped with a controllable-pitch propeller. If ice is present there will be a rise in RPM or manifold pressure after the initial drop (often accompanied by intermittent engine roughness); and then, when the carburetor heat is turned “off,” the RPM or manifold pressure will rise to a setting greater than that before application of heat. The engine should run more smoothly after the ice has been removed.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Initial application of carb heat causes RPM drop (fixed-pitch) or manifold pressure drop (constant-speed)",
+        "If ice is present, RPM or manifold pressure will rise after the initial drop",
+        "Engine may run rough intermittently as ice melts",
+        "When carb heat is turned off, RPM/MP should be higher than before heat was applied",
+        "Engine should run smoother after ice is eliminated"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 3,
+      "question": "What conditions are favorable for carburetor icing? (FAA-H-8083-25) Carburetor ice is most likely to occur when temperatures are below 70°F (21°C) and the relative humidity is above 80 percent. However, due to the sudden cooling that takes place in the carburetor, icing can occur even with temperatures as high as 100°F (38°C) and humidity as low as 50 percent. This temperature drop can be as much as 60° to 70°F.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Carb ice most likely when temps below 70°F (21°C) and humidity above 80%",
+        "Can occur at temps up to 100°F (38°C) and humidity as low as 50%",
+        "Temperature drop in carburetor can be 60-70°F",
+        "Caused by fuel vaporization and pressure drop in the venturi",
+        "Most dangerous during reduced power settings (throttle partially closed)"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 4,
+      "question": "Define the terms “anti-icing equipment” and “deicing equipment” and state several examples of each. (FAA-H-8083-3; FAA-H-8083-25) Anti-icing equipment—prevents ice from forming on certain protected surfaces. Examples are heated pitot tubes and static ports, carburetor heat, heated fuel vents, propeller blades with electro-thermal boots, and heated windshields. It is normally actuated prior to flight into suspected icing conditions. Reference your AFM/POH. Deicing equipment—removes ice that has already formed on protected surfaces. It is generally limited to pneumatic boots on the wing and tail leading edges.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-3; FAA-H-8083-25"
+      ],
+      "key_reference_points": [
+        "Anti-icing PREVENTS ice from forming - activated BEFORE entering icing conditions",
+        "Anti-icing examples: heated pitot tubes, carburetor heat, heated fuel vents, electro-thermal prop boots, heated windshields",
+        "Deicing REMOVES ice that has already formed",
+        "Deicing examples: pneumatic boots on wing and tail leading edges",
+        "Always reference AFM/POH for specific aircraft equipment and procedures"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 5,
+      "question": "Describe how an aircraft deicing system works. (FAA-H-8083-3) Upon pilot actuation, boots attached to the wing leading edges inflate with air from a pneumatic pump(s) to break off accumulated ice. After a few seconds of inflation, they are deflated back to their normal position with vacuum assistance. The pilot monitors the buildup of ice and cycles the boots as directed in the AFM/POH.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Pneumatic boots are attached to wing and tail leading edges",
+        "Boots inflate with air from engine-driven pneumatic pump(s)",
+        "Inflation breaks off accumulated ice",
+        "Boots deflate back to normal position using vacuum assistance",
+        "Pilot monitors ice buildup and cycles boots per AFM/POH guidance",
+        "Do not cycle boots too early - wait for sufficient ice accumulation"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 6,
+      "question": "If an airplane has anti-icing and/or deicing equipment installed, can it be flown into icing conditions? (FAA-H-8083-3) Even though it may appear elaborate and complete, the presence of anti-icing and deicing equipment does not necessarily mean that an airplane is approved for flight in icing conditions. The AFM/POH, placards, and even the manufacturer should be consulted for specific determination of approvals and limitations.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Anti-icing/deicing equipment presence does NOT automatically approve flight into icing conditions",
+        "Must consult AFM/POH for specific icing condition approvals",
+        "Check aircraft placards for icing limitations",
+        "Contact manufacturer if approval status is unclear",
+        "Known icing approval requires specific FAA certification, not just equipment installation"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 7,
+      "question": "What is “detonation”? (FAA-H-8083-25) Detonation is an uncontrolled, explosive ignition of the fuel/air mixture within the cylinder’s combustion chamber. It causes excessive temperature and pressure which, if not corrected, can quickly lead to failure of the piston, cylinder, or valves. In less severe cases, detonation causes engine overheating, roughness, or loss of power. Detonation is characterized by high cylinder head temperatures, and is most likely to occur when operating at high power settings.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Detonation is uncontrolled, explosive ignition of fuel/air mixture in the cylinder",
+        "Causes excessive temperatures and pressures that can destroy pistons, cylinders, or valves",
+        "Symptoms include engine overheating, roughness, and loss of power",
+        "Indicated by high cylinder head temperatures (CHT)",
+        "Most likely to occur at high power settings",
+        "Different from pre-ignition (detonation occurs after normal ignition)"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 8,
+      "question": "What are some of the most common operational causes of detonation? (FAA-8083-25)",
+      "answer": "a. Using a lower fuel grade than that specified by the aircraft manufacturer. b. Operating with extremely high manifold pressures in conjunction with low RPM. c. Operating the engine at high power settings with an excessively lean mixture. d. Extended ground operations or steep climbs where cylinder cooling is reduced.",
+      "references": [],
+      "key_reference_points": [
+        "Using lower fuel grade than manufacturer specified (e.g., 80 octane instead of 100LL)",
+        "High manifold pressure combined with low RPM (over-square operation)",
+        "Operating at high power with excessively lean mixture",
+        "Extended ground operations reduce cylinder cooling",
+        "Steep climbs reduce cooling airflow over cylinders",
+        "Correct by reducing power, enrichening mixture, or increasing airspeed for cooling"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 9,
+      "question": "What action should be taken if detonation is suspected? (FAA-H-8083- 25) Detonation may be avoided by following these basic guidelines during the various phases of ground and flight operations:",
+      "answer": "a. Ensure that the proper grade of fuel is used. b. Keep the cowl flaps (if available) in the full-open position while on the ground to provide the maximum airflow through the cowling. c. Use an enriched fuel mixture, as well as a shallow climb angle, to increase cylinder cooling during takeoff and initial climb. d. Avoid extended, high power, steep climbs. e. Develop the habit of monitoring the engine instruments to verify proper operation according to procedures established by the manufacturer.",
+      "references": [],
+      "key_reference_points": [
+        "Use correct fuel grade for the aircraft",
+        "Keep cowl flaps full open on ground for maximum cooling",
+        "Use enriched mixture during takeoff and climb for cylinder cooling",
+        "Use shallow climb angle to increase airflow and cooling",
+        "Avoid extended high-power steep climbs",
+        "Monitor engine instruments per manufacturer procedures"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 10,
+      "question": "What is “preignition”? (FAA-H-8083-25) Pre-ignition occurs when the fuel/air mixture ignites prior to the engine’s normal ignition event resulting in reduced engine power and high operating temperatures. Premature burning is usually caused by a residual hot spot in the combustion chamber, often created by a small carbon deposit on a spark plug, a cracked spark plug insulator, or other damage in the cylinder that causes a part to heat sufficiently to ignite the fuel/air charge. As with detonation, pre-ignition may also cause severe engine damage, because the expanding gases exert excessive pressure on the piston while still on its compression stroke.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Preignition is fuel/air mixture igniting BEFORE normal ignition event",
+        "Caused by hot spots in combustion chamber (carbon deposits, cracked spark plug insulators)",
+        "Results in reduced engine power and high operating temperatures",
+        "Can cause severe engine damage due to excessive pressure on piston during compression stroke",
+        "Different from detonation - preignition occurs before spark, detonation occurs after"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 11,
+      "question": "What action should be taken if preignition is suspected? (FAA-H- 8083-25) Corrective actions for preignition include any type of engine operation which would promote cooling such as:",
+      "answer": "a. Reduce power. b. Reduce the climb rate for better cooling. c. Enrich the fuel/air mixture. d. Open cowl flaps if available.",
+      "references": [],
+      "key_reference_points": [
+        "Reduce power immediately",
+        "Reduce climb rate to promote cooling",
+        "Enrich the fuel/air mixture",
+        "Open cowl flaps if equipped",
+        "All corrective actions focus on cooling the engine"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 12,
+      "question": "During the before-takeoff runup, you switch the magnetos from the “BOTH” position to the “RIGHT” position and notice there is no RPM drop. What condition does this indicate? The left P-lead is not grounding, or the engine has been running only on the right magneto because the left magneto has totally failed.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "No RPM drop when switching from BOTH to RIGHT indicates left magneto is not firing",
+        "Two possible causes: left P-lead is not grounding OR left magneto has completely failed",
+        "P-lead grounds the magneto to shut it off; if disconnected, magneto stays hot but may not be firing",
+        "A completely failed left magneto means engine was running on right magneto only",
+        "Normal RPM drop is 50-175 RPM (aircraft specific); no drop is abnormal and requires maintenance"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 13,
+      "question": "Interpret the following ammeter indications.",
+      "answer": "a. Ammeter indicates a right deflection (positive). • After starting—Power from the battery used for starting is being replenished by the alternator; or, if a full-scale charge is indicated for more than 1 minute, the starter is still engaged and a shutdown is indicated. • During flight—A faulty voltage regulator is causing the alternator to overcharge the battery. Reset the system and if the condition continues, terminate the flight as soon as possible. b. Ammeter indicates a left deflection (negative). • After starting—It is normal during start. At other times this indicates the alternator is not functioning or an overload condition exists in the system. The battery is not receiving a charge. • During flight—The alternator is not functioning or an overload exists in the system. The battery is not receiving a charge. Possible causes: the master switch was accidentally shut off, or the alternator circuit breaker tripped.",
+      "references": [],
+      "key_reference_points": [
+        "Positive (right) deflection after start = alternator replenishing battery used for starting (normal)",
+        "Full-scale positive charge for more than 1 minute after start = starter still engaged, shut down immediately",
+        "Positive deflection in flight = faulty voltage regulator causing overcharging, reset system or terminate flight",
+        "Negative (left) deflection after start = normal momentarily during engine start",
+        "Negative deflection in flight = alternator not functioning, battery not receiving charge",
+        "Causes of negative deflection: master switch off, alternator circuit breaker tripped, or alternator failure"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 14,
+      "question": "What action should be taken if the ammeter indicates a continuous discharge while in flight? The alternator has quit producing a charge, so the alternator circuit breaker should be checked and reset if necessary. If this does not correct the problem, the following should be accomplished:",
+      "answer": "a. The alternator should be turned off; pull the circuit breaker (the field circuit will continue to draw power from the battery). b. All electrical equipment not essential to flight should be turned off (the battery is now the only source of electrical power). c. The flight should be terminated and a landing made as soon as possible.",
+      "references": [],
+      "key_reference_points": [
+        "Continuous discharge means alternator is not producing power",
+        "First action: check and reset alternator circuit breaker",
+        "If reset fails: turn off alternator/pull circuit breaker to prevent field circuit battery drain",
+        "Turn off all non-essential electrical equipment to conserve battery",
+        "Battery is now the only power source; terminate flight and land as soon as possible",
+        "Essential equipment to keep on: communications and navigation as needed for safe landing"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 15,
+      "question": "What action should be taken if the ammeter indicates a continuous charge while in flight (more than two needle widths)? If a continuous excessive rate of charge were allowed for any extended period of time, the battery would overheat and evaporate the electrolyte at an excessive rate. A possible explosion of the battery could result. Also, electronic components in the electrical system would be adversely affected by higher than normal voltage. Protection is provided by an overvoltage sensor which will shut the alternator down if an excessive voltage is detected. If this should occur the following should be done:",
+      "answer": "a. The alternator should be turned off; pull the circuit breaker (the field circuit will continue to draw power from the battery). b. All electrical equipment not essential to flight should be turned off (the battery is now the only source of electrical power). c. The flight should be terminated and a landing made as soon as possible.",
+      "references": [],
+      "key_reference_points": [
+        "Continuous excessive charge can cause battery overheating and possible explosion",
+        "High voltage damages electronic components in the electrical system",
+        "Overvoltage sensor automatically shuts down alternator if excessive voltage detected",
+        "Immediately turn off alternator and pull circuit breaker",
+        "Turn off all non-essential electrical equipment to conserve battery",
+        "Land as soon as possible - battery is now the only power source"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 16,
+      "question": "During a cross-country flight you notice that the oil pressure is low, but the oil temperature is normal. What is the problem and what action should be taken? A low oil pressure in flight could be the result of any one of several problems, the most common being that of insufficient oil. If the oil temperature continues to remain normal, a clogged oil pressure relief valve or an oil pressure gauge malfunction could be the culprit. In any case, a landing at the nearest airport is advisable to check for the cause of trouble.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Low oil pressure with normal oil temperature may indicate insufficient oil quantity",
+        "Other possible causes: clogged oil pressure relief valve or gauge malfunction",
+        "Normal oil temperature suggests engine is not yet damaged",
+        "Land at the nearest airport to investigate the cause",
+        "Do not continue flight - oil system problems can lead to engine failure"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 17,
+      "question": "What procedures should be followed concerning a partial loss of power in flight? (AFM) If a partial loss of power occurs, the first priority is to establish and maintain a suitable airspeed (best glide airspeed if necessary). Then, select an emergency landing area and remain within gliding distance. As time allows, attempt to determine the cause and correct it. Complete the following checklist:",
+      "answer": "a. Check the carburetor heat. b. Check the amount of fuel in each tank and switch fuel tanks if necessary. c. Check the fuel selector valve’s current position. d. Check the mixture control. e. Check that the primer control is all the way in and locked. f. Check the operation of the magnetos in all three positions; both, left or right.",
+      "references": [],
+      "key_reference_points": [
+        "First priority: establish and maintain best glide airspeed if necessary",
+        "Select emergency landing area and remain within gliding distance",
+        "Apply carburetor heat to address potential carburetor icing",
+        "Check fuel quantity in each tank and switch tanks if needed",
+        "Verify fuel selector valve position and mixture control setting",
+        "Ensure primer is in and locked; check magnetos in all positions (BOTH, L, R)"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 18,
+      "question": "What procedures should be followed if an engine fire develops in flight? (AFM) In the event of an engine fire in flight, the following procedures should be used:",
+      "answer": "a. Set the mixture control to “Idle cutoff.” b. Set the fuel selector valve to “Off.” c. Turn the master switch to “Off.” d. Set the cabin heat and air vents to “Off”; leave the overhead vents “On.” e. Establish an airspeed of 100 KIAS and increase the descent, if necessary, to find an airspeed that will provide for an incombustible mixture. f. Execute a forced landing procedures checklist.",
+      "references": [],
+      "key_reference_points": [
+        "Mixture to Idle Cutoff - stops fuel flow to engine",
+        "Fuel selector to Off - isolates fuel source",
+        "Master switch Off - eliminates electrical ignition sources",
+        "Cabin heat and air vents Off - prevents drawing fire into cabin",
+        "Establish 100 KIAS and increase descent to find incombustible airspeed",
+        "Execute forced landing checklist - fire requires immediate landing"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "System and Equipment Malfunctions",
+      "number": 19,
+      "question": "What procedures should be followed if an engine fire develops on the ground during starting? (AFM) Continue to attempt an engine start as a start will cause flames and excess fuel to be sucked back through the carburetor.",
+      "answer": "a. If the engine starts: • Increase the power to a higher RPM for a few moments; and • Shut down the engine and inspect it. b. If the engine does not start: • Set the throttle to the “Full” position. • Set the mixture control to “Idle cutoff.” • Continue to try an engine start in an attempt to put out the fire by vacuum. c. If the fire continues: • Turn the ignition switch to “Off.” • Turn the master switch to “Off.” • Set the fuel selector to “Off.” In all cases, evacuate the aircraft and obtain a fire extinguisher and/or assistance.",
+      "references": [],
+      "key_reference_points": [
+        "If engine starts: increase RPM briefly, then shut down and inspect",
+        "If engine doesn't start: throttle full, mixture idle cutoff, continue cranking to vacuum out fire",
+        "If fire continues: ignition Off, master Off, fuel selector Off",
+        "Always evacuate aircraft regardless of outcome",
+        "Continuing to crank engine draws flames back through carburetor",
+        "Have fire extinguisher ready and call for assistance"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 1,
+      "question": "What instruments operate off of the pitot/static system? (FAA-H-8083- 15) Altimeter, Vertical Speed, and Airspeed Indicator.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Altimeter - uses static pressure only",
+        "Vertical Speed Indicator (VSI) - uses static pressure only",
+        "Airspeed Indicator - uses both pitot (dynamic) and static pressure",
+        "Memory aid: 'A-V-A' for Altimeter, VSI, Airspeed"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 2,
+      "question": "How does an altimeter work? (FAA-H-8083-15) Aneroid wafers expand and contract as atmospheric pressure changes, and through a shaft and gear linkage, rotate pointers on the dial of the instrument.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Aneroid wafers are the sensing element that responds to atmospheric pressure changes",
+        "Wafers expand when pressure decreases (higher altitude) and contract when pressure increases (lower altitude)",
+        "Mechanical linkage (shaft and gears) converts wafer movement to pointer rotation on the dial",
+        "The altimeter is a sealed instrument measuring pressure differential against a constant reference"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 3,
+      "question": "What are the limitations of a pressure altimeter? (FAA-H-8083-15) Nonstandard pressure and temperature; temperature variations expand or contract the atmosphere and raise or lower pressure levels that the altimeter senses. On a warm day—The pressure level is higher than on a standard day. The altimeter indicates lower than actual altitude. On a cold day—The pressure level is lower than on a standard day. The altimeter indicates higher than actual altitude. Changes in surface pressure also affect pressure levels at altitude. Higher than standard pressure—The pressure level is higher than on a standard day. The altimeter indicates lower than actual altitude. Lower than standard pressure—The pressure level is lower than on a standard day. The altimeter indicates higher than actual altitude. Remember: High to low or hot to cold, look out below!",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Memory aid: 'High to low or hot to cold, look out below!'",
+        "Warm day = pressure level higher = altimeter reads LOWER than actual altitude",
+        "Cold day = pressure level lower = altimeter reads HIGHER than actual altitude",
+        "Higher than standard pressure (above 29.92) = altimeter reads LOWER than actual altitude",
+        "Lower than standard pressure (below 29.92) = altimeter reads HIGHER than actual altitude",
+        "Nonstandard pressure and temperature are the two main error sources"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 4,
+      "question": "Define and state how you would determine the following altitudes. (FAA-H-8083-25) Absolute altitude Indicated altitude Pressure altitude True altitude Density altitude Absolute altitude—the vertical distance of an aircraft above the terrain. Indicated altitude—the altitude read directly from the altimeter (uncorrected) after it is set to the current altimeter setting. Pressure altitude—the altitude when the altimeter setting window is adjusted to 29.92. Pressure altitude is used for computer solutions to determine density altitude, true altitude, true airspeed, etc. True altitude—the true vertical distance of the aircraft above sea level. Airport, terrain, and obstacle elevations found on aeronautical charts are true altitudes. Density altitude—pressure altitude corrected for nonstandard temperature variations. Directly related to an aircraft’s takeoff, climb, and landing performance.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Indicated altitude = uncorrected reading directly from altimeter set to current altimeter setting",
+        "Pressure altitude = altimeter reading when set to 29.92 in Hg (standard datum plane)",
+        "True altitude = actual vertical distance above mean sea level (MSL); shown on charts for airports/obstacles",
+        "Density altitude = pressure altitude corrected for nonstandard temperature; directly affects aircraft performance",
+        "Absolute altitude = height above ground level (AGL)/terrain",
+        "Pressure altitude is used to calculate density altitude, true altitude, and true airspeed"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 5,
+      "question": "How does the airspeed indicator operate? (FAA-H-8083-25) The airspeed indicator is a sensitive, differential pressure gauge which measures the difference between impact pressure from the pitot head and undisturbed atmospheric pressure from the static source. The difference is registered by the airspeed pointer on the face of the instrument.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Airspeed indicator is a differential pressure gauge",
+        "Measures difference between pitot (impact/ram) pressure and static (atmospheric) pressure",
+        "Pitot tube provides impact pressure; static port provides atmospheric pressure",
+        "Difference in pressures moves the airspeed pointer",
+        "Part of the pitot-static instrument group"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 6,
+      "question": "What is the limitation of the airspeed indicator? (FAA-H-8083-15) The airspeed indicator is subject to proper flow of air in the pitot/static system.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Requires unobstructed airflow through pitot tube and static ports",
+        "Blocked pitot tube causes inaccurate or frozen airspeed readings",
+        "Blocked static port causes erroneous indications",
+        "Ice, water, or debris can block pitot/static openings",
+        "Alternate static source can be used if primary static port is blocked"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 7,
+      "question": "What are the errors of the airspeed indicator? Position error—Caused by the static ports sensing erroneous static pressure; slipstream flow causes disturbances at the static port preventing actual atmospheric pressure measurement. It varies with airspeed, altitude and configuration, and may be a plus or minus value. Density error—Changes in altitude and temperature are not compensated for by the instrument. Compressibility error—Caused by the packing of air into the pitot tube at high airspeeds, resulting in higher than normal indications. It is usually not a factor at slower speeds.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Position error: caused by disturbed airflow at static ports; varies with airspeed, altitude, and configuration",
+        "Density error: instrument does not compensate for non-standard temperature or altitude",
+        "Compressibility error: air packing in pitot tube at high airspeeds causes higher-than-actual readings",
+        "Position error can be positive or negative",
+        "Compressibility error is negligible at typical training airspeeds"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 8,
+      "question": "What are the different types of aircraft speeds? (FAA-H-8083-25) Indicated Airspeed (IAS)—the speed of the airplane as observed on the airspeed indicator. It is the airspeed without correction for indicator, position (or installation), or compressibility errors. Calibrated Airspeed (CAS)—the airspeed indicator reading corrected for position (or installation), and instrument errors. CAS is equal to TAS at sea level in standard atmosphere. The color-coding for various design speeds marked on airspeed indicators may be IAS or CAS. Equivalent Airspeed (EAS)—the airspeed indicator reading corrected for position (or installation), or instrument error, and for adiabatic compressible flow for the particular altitude. EAS is equal to CAS at sea level in standard atmosphere. True Airspeed (TAS)—CAS corrected for altitude and nonstandard temperature; the speed of the airplane in relation to the air mass in which it is flying.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "IAS = uncorrected airspeed read directly from the indicator",
+        "CAS = IAS corrected for position/installation and instrument errors",
+        "TAS = CAS corrected for altitude and nonstandard temperature",
+        "TAS represents actual speed through the air mass",
+        "CAS equals TAS at sea level in standard atmosphere",
+        "EAS adds compressibility correction to CAS (relevant at high speeds/altitudes)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 9,
+      "question": "Name several important airspeed limitations not marked on the face of the airspeed indicator. (FAA-H-8083-25) Design maneuvering speed (V )—the maximum speed at which the structural A design’s limit load can be imposed (either by gusts or full deflection of the control surfaces) without causing structural damage. Note: Operating at or below VA does not provide structural protection against multiple full control inputs in one axis or full control inputs in more than one axis at the same time. Landing Gear Operating speed (V )—the maximum speed for extending or LO retracting the landing gear if using aircraft equipped with retractable landing gear. Best Angle-of-Climb speed (V )—important when a short-field takeoff to X clear an obstacle is required. Best Rate-of-Climb speed (V )—the airspeed that will give the pilot the most Y altitude in a given period of time.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "VA (Maneuvering Speed) = max speed for full control deflection without structural damage",
+        "VA does NOT protect against multiple or simultaneous full control inputs",
+        "VLO = maximum speed for extending/retracting landing gear",
+        "VX = best angle-of-climb speed (most altitude per distance, used for obstacle clearance)",
+        "VY = best rate-of-climb speed (most altitude per unit of time)",
+        "These speeds are found in POH/AFM, not marked on airspeed indicator"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 10,
+      "question": "What airspeed limitations apply to the color-coded marking system of the airspeed indicator? (FAA-H-8083-25) White Arc flap operating range Lower A/S Limit White Arc V (stall speed landing configuration) S0 Upper A/S Limit White Arc V (maximum flap extension speed) FE Green Arc normal operating range Lower A/S Limit Green Arc V (stall speed clean or specified configuration) S1 Upper A/S Limit Green Arc V (normal operations speed or maximum NO structural cruise speed) Yellow Arc Caution Range (operations in smooth air only) Red Line V (never exceed speed; above this speed, structural failure may NE occur.)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "White Arc = flap operating range (VS0 to VFE)",
+        "VS0 = stall speed in landing configuration (bottom of white arc)",
+        "VFE = maximum flap extended speed (top of white arc)",
+        "Green Arc = normal operating range (VS1 to VNO)",
+        "VS1 = stall speed clean configuration (bottom of green arc)",
+        "VNO = maximum structural cruising speed (top of green arc)",
+        "Yellow Arc = caution range (smooth air only)",
+        "Red Line = VNE (never exceed speed)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 11,
+      "question": "How does the vertical speed indicator work? (FAA-H-8083-15) The vertical speed indicator is a pressure differential instrument. Inside the instrument case is an aneroid very much like the one in an airspeed indicator. Both the inside of this aneroid and the inside of the instrument case are vented to the static system, but the case is vented through a calibrated orifice that causes the pressure inside the case to change more slowly than the pressure inside the aneroid. As the aircraft ascends, the static pressure becomes lower and the pressure inside the case compresses the aneroid, moving the pointer upward, showing a climb and indicating the number of feet per minute the aircraft is ascending.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "VSI is a pressure differential instrument",
+        "Contains an aneroid connected to the static system",
+        "Instrument case is vented through a calibrated orifice (restricted opening)",
+        "Case pressure changes more slowly than aneroid pressure due to the orifice",
+        "Pressure difference between aneroid and case moves the pointer",
+        "Shows rate of climb or descent in feet per minute"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Pitot/Static Flight Instruments",
+      "number": 12,
+      "question": "What are the limitations of the vertical speed indicator? (FAA-H- 8083-25) The VSI is not accurate until the aircraft is stabilized. Because of the restriction in airflow to the static line, a 6 to 9 second lag is required to equalize or stabilize the pressures. Sudden or abrupt changes in aircraft attitude will cause erroneous instrument readings as airflow fluctuates over the static port. Both rough control technique and turbulent air result in unreliable needle indications.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "VSI has a 6-9 second lag before readings stabilize",
+        "Aircraft must be stabilized for accurate readings",
+        "Sudden or abrupt attitude changes cause erroneous readings",
+        "Rough control technique produces unreliable indications",
+        "Turbulent air results in unreliable needle indications",
+        "Lag is caused by restricted airflow through the calibrated orifice"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 1,
+      "question": "What instruments contain gyroscopes? (FAA-H-8083-25)",
+      "answer": "a. the turn coordinator b. the heading indicator (directional gyro) c. the attitude indicator (artificial horizon)",
+      "references": [],
+      "key_reference_points": [
+        "Turn coordinator contains a gyroscope",
+        "Heading indicator (directional gyro) contains a gyroscope",
+        "Attitude indicator (artificial horizon) contains a gyroscope",
+        "Remember: 3 gyroscopic instruments in a standard six-pack"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 2,
+      "question": "What are the two fundamental properties of a gyroscope? (FAA-H- 8083-25) Rigidity in space—a gyroscope remains in a fixed position in the plane in which it is spinning. Precession—the tilting or turning of a gyro in response to a deflective force. The reaction to this force does not occur at the point where it was applied; rather, it occurs at a point that is 90° later in the direction of rotation. The rate at which the gyro precesses is inversely proportional to the speed of the rotor and proportional to the deflective force.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Rigidity in space: gyroscope remains fixed in the plane in which it is spinning",
+        "Precession: gyro tilts/turns in response to deflective force, occurring 90° later in direction of rotation",
+        "Precession rate is inversely proportional to rotor speed",
+        "Precession rate is directly proportional to the deflective force applied"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 3,
+      "question": "What are the various power sources that may be used to power the gyroscopic instruments in an airplane? (FAA-H-8083-25) In some airplanes, all the gyros are vacuum, pressure, or electrically operated; in others, vacuum or pressure systems provide the power for the heading and attitude indicators, while the electrical system provides the power for the turn coordinator. Most airplanes have at least two sources of power to ensure at least one source of bank information if one power source fails.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Gyros may be powered by vacuum, pressure, or electrical systems",
+        "Heading and attitude indicators typically use vacuum or pressure power",
+        "Turn coordinator typically uses electrical power",
+        "Most airplanes have at least two power sources for redundancy",
+        "Dual power sources ensure at least one source of bank information if one system fails"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 4,
+      "question": "How does the vacuum system operate? (FAA-H-8083-25) An engine-driven vacuum pump provides suction which pulls air from the instrument case. Normal pressure entering the case is directed against rotor vanes to turn the rotor (gyro) at high speed, much like a water wheel or turbine operates. Air is drawn into the instrument through a filter from the cockpit and eventually vented outside. Vacuum values vary between manufacturers (usually between 4.5 and 5.5 in. Hg.), but provide rotor speeds from 8,000 to 18,000 RPM.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Engine-driven vacuum pump creates suction to pull air through instrument case",
+        "Air directed against rotor vanes spins the gyro like a turbine",
+        "Air enters through a filter from the cockpit and vents outside",
+        "Normal vacuum pressure: 4.5 to 5.5 inches of mercury (in. Hg.)",
+        "Rotor speeds range from 8,000 to 18,000 RPM"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 5,
+      "question": "How does the attitude indicator work? (FAA-H-8083-25) The gyro in the attitude indicator is mounted on a horizontal plane and depends upon rigidity in space for its operation. The horizon bar represents the true horizon. This bar is fixed to the gyro and remains in a horizontal plane as the airplane is pitched or banked about its lateral or longitudinal axis, indicating the attitude of the airplane relative to the true horizon.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Gyro is mounted on a horizontal plane",
+        "Operates on the principle of rigidity in space",
+        "Horizon bar is fixed to the gyro and stays level regardless of aircraft movement",
+        "Displays aircraft attitude relative to the true horizon",
+        "Shows pitch (nose up/down) and bank (wings level/tilted) simultaneously"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 6,
+      "question": "What are the limitations of an attitude indicator? (FAA-H-8083-25) The pitch and bank limits depend upon the make and model of the instrument. Limits in the banking plane are usually from 100 degrees to 110 degrees, and the pitch limits are usually from 60 to 70 degrees. If either limit is exceeded, the instrument will tumble or spill and will give incorrect indications until reset. A number of modern attitude indicators will not tumble.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Bank limits typically 100-110 degrees",
+        "Pitch limits typically 60-70 degrees",
+        "Exceeding limits causes the instrument to tumble or spill",
+        "Tumbled instrument gives incorrect indications until reset",
+        "Some modern attitude indicators are tumble-free"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 7,
+      "question": "What are the errors of the attitude indicator? (FAA-H-8083-15) Attitude indicators are free from most errors, but depending upon the speed with which the erection system functions, there may be a slight nose-up indication during a rapid acceleration and a nose-down indication during a rapid deceleration. There is also a possibility of a small bank angle and pitch error after a 180° turn. These inherent errors are small and correct themselves within a minute or so after returning to straight-and-level flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Rapid acceleration causes slight nose-up indication error",
+        "Rapid deceleration causes slight nose-down indication error",
+        "Small bank and pitch errors possible after 180° turn",
+        "Errors are inherent but small",
+        "Errors self-correct within about one minute after returning to straight-and-level flight"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 8,
+      "question": "How does the heading indicator operate? (FAA-H-8083-25) The operation of the heading indicator uses the principle of rigidity in space. The rotor turns in a vertical plane, and the compass card is fixed to the rotor. Since the rotor remains rigid in space, the points on the card hold the same position in space relative to the vertical plane. As the instrument case and the airplane revolve around the vertical axis, the card provides clear and accurate heading information.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Operates on the gyroscopic principle of rigidity in space",
+        "Rotor turns in a vertical plane",
+        "Compass card is fixed directly to the rotor",
+        "Airplane rotates around the fixed rotor/card assembly",
+        "Provides stable heading reference without magnetic errors"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 9,
+      "question": "What are the limitations of the heading indicator? (FAA-H-8083-25) The bank and pitch limits of the heading indicator vary with the particular design and make of instrument. On some heading indicators found in light airplanes, the limits are approximately 55 degrees of pitch and 55 degrees of bank. When either of these attitude limits is exceeded, the instrument “tumbles” or “spills” and no longer gives the correct indication until reset. After spilling, it may be reset with the caging knob. Many of the modern instruments used are designed in such a manner that they will not tumble.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Typical bank limit is approximately 55 degrees",
+        "Typical pitch limit is approximately 55 degrees",
+        "Exceeding limits causes the instrument to tumble or spill",
+        "Must be reset using the caging knob after tumbling",
+        "Many modern heading indicators are designed to be tumble-free"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 10,
+      "question": "What error is the heading indicator subject to? (FAA-H-8083-25) Because of precession, caused chiefly by friction, the heading indicator will creep or drift from a heading to which it is set. Among other factors, the amount of drift depends largely upon the condition of the instrument. The heading indicator may indicate as much as 15° error per every hour of operation.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Subject to precession error (drift) primarily caused by friction",
+        "May drift up to 15 degrees per hour of operation",
+        "Must be periodically checked and reset against the magnetic compass",
+        "Drift amount depends on instrument condition",
+        "Should verify heading indicator against compass during straight and level unaccelerated flight"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 11,
+      "question": "How does the turn coordinator operate? (FAA-H-8083-15) The turn part of the instrument uses precession to indicate direction and approximate rate of turn. A gyro reacts by trying to move in reaction to the force applied thus moving the needle or miniature aircraft in proportion to the rate of turn. The slip/skid indicator is a liquid-filled tube with a ball that reacts to centrifugal force and gravity.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Turn indicator uses gyroscopic precession to show direction and rate of turn",
+        "Gyro reacts to applied force by moving proportionally to rate of turn",
+        "Slip/skid indicator is a liquid-filled inclinometer tube",
+        "Ball in inclinometer reacts to centrifugal force and gravity",
+        "Two separate components: gyro for turn rate, ball for coordination"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 12,
+      "question": "What information does the turn coordinator provide? (FAA-H-8083- 25) The turn coordinator shows the yaw and roll of the aircraft around the vertical and longitudinal axes. The miniature airplane will indicate direction of the turn as well as rate of turn. When aligned with the turn index, it represents a standard rate of turn of 3° per second. The inclinometer of the turn coordinator indicates the coordination of aileron and rudder. The ball indicates whether the airplane is in coordinated flight or is in a slip or skid.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Shows yaw (vertical axis) and roll (longitudinal axis) movement",
+        "Miniature airplane indicates direction of turn",
+        "Standard rate turn = 3° per second (aligned with turn index)",
+        "Standard rate turn completes 360° in 2 minutes",
+        "Inclinometer ball indicates coordinated flight, slip, or skid",
+        "Centered ball = coordinated use of aileron and rudder"
+      ]
+    },
+    {
+      "section": "D",
+      "section_title": "Gyroscopic Flight Instruments",
+      "number": 13,
+      "question": "What will the turn indicator indicate when the aircraft is in a “skidding” or a “slipping” turn? (FAA-H-8083-25) Slip—The ball in the tube will be on the inside of the turn; not enough rate of turn for the amount of bank. Skid—The ball in the tube will be to the outside of the turn; too much rate of turn for the amount of bank.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "SLIP: Ball on INSIDE of turn - not enough turn rate for bank angle",
+        "SKID: Ball on OUTSIDE of turn - too much turn rate for bank angle",
+        "Memory aid: 'Step on the ball' to correct coordination",
+        "Slip = underturning (add rudder in direction of turn)",
+        "Skid = overturning (reduce rudder pressure or add opposite rudder)"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Magnetic Compass",
+      "number": 1,
+      "question": "How does the magnetic compass work? (FAA-H-8083-25) Magnetized needles fastened to a float assembly, around which is mounted a compass card, align themselves parallel to the earth’s lines of magnetic force. The float assembly is housed in a bowl filled with acid-free white kerosene.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Magnetized needles attached to a float assembly align with Earth's magnetic lines of force",
+        "Compass card is mounted around the float assembly",
+        "Float assembly is housed in a bowl filled with acid-free white kerosene",
+        "Kerosene dampens oscillations and lubricates the pivot point",
+        "Compass indicates magnetic north, not true north"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Magnetic Compass",
+      "number": 2,
+      "question": "What limitations does the magnetic compass have? (FAA-H-8083-15) The jewel-and-pivot type mounting allows the float freedom to rotate and tilt up to approximately 18° angle of bank. At steeper bank angles, the compass indications are erratic and unpredictable.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Jewel-and-pivot mounting allows float to rotate and tilt",
+        "Reliable only up to approximately 18° angle of bank",
+        "At steeper bank angles, compass indications become erratic and unpredictable",
+        "Should not be used as primary reference during steep turns",
+        "Most accurate in straight-and-level, unaccelerated flight"
+      ]
+    },
+    {
+      "section": "E",
+      "section_title": "Magnetic Compass",
+      "number": 3,
+      "question": "What are the various compass errors? (FAA-H-8083-15) Oscillation error—Erratic movement of the compass card caused by turbulence or rough control technique. Deviation error—Due to electrical and magnetic disturbances in the aircraft. Variation error—Angular difference between true and magnetic north; reference isogonic lines of variation. Dip errors: Acceleration error—On east or west headings, while accelerating, the magnetic compass shows a turn to the north, and when decelerating, it shows a turn to the south. Remember: ANDS A ccelerate N orth D ecelerate S outh Northerly turning error—The compass leads in the south half of a turn, and lags in the north half of a turn. Remember: UNOS U ndershoot N orth O vershoot S outh",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Oscillation error: erratic movement from turbulence or rough control inputs",
+        "Deviation error: caused by electrical and magnetic disturbances in aircraft",
+        "Variation error: angular difference between true and magnetic north (use isogonic lines)",
+        "Acceleration error (ANDS): Accelerate=North, Decelerate=South (on E/W headings)",
+        "Northerly turning error (UNOS): Undershoot North, Overshoot South",
+        "Dip errors (acceleration and turning) caused by vertical component of Earth's magnetic field"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 1,
+      "question": "Describe the function of the following avionics equipment acronyms: AHRS, ADC, PFD, MFD, FD, FMS, INS. (FAA-H-8083-6, DAT) AHRS—attitude and heading reference system. Composed of three-axis sensors that provide heading, attitude, and yaw information for aircraft. AHRS are designed to replace traditional mechanical gyroscopic flight instruments and provide superior reliability and accuracy. ADC—air data computer. An aircraft computer that receives and processes pitot pressure, static pressure, and temperature to calculate precise altitude, indicated airspeed, true airspeed, vertical speed, and air temperature. PFD—primary flight display. A display that provides increased situational awareness to the pilot by replacing the traditional six instruments with an easy-to-scan display that shows the horizon, airspeed, altitude, vertical speed, trend, trim, rate of turn, and more. MFD—multi-function display. A cockpit display capable of presenting information (navigation data, moving maps, terrain awareness, etc.) to the pilot in configurable ways; often used in concert with the PFD. FD—flight director. An electronic flight computer that analyzes the navigation selections, signals, and aircraft parameters. It presents steering instructions on the flight display as command bars or crossbars for the pilot to position the nose of the aircraft over or follow. FMS—flight management system. A computer system containing a database for programming of routes, approaches, and departures that can supply navigation data to the flight director/autopilot from various sources, and can calculate flight data such as fuel consumption, time remaining, possible range, and other values. INS—inertial navigation system. A computer-based navigation system that tracks the movement of an aircraft via signals produced by onboard accelerometers. The initial location of the aircraft is entered into the computer and all subsequent movement is then sensed and used to keep the aircraft’s position updated.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "AHRS replaces mechanical gyros, provides attitude, heading, and yaw using three-axis sensors",
+        "ADC processes pitot/static pressure and temperature to calculate altitude, airspeed, vertical speed, and TAS",
+        "PFD replaces traditional six-pack instruments with integrated flight display showing horizon, airspeed, altitude, VSI, and trends",
+        "MFD displays configurable navigation data, moving maps, and terrain awareness",
+        "FD provides steering guidance via command bars based on navigation inputs and aircraft parameters",
+        "FMS contains navigation database for routes/approaches and calculates fuel, time, and range data",
+        "INS uses accelerometers to track aircraft movement from a known starting position"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 2,
+      "question": "What is the function of a magnetometer? (FAA-H-8083-6) A magnetometer is a device that measures the strength of the earth’s magnetic field to determine aircraft heading; it provides this information digitally to the AHRS, which then sends it to the PFD.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Magnetometer measures Earth's magnetic field strength to determine aircraft heading",
+        "Provides digital heading information to the AHRS",
+        "AHRS then sends heading data to the PFD for display",
+        "Replaces traditional magnetic compass as primary heading source in glass cockpits"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 3,
+      "question": "When powering up an aircraft with an FMS/RNAV unit installed, how will you verify the effective dates of the navigation database? (FAA-H- 8083-6) The effective dates for the navigation database are typically shown on a start- up screen that is displayed as the system cycles through its startup self-test.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Navigation database effective dates appear on startup/self-test screen during power-up",
+        "Pilot must verify database is current before flight requiring RNAV/GPS navigation",
+        "Expired database may not be used for IFR navigation or GPS approaches",
+        "Database cycle typically lasts 28 days (AIRAC cycle)"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 4,
+      "question": "Does an aircraft have to remain stationary during AHRS system initialization? (FAA-H-8083-6) Some AHRSs must be initialized on the ground prior to departure. The initialization procedure allows the system to establish a reference attitude used as a benchmark for all future attitude changes. Other systems are capable of initialization while taxiing as well as in flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Some AHRS systems require stationary ground initialization before departure",
+        "Initialization establishes a reference attitude as a benchmark for future attitude changes",
+        "Other AHRS systems can initialize while taxiing or even in flight",
+        "Always consult the specific aircraft's POH for AHRS initialization requirements"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 5,
+      "question": "Which standby flight instruments are normally provided in an advanced avionics aircraft? (FAA-H-8083-6) Every aircraft equipped with electronic flight instruments must also contain a minimal set of backup/standby instruments. Usually conventional “round dial instruments,” they typically include an attitude indicator, an airspeed indicator, and an altimeter.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "All electronic flight instrument aircraft must have backup/standby instruments",
+        "Required standby instruments typically include: attitude indicator, airspeed indicator, and altimeter",
+        "Standby instruments are usually conventional 'round dial' analog instruments",
+        "Standby instruments operate independently of the primary electronic systems"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 6,
+      "question": "If one display fails (PFD or MFD), what information will be presented on the remaining display? (FAA-H-8083-6) In the event of a display failure, some systems offer a reversion capability to display the primary flight instruments and engine instruments on the remaining operative display.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Some glass cockpit systems have display reversion capability",
+        "If PFD fails, primary flight instruments can display on the MFD",
+        "If MFD fails, engine instruments can display on the PFD",
+        "Reversion mode shows critical flight and engine information on the remaining operative display",
+        "Know your specific aircraft's reversion procedures per the POH"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 7,
+      "question": "When a display failure occurs, what other system components will be affected? (AFM/POH) In some systems, failure of a display will also result in partial loss of navigation, communication, and GPS capability. Reference your specific AFM/POH.",
+      "answer": "",
+      "references": [
+        "AFM/POH"
+      ],
+      "key_reference_points": [
+        "Display failure may cause partial loss of navigation capability",
+        "Display failure may cause partial loss of communication capability",
+        "Display failure may cause partial loss of GPS capability",
+        "Always reference your specific AFM/POH for system interdependencies",
+        "Integrated avionics systems share components, so one failure can cascade to multiple functions"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 8,
+      "question": "What display information will be affected when an ADC failure occurs? (FAA-H-8083-6) Inoperative airspeed, altitude, and vertical speed indicators, shown with red Xs on the PFD, indicate the failure of the air data computer.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "ADC failure causes loss of airspeed indicator",
+        "ADC failure causes loss of altitude indicator",
+        "ADC failure causes loss of vertical speed indicator",
+        "Red X symbols on PFD indicate failed/invalid data",
+        "Air Data Computer processes pitot-static information for the PFD"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 9,
+      "question": "What display information will be lost when an AHRS failure occurs? (FAA-H-8083-6) An inoperative attitude indicator, shown with a red X on the PFD, indicates failure of the AHRS.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "AHRS failure causes loss of attitude indicator",
+        "Red X on PFD attitude display indicates AHRS failure",
+        "AHRS provides attitude (pitch and roll) and heading information",
+        "AHRS stands for Attitude and Heading Reference System",
+        "Without AHRS, pilot loses primary attitude reference on glass cockpit displays"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 10,
+      "question": "How will loss of a magnetometer affect the AHRS operation? (FAA- H-8083-6) Heading information will be lost.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "AHRS (Attitude and Heading Reference System) uses magnetometer for heading information",
+        "Magnetometer failure results in loss of magnetic heading data",
+        "AHRS will still provide attitude (pitch and roll) information without magnetometer",
+        "GPS track may be used as backup heading reference in some systems",
+        "Magnetometer provides magnetic north reference for directional guidance"
+      ],
+      "exam_tip": "Be prepared to answer questions about any and all equipment installed in the aircraft. For example, if your aircraft has an autopilot, have in- depth knowledge of its operation, even if you rarely use it."
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 1,
+      "question": "Does the nose wheel turn when the rudder is depressed in flight? (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Nose wheel steering is typically connected to rudder pedals on the ground",
+        "In flight, rudder pedals control the rudder for yaw",
+        "Nose wheel steering mechanism is usually designed to be active only when weight is on the wheels",
+        "Aircraft-specific systems vary - always consult the AFM/POH for your aircraft",
+        "Some aircraft use bungee or spring systems that center the nose wheel in flight"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 2,
+      "question": "If the braking system is not functioning, will the parking brake work? (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Parking brake uses the same hydraulic system as main brakes",
+        "If hydraulic brake system fails, parking brake will also be inoperative",
+        "Parking brake works by mechanically holding brake pressure applied by the pilot",
+        "No independent backup system exists for parking brake in most light aircraft",
+        "Always consult aircraft-specific AFM/POH for brake system details"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 3,
+      "question": "If the brakes on the left side (pilot) are not functioning, will the brakes on the right side also be inoperative? (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Most single-engine aircraft have dual independent brake systems (left and right)",
+        "Each pilot's toe brakes typically control their respective side's wheel brake",
+        "If left brakes fail, right brakes should still function independently",
+        "Brake systems are hydraulically separate - one side's failure doesn't affect the other",
+        "Know your specific aircraft's brake system configuration per the AFM"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 4,
+      "question": "Explain the procedure for starting your airplane with external power. (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Verify external power unit voltage matches aircraft system (typically 24V or 12V)",
+        "Master switch OFF before connecting external power",
+        "Connect positive lead first, then negative/ground",
+        "Follow AFM checklist for external power start procedure",
+        "Disconnect external power before turning master switch ON or after engine start",
+        "Ensure proper polarity to prevent electrical system damage"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 5,
+      "question": "You cannot start your airplane due to a low battery, so you request an external start via a ground power cart. What problems might still occur after the engine has started? (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Aircraft battery may not hold charge - could die again if engine stops",
+        "Alternator may not immediately charge a deeply discharged battery",
+        "Battery may be damaged and unable to accept a charge",
+        "Electrical system may be unreliable for the remainder of the flight",
+        "Monitor ammeter/voltmeter closely after start to verify charging",
+        "Consider having battery tested/replaced before further flight"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 6,
+      "question": "In the event of an electrical system failure, what time duration can you reasonably expect electrical power from the battery? (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Typical light aircraft battery provides 30 minutes or less of electrical power after alternator failure",
+        "Duration depends on electrical load - reduce load by turning off non-essential equipment",
+        "Check your specific aircraft's AFM/POH for exact battery endurance times",
+        "Ammeter will show discharge (negative) when running on battery alone",
+        "Priority loads: radios for communication, transponder, essential flight instruments"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 7,
+      "question": "What effect would positioning the master switch to the “Off” position have on aircraft systems while in flight? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Engine continues to run - ignition system is powered by magnetos, independent of electrical system",
+        "All electrical equipment becomes inoperative (radios, lights, electric flaps, fuel pumps)",
+        "Electrically-driven gyro instruments (attitude indicator, heading indicator) will spin down",
+        "Battery stops charging and alternator output is disconnected",
+        "Pitot heat, if electric, will stop functioning"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 8,
+      "question": "What instruments are affected when the pitot tube freezes? Static port freezes? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Pitot tube blockage affects ONLY the airspeed indicator",
+        "Static port blockage affects airspeed indicator, altimeter, and vertical speed indicator (VSI)",
+        "With static port blocked: altimeter freezes, VSI shows zero, airspeed indicator gives erroneous readings",
+        "Alternate static source (if available) typically reads slightly higher altitude due to lower cabin pressure",
+        "Pitot heat can prevent or clear pitot tube ice blockage",
+        "Use alternate static source or break VSI glass as emergency static source"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 9,
+      "question": "What is the purpose of the alternate static source? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Alternate static source provides backup if primary static port becomes blocked (ice, debris)",
+        "Located inside cockpit where pressure is slightly lower than outside due to venturi effect",
+        "When activated: altimeter reads slightly HIGH, airspeed reads slightly HIGH, VSI shows momentary climb",
+        "Must be used if static port blockage is suspected to restore flight instrument function",
+        "Some aircraft use breaking the VSI glass as an alternate static source method"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 10,
+      "question": "If you set the altimeter from 29.15 to 29.85, what change occurs? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Increasing altimeter setting from 29.15 to 29.85 equals +0.70 inches Hg change",
+        "Each 0.01 inch Hg change equals approximately 10 feet of indicated altitude",
+        "0.70 inch change × 10 feet = 700 feet INCREASE in indicated altitude",
+        "Higher pressure setting = higher altitude indication (airplane appears higher)",
+        "Memory aid: 'High to low, look out below' - going from high to low pressure without correcting causes indicated altitude to read higher than actual"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 11,
+      "question": "During the “before takeoff” magneto check, you notice that the right magneto is extremely rough. Explain what the problem could be and what actions you will take next. (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Rough mag can indicate fouled spark plugs, broken plug wire, or impulse coupling issue",
+        "Do NOT takeoff with a rough-running magneto - this is a no-go item",
+        "Try clearing fouled plugs: lean mixture aggressively, run engine at higher RPM for 30-60 seconds",
+        "Recheck magnetos after attempting to clear - RPM drop should be within limits (typically 50-175 RPM)",
+        "If roughness persists after clearing attempt, taxi back and have maintenance inspect",
+        "Maximum allowable RPM difference between magnetos is typically 50 RPM (check specific AFM)"
+      ]
+    },
+    {
+      "section": "F",
+      "section_title": "Advanced Avionics",
+      "number": 12,
+      "question": "Automation in the cockpit has made aviation safer. Does total risk increase or decrease when “passively” monitoring an automated system for faults or abnormalities? How can you mitigate that risk? (FAA-H- 8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Total risk INCREASES when passively monitoring automated systems due to complacency and reduced situational awareness",
+        "Automation complacency occurs when pilots over-trust systems and fail to detect malfunctions or errors",
+        "Mitigation: Stay actively engaged by cross-checking automation with raw data and backup instruments",
+        "Mitigation: Maintain proficiency in manual flying skills through regular practice without automation",
+        "Mitigation: Use a structured scan pattern to verify automation is performing as expected",
+        "Always be prepared to take immediate manual control if automation fails or behaves unexpectedly"
+      ]
+    }
+  ]
+}

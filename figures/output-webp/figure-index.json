@@ -1,0 +1,2538 @@
+{
+  "version": 1,
+  "docId": "sport-rec-private-akts",
+  "generatedAt": "2026-02-18",
+  "totalFigures": 79,
+  "figures": [
+    {
+      "figureNumber": 1,
+      "label": "Figure 1",
+      "description": "Lift Vector",
+      "page": 35,
+      "webp": "pages/035.webp"
+    },
+    {
+      "figureNumber": 2,
+      "label": "Figure 2",
+      "description": "Load Factor Chart",
+      "page": 36,
+      "webp": "pages/036.webp"
+    },
+    {
+      "figureNumber": 3,
+      "label": "Figure 3",
+      "description": "Altimeter",
+      "page": 37,
+      "webp": "pages/037.webp"
+    },
+    {
+      "figureNumber": 4,
+      "label": "Figure 4",
+      "description": "Airspeed Indicator",
+      "page": 38,
+      "webp": "pages/038.webp"
+    },
+    {
+      "figureNumber": 5,
+      "label": "Figure 5",
+      "description": "Turn Coordinator",
+      "page": 39,
+      "webp": "pages/039.webp"
+    },
+    {
+      "figureNumber": 6,
+      "label": "Figure 6",
+      "description": "Heading Indicator",
+      "page": 40,
+      "webp": "pages/040.webp"
+    },
+    {
+      "figureNumber": 7,
+      "label": "Figure 7",
+      "description": "Attitude Indicator",
+      "page": 41,
+      "webp": "pages/041.webp"
+    },
+    {
+      "figureNumber": 8,
+      "label": "Figure 8",
+      "description": "Density Altitude Chart",
+      "page": 42,
+      "webp": "pages/042.webp"
+    },
+    {
+      "figureNumber": 9,
+      "label": "Figure 9",
+      "description": "Control Position for Taxi",
+      "page": 43,
+      "webp": "pages/043.webp"
+    },
+    {
+      "figureNumber": 10,
+      "label": "Figure 10",
+      "description": "Gyroplane Rotor Blade Position",
+      "page": 44,
+      "webp": "pages/044.webp"
+    },
+    {
+      "figureNumber": 11,
+      "label": "Figure 11",
+      "description": "Glider Yaw String",
+      "page": 45,
+      "webp": "pages/045.webp"
+    },
+    {
+      "figureNumber": 12,
+      "label": "Figure 12",
+      "description": "Aviation Routine Weather Reports (METAR)",
+      "page": 46,
+      "webp": "pages/046.webp"
+    },
+    {
+      "figureNumber": 13,
+      "label": "Figure 13",
+      "description": "Telephone Weather Briefing",
+      "page": 47,
+      "webp": "pages/047.webp"
+    },
+    {
+      "figureNumber": 14,
+      "label": "Figure 14",
+      "description": "Pilot Weather Report",
+      "page": 48,
+      "webp": "pages/048.webp"
+    },
+    {
+      "figureNumber": 15,
+      "label": "Figure 15",
+      "description": "Terminal Aerodrome Forecasts (TAF)",
+      "page": 49,
+      "webp": "pages/049.webp"
+    },
+    {
+      "figureNumber": 17,
+      "label": "Figure 17",
+      "description": "Winds and Temperatures Aloft Forecast",
+      "page": 50,
+      "webp": "pages/050.webp"
+    },
+    {
+      "figureNumber": 18,
+      "label": "Figure 18",
+      "description": "Weather Depiction Chart",
+      "page": 51,
+      "webp": "pages/051.webp"
+    },
+    {
+      "figureNumber": 19,
+      "label": "Figure 19",
+      "description": "Low-Level Significant Weather (SIGWX) Prognostic Charts",
+      "page": 52,
+      "webp": "pages/052.webp"
+    },
+    {
+      "figureNumber": 20,
+      "label": "Figure 20",
+      "description": "Sectional Chart Excerpt",
+      "page": 53,
+      "webp": "pages/053.webp"
+    },
+    {
+      "figureNumber": 21,
+      "label": "Figure 21",
+      "description": "Sectional Chart Excerpt",
+      "page": 54,
+      "webp": "pages/054.webp"
+    },
+    {
+      "figureNumber": 22,
+      "label": "Figure 22",
+      "description": "Sectional Chart Excerpt",
+      "page": 55,
+      "webp": "pages/055.webp"
+    },
+    {
+      "figureNumber": 23,
+      "label": "Figure 23",
+      "description": "Sectional Chart Excerpt",
+      "page": 56,
+      "webp": "pages/056.webp"
+    },
+    {
+      "figureNumber": 24,
+      "label": "Figure 24",
+      "description": "Sectional Chart Excerpt",
+      "page": 57,
+      "webp": "pages/057.webp"
+    },
+    {
+      "figureNumber": 25,
+      "label": "Figure 25",
+      "description": "Sectional Chart Excerpt",
+      "page": 58,
+      "webp": "pages/058.webp"
+    },
+    {
+      "figureNumber": 26,
+      "label": "Figure 26",
+      "description": "Sectional Chart Excerpt",
+      "page": 59,
+      "webp": "pages/059.webp"
+    },
+    {
+      "figureNumber": 27,
+      "label": "Figure 27",
+      "description": "Time Conversion Table",
+      "page": 60,
+      "webp": "pages/060.webp"
+    },
+    {
+      "figureNumber": 28,
+      "label": "Figure 28",
+      "description": "VOR",
+      "page": 61,
+      "webp": "pages/061.webp"
+    },
+    {
+      "figureNumber": 31,
+      "label": "Figure 31",
+      "description": "Chart Supplement",
+      "page": 62,
+      "webp": "pages/062.webp"
+    },
+    {
+      "figureNumber": 32,
+      "label": "Figure 32",
+      "description": "Airplane Weight and Balance Tables",
+      "page": 63,
+      "webp": "pages/063.webp"
+    },
+    {
+      "figureNumber": 33,
+      "label": "Figure 33",
+      "description": "Airplane Weight and Balance Tables",
+      "page": 64,
+      "webp": "pages/064.webp"
+    },
+    {
+      "figureNumber": 34,
+      "label": "Figure 34",
+      "description": "Airplane Weight and Balance Graphs",
+      "page": 65,
+      "webp": "pages/065.webp"
+    },
+    {
+      "figureNumber": 35,
+      "label": "Figure 35",
+      "description": "Airplane Power Setting Table",
+      "page": 66,
+      "webp": "pages/066.webp"
+    },
+    {
+      "figureNumber": 36,
+      "label": "Figure 36",
+      "description": "Crosswind Component Graph",
+      "page": 67,
+      "webp": "pages/067.webp"
+    },
+    {
+      "figureNumber": 37,
+      "label": "Figure 37",
+      "description": "Airplane Landing Distance Graph",
+      "page": 68,
+      "webp": "pages/068.webp"
+    },
+    {
+      "figureNumber": 38,
+      "label": "Figure 38",
+      "description": "Airplane Landing Distance Table",
+      "page": 69,
+      "webp": "pages/069.webp"
+    },
+    {
+      "figureNumber": 39,
+      "label": "Figure 39",
+      "description": "Gyroplane Takeoff and Landing Graphs",
+      "page": 70,
+      "webp": "pages/070.webp"
+    },
+    {
+      "figureNumber": 40,
+      "label": "Figure 40",
+      "description": "Airplane Takeoff Distance Graph",
+      "page": 71,
+      "webp": "pages/071.webp"
+    },
+    {
+      "figureNumber": 41,
+      "label": "Figure 41",
+      "description": "Helicopter Weight and Balance Graph",
+      "page": 72,
+      "webp": "pages/072.webp"
+    },
+    {
+      "figureNumber": 42,
+      "label": "Figure 42",
+      "description": "Helicopter Weight and Balance Graphs",
+      "page": 73,
+      "webp": "pages/073.webp"
+    },
+    {
+      "figureNumber": 43,
+      "label": "Figure 43",
+      "description": "Helicopter CG Envelopes",
+      "page": 74,
+      "webp": "pages/074.webp"
+    },
+    {
+      "figureNumber": 44,
+      "label": "Figure 44",
+      "description": "Gyroplane Weight and Balance Graph",
+      "page": 75,
+      "webp": "pages/075.webp"
+    },
+    {
+      "figureNumber": 45,
+      "label": "Figure 45",
+      "description": "Gyroplane Weight and Balance Graph",
+      "page": 76,
+      "webp": "pages/076.webp"
+    },
+    {
+      "figureNumber": 46,
+      "label": "Figure 46",
+      "description": "Helicopter Height Velocity Diagram",
+      "page": 77,
+      "webp": "pages/077.webp"
+    },
+    {
+      "figureNumber": 47,
+      "label": "Figure 47",
+      "description": "VASI Illustrations",
+      "page": 78,
+      "webp": "pages/078.webp"
+    },
+    {
+      "figureNumber": 48,
+      "label": "Figure 48",
+      "description": "Airport Diagram",
+      "page": 79,
+      "webp": "pages/079.webp"
+    },
+    {
+      "figureNumber": 49,
+      "label": "Figure 49",
+      "description": "Airport Diagram",
+      "page": 80,
+      "webp": "pages/080.webp"
+    },
+    {
+      "figureNumber": 50,
+      "label": "Figure 50",
+      "description": "Wind Sock Airport Landing Indicator",
+      "page": 81,
+      "webp": "pages/081.webp"
+    },
+    {
+      "figureNumber": 51,
+      "label": "Figure 51",
+      "description": "Flight Plan Form",
+      "page": 82,
+      "webp": "pages/082.webp"
+    },
+    {
+      "figureNumber": 52,
+      "label": "Figure 52",
+      "description": "Chart Supplement",
+      "page": 83,
+      "webp": "pages/083.webp"
+    },
+    {
+      "figureNumber": 53,
+      "label": "Figure 53",
+      "description": "Glider Weight and Balance Diagram",
+      "page": 84,
+      "webp": "pages/084.webp"
+    },
+    {
+      "figureNumber": 54,
+      "label": "Figure 54",
+      "description": "Glider Performance Graph",
+      "page": 85,
+      "webp": "pages/085.webp"
+    },
+    {
+      "figureNumber": 55,
+      "label": "Figure 55",
+      "description": "",
+      "page": 86,
+      "webp": "pages/086.webp"
+    },
+    {
+      "figureNumber": 56,
+      "label": "Figure 56",
+      "description": "Hot Air Balloon Performance Graph",
+      "page": 87,
+      "webp": "pages/087.webp"
+    },
+    {
+      "figureNumber": 57,
+      "label": "Figure 57",
+      "description": "Hot Air Balloon Performance Graph",
+      "page": 88,
+      "webp": "pages/088.webp"
+    },
+    {
+      "figureNumber": 58,
+      "label": "Figure 58",
+      "description": "Compass Card",
+      "page": 89,
+      "webp": "pages/089.webp"
+    },
+    {
+      "figureNumber": 59,
+      "label": "Figure 59",
+      "description": "Sectional Chart Excerpt",
+      "page": 90,
+      "webp": "pages/090.webp"
+    },
+    {
+      "figureNumber": 60,
+      "label": "Figure 60",
+      "description": "Weight and Balance Diagram",
+      "page": 91,
+      "webp": "pages/091.webp"
+    },
+    {
+      "figureNumber": 61,
+      "label": "Figure 61",
+      "description": "Weight and Balance Diagram",
+      "page": 92,
+      "webp": "pages/092.webp"
+    },
+    {
+      "figureNumber": 62,
+      "label": "Figure 62",
+      "description": "Rectangular Course",
+      "page": 93,
+      "webp": "pages/093.webp"
+    },
+    {
+      "figureNumber": 63,
+      "label": "Figure 63",
+      "description": "Chart Supplement",
+      "page": 94,
+      "webp": "pages/094.webp"
+    },
+    {
+      "figureNumber": 64,
+      "label": "Figure 64",
+      "description": "Airport Markings",
+      "page": 95,
+      "webp": "pages/095.webp"
+    },
+    {
+      "figureNumber": 65,
+      "label": "Figure 65",
+      "description": "U.S. Airport Signs",
+      "page": 96,
+      "webp": "pages/096.webp"
+    },
+    {
+      "figureNumber": 66,
+      "label": "Figure 66",
+      "description": "S-Turn Diagram",
+      "page": 97,
+      "webp": "pages/097.webp"
+    },
+    {
+      "figureNumber": 67,
+      "label": "Figure 67",
+      "description": "Weight and Balance Chart",
+      "page": 98,
+      "webp": "pages/098.webp"
+    },
+    {
+      "figureNumber": 68,
+      "label": "Figure 68",
+      "description": "Wind Triangle",
+      "page": 99,
+      "webp": "pages/099.webp"
+    },
+    {
+      "figureNumber": 69,
+      "label": "Figure 69",
+      "description": "Sectional Chart Excerpt",
+      "page": 100,
+      "webp": "pages/100.webp"
+    },
+    {
+      "figureNumber": 70,
+      "label": "Figure 70",
+      "description": "Sectional Chart Excerpt",
+      "page": 101,
+      "webp": "pages/101.webp"
+    },
+    {
+      "figureNumber": 71,
+      "label": "Figure 71",
+      "description": "Sectional Chart Excerpt",
+      "page": 102,
+      "webp": "pages/102.webp"
+    },
+    {
+      "figureNumber": 72,
+      "label": "Figure 72",
+      "description": "Velocity vs. G-Loads",
+      "page": 103,
+      "webp": "pages/103.webp"
+    },
+    {
+      "figureNumber": 73,
+      "label": "Figure 73",
+      "description": "Glider Hand Signals",
+      "page": 104,
+      "webp": "pages/104.webp"
+    },
+    {
+      "figureNumber": 74,
+      "label": "Figure 74",
+      "description": "Sectional Chart Excerpt",
+      "page": 105,
+      "webp": "pages/105.webp"
+    },
+    {
+      "figureNumber": 75,
+      "label": "Figure 75",
+      "description": "Sectional Chart Excerpt",
+      "page": 106,
+      "webp": "pages/106.webp"
+    },
+    {
+      "figureNumber": 76,
+      "label": "Figure 76",
+      "description": "Sectional Chart Excerpt",
+      "page": 107,
+      "webp": "pages/107.webp"
+    },
+    {
+      "figureNumber": 77,
+      "label": "Figure 77",
+      "description": "Chart Supplement",
+      "page": 108,
+      "webp": "pages/108.webp"
+    },
+    {
+      "figureNumber": 78,
+      "label": "Figure 78",
+      "description": "Sectional Chart Excerpt",
+      "page": 109,
+      "webp": "pages/109.webp"
+    },
+    {
+      "figureNumber": 79,
+      "label": "Figure 79",
+      "description": "Chart Supplement",
+      "page": 110,
+      "webp": "pages/110.webp"
+    },
+    {
+      "figureNumber": 80,
+      "label": "Figure 80",
+      "description": "Sectional Chart Excerpt",
+      "page": 111,
+      "webp": "pages/111.webp"
+    },
+    {
+      "figureNumber": 81,
+      "label": "Figure 81",
+      "description": "Chart Supplement",
+      "page": 112,
+      "webp": "pages/112.webp"
+    },
+    {
+      "figureNumber": 82,
+      "label": "Figure 82",
+      "description": "Altimeter",
+      "page": 113,
+      "webp": "pages/113.webp"
+    }
+  ],
+  "lookup": {
+    "Figure 1": {
+      "page": 35,
+      "webp": "pages/035.webp",
+      "description": "Lift Vector"
+    },
+    "figure 1": {
+      "page": 35,
+      "webp": "pages/035.webp",
+      "description": "Lift Vector"
+    },
+    "fig 1": {
+      "page": 35,
+      "webp": "pages/035.webp",
+      "description": "Lift Vector"
+    },
+    "fig1": {
+      "page": 35,
+      "webp": "pages/035.webp",
+      "description": "Lift Vector"
+    },
+    "1": {
+      "page": 35,
+      "webp": "pages/035.webp",
+      "description": "Lift Vector"
+    },
+    "Figure 2": {
+      "page": 36,
+      "webp": "pages/036.webp",
+      "description": "Load Factor Chart"
+    },
+    "figure 2": {
+      "page": 36,
+      "webp": "pages/036.webp",
+      "description": "Load Factor Chart"
+    },
+    "fig 2": {
+      "page": 36,
+      "webp": "pages/036.webp",
+      "description": "Load Factor Chart"
+    },
+    "fig2": {
+      "page": 36,
+      "webp": "pages/036.webp",
+      "description": "Load Factor Chart"
+    },
+    "2": {
+      "page": 36,
+      "webp": "pages/036.webp",
+      "description": "Load Factor Chart"
+    },
+    "Figure 3": {
+      "page": 37,
+      "webp": "pages/037.webp",
+      "description": "Altimeter"
+    },
+    "figure 3": {
+      "page": 37,
+      "webp": "pages/037.webp",
+      "description": "Altimeter"
+    },
+    "fig 3": {
+      "page": 37,
+      "webp": "pages/037.webp",
+      "description": "Altimeter"
+    },
+    "fig3": {
+      "page": 37,
+      "webp": "pages/037.webp",
+      "description": "Altimeter"
+    },
+    "3": {
+      "page": 37,
+      "webp": "pages/037.webp",
+      "description": "Altimeter"
+    },
+    "Figure 4": {
+      "page": 38,
+      "webp": "pages/038.webp",
+      "description": "Airspeed Indicator"
+    },
+    "figure 4": {
+      "page": 38,
+      "webp": "pages/038.webp",
+      "description": "Airspeed Indicator"
+    },
+    "fig 4": {
+      "page": 38,
+      "webp": "pages/038.webp",
+      "description": "Airspeed Indicator"
+    },
+    "fig4": {
+      "page": 38,
+      "webp": "pages/038.webp",
+      "description": "Airspeed Indicator"
+    },
+    "4": {
+      "page": 38,
+      "webp": "pages/038.webp",
+      "description": "Airspeed Indicator"
+    },
+    "Figure 5": {
+      "page": 39,
+      "webp": "pages/039.webp",
+      "description": "Turn Coordinator"
+    },
+    "figure 5": {
+      "page": 39,
+      "webp": "pages/039.webp",
+      "description": "Turn Coordinator"
+    },
+    "fig 5": {
+      "page": 39,
+      "webp": "pages/039.webp",
+      "description": "Turn Coordinator"
+    },
+    "fig5": {
+      "page": 39,
+      "webp": "pages/039.webp",
+      "description": "Turn Coordinator"
+    },
+    "5": {
+      "page": 39,
+      "webp": "pages/039.webp",
+      "description": "Turn Coordinator"
+    },
+    "Figure 6": {
+      "page": 40,
+      "webp": "pages/040.webp",
+      "description": "Heading Indicator"
+    },
+    "figure 6": {
+      "page": 40,
+      "webp": "pages/040.webp",
+      "description": "Heading Indicator"
+    },
+    "fig 6": {
+      "page": 40,
+      "webp": "pages/040.webp",
+      "description": "Heading Indicator"
+    },
+    "fig6": {
+      "page": 40,
+      "webp": "pages/040.webp",
+      "description": "Heading Indicator"
+    },
+    "6": {
+      "page": 40,
+      "webp": "pages/040.webp",
+      "description": "Heading Indicator"
+    },
+    "Figure 7": {
+      "page": 41,
+      "webp": "pages/041.webp",
+      "description": "Attitude Indicator"
+    },
+    "figure 7": {
+      "page": 41,
+      "webp": "pages/041.webp",
+      "description": "Attitude Indicator"
+    },
+    "fig 7": {
+      "page": 41,
+      "webp": "pages/041.webp",
+      "description": "Attitude Indicator"
+    },
+    "fig7": {
+      "page": 41,
+      "webp": "pages/041.webp",
+      "description": "Attitude Indicator"
+    },
+    "7": {
+      "page": 41,
+      "webp": "pages/041.webp",
+      "description": "Attitude Indicator"
+    },
+    "Figure 8": {
+      "page": 42,
+      "webp": "pages/042.webp",
+      "description": "Density Altitude Chart"
+    },
+    "figure 8": {
+      "page": 42,
+      "webp": "pages/042.webp",
+      "description": "Density Altitude Chart"
+    },
+    "fig 8": {
+      "page": 42,
+      "webp": "pages/042.webp",
+      "description": "Density Altitude Chart"
+    },
+    "fig8": {
+      "page": 42,
+      "webp": "pages/042.webp",
+      "description": "Density Altitude Chart"
+    },
+    "8": {
+      "page": 42,
+      "webp": "pages/042.webp",
+      "description": "Density Altitude Chart"
+    },
+    "Figure 9": {
+      "page": 43,
+      "webp": "pages/043.webp",
+      "description": "Control Position for Taxi"
+    },
+    "figure 9": {
+      "page": 43,
+      "webp": "pages/043.webp",
+      "description": "Control Position for Taxi"
+    },
+    "fig 9": {
+      "page": 43,
+      "webp": "pages/043.webp",
+      "description": "Control Position for Taxi"
+    },
+    "fig9": {
+      "page": 43,
+      "webp": "pages/043.webp",
+      "description": "Control Position for Taxi"
+    },
+    "9": {
+      "page": 43,
+      "webp": "pages/043.webp",
+      "description": "Control Position for Taxi"
+    },
+    "Figure 10": {
+      "page": 44,
+      "webp": "pages/044.webp",
+      "description": "Gyroplane Rotor Blade Position"
+    },
+    "figure 10": {
+      "page": 44,
+      "webp": "pages/044.webp",
+      "description": "Gyroplane Rotor Blade Position"
+    },
+    "fig 10": {
+      "page": 44,
+      "webp": "pages/044.webp",
+      "description": "Gyroplane Rotor Blade Position"
+    },
+    "fig10": {
+      "page": 44,
+      "webp": "pages/044.webp",
+      "description": "Gyroplane Rotor Blade Position"
+    },
+    "10": {
+      "page": 44,
+      "webp": "pages/044.webp",
+      "description": "Gyroplane Rotor Blade Position"
+    },
+    "Figure 11": {
+      "page": 45,
+      "webp": "pages/045.webp",
+      "description": "Glider Yaw String"
+    },
+    "figure 11": {
+      "page": 45,
+      "webp": "pages/045.webp",
+      "description": "Glider Yaw String"
+    },
+    "fig 11": {
+      "page": 45,
+      "webp": "pages/045.webp",
+      "description": "Glider Yaw String"
+    },
+    "fig11": {
+      "page": 45,
+      "webp": "pages/045.webp",
+      "description": "Glider Yaw String"
+    },
+    "11": {
+      "page": 45,
+      "webp": "pages/045.webp",
+      "description": "Glider Yaw String"
+    },
+    "Figure 12": {
+      "page": 46,
+      "webp": "pages/046.webp",
+      "description": "Aviation Routine Weather Reports (METAR)"
+    },
+    "figure 12": {
+      "page": 46,
+      "webp": "pages/046.webp",
+      "description": "Aviation Routine Weather Reports (METAR)"
+    },
+    "fig 12": {
+      "page": 46,
+      "webp": "pages/046.webp",
+      "description": "Aviation Routine Weather Reports (METAR)"
+    },
+    "fig12": {
+      "page": 46,
+      "webp": "pages/046.webp",
+      "description": "Aviation Routine Weather Reports (METAR)"
+    },
+    "12": {
+      "page": 46,
+      "webp": "pages/046.webp",
+      "description": "Aviation Routine Weather Reports (METAR)"
+    },
+    "Figure 13": {
+      "page": 47,
+      "webp": "pages/047.webp",
+      "description": "Telephone Weather Briefing"
+    },
+    "figure 13": {
+      "page": 47,
+      "webp": "pages/047.webp",
+      "description": "Telephone Weather Briefing"
+    },
+    "fig 13": {
+      "page": 47,
+      "webp": "pages/047.webp",
+      "description": "Telephone Weather Briefing"
+    },
+    "fig13": {
+      "page": 47,
+      "webp": "pages/047.webp",
+      "description": "Telephone Weather Briefing"
+    },
+    "13": {
+      "page": 47,
+      "webp": "pages/047.webp",
+      "description": "Telephone Weather Briefing"
+    },
+    "Figure 14": {
+      "page": 48,
+      "webp": "pages/048.webp",
+      "description": "Pilot Weather Report"
+    },
+    "figure 14": {
+      "page": 48,
+      "webp": "pages/048.webp",
+      "description": "Pilot Weather Report"
+    },
+    "fig 14": {
+      "page": 48,
+      "webp": "pages/048.webp",
+      "description": "Pilot Weather Report"
+    },
+    "fig14": {
+      "page": 48,
+      "webp": "pages/048.webp",
+      "description": "Pilot Weather Report"
+    },
+    "14": {
+      "page": 48,
+      "webp": "pages/048.webp",
+      "description": "Pilot Weather Report"
+    },
+    "Figure 15": {
+      "page": 49,
+      "webp": "pages/049.webp",
+      "description": "Terminal Aerodrome Forecasts (TAF)"
+    },
+    "figure 15": {
+      "page": 49,
+      "webp": "pages/049.webp",
+      "description": "Terminal Aerodrome Forecasts (TAF)"
+    },
+    "fig 15": {
+      "page": 49,
+      "webp": "pages/049.webp",
+      "description": "Terminal Aerodrome Forecasts (TAF)"
+    },
+    "fig15": {
+      "page": 49,
+      "webp": "pages/049.webp",
+      "description": "Terminal Aerodrome Forecasts (TAF)"
+    },
+    "15": {
+      "page": 49,
+      "webp": "pages/049.webp",
+      "description": "Terminal Aerodrome Forecasts (TAF)"
+    },
+    "Figure 17": {
+      "page": 50,
+      "webp": "pages/050.webp",
+      "description": "Winds and Temperatures Aloft Forecast"
+    },
+    "figure 17": {
+      "page": 50,
+      "webp": "pages/050.webp",
+      "description": "Winds and Temperatures Aloft Forecast"
+    },
+    "fig 17": {
+      "page": 50,
+      "webp": "pages/050.webp",
+      "description": "Winds and Temperatures Aloft Forecast"
+    },
+    "fig17": {
+      "page": 50,
+      "webp": "pages/050.webp",
+      "description": "Winds and Temperatures Aloft Forecast"
+    },
+    "17": {
+      "page": 50,
+      "webp": "pages/050.webp",
+      "description": "Winds and Temperatures Aloft Forecast"
+    },
+    "Figure 18": {
+      "page": 51,
+      "webp": "pages/051.webp",
+      "description": "Weather Depiction Chart"
+    },
+    "figure 18": {
+      "page": 51,
+      "webp": "pages/051.webp",
+      "description": "Weather Depiction Chart"
+    },
+    "fig 18": {
+      "page": 51,
+      "webp": "pages/051.webp",
+      "description": "Weather Depiction Chart"
+    },
+    "fig18": {
+      "page": 51,
+      "webp": "pages/051.webp",
+      "description": "Weather Depiction Chart"
+    },
+    "18": {
+      "page": 51,
+      "webp": "pages/051.webp",
+      "description": "Weather Depiction Chart"
+    },
+    "Figure 19": {
+      "page": 52,
+      "webp": "pages/052.webp",
+      "description": "Low-Level Significant Weather (SIGWX) Prognostic Charts"
+    },
+    "figure 19": {
+      "page": 52,
+      "webp": "pages/052.webp",
+      "description": "Low-Level Significant Weather (SIGWX) Prognostic Charts"
+    },
+    "fig 19": {
+      "page": 52,
+      "webp": "pages/052.webp",
+      "description": "Low-Level Significant Weather (SIGWX) Prognostic Charts"
+    },
+    "fig19": {
+      "page": 52,
+      "webp": "pages/052.webp",
+      "description": "Low-Level Significant Weather (SIGWX) Prognostic Charts"
+    },
+    "19": {
+      "page": 52,
+      "webp": "pages/052.webp",
+      "description": "Low-Level Significant Weather (SIGWX) Prognostic Charts"
+    },
+    "Figure 20": {
+      "page": 53,
+      "webp": "pages/053.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 20": {
+      "page": 53,
+      "webp": "pages/053.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 20": {
+      "page": 53,
+      "webp": "pages/053.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig20": {
+      "page": 53,
+      "webp": "pages/053.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "20": {
+      "page": 53,
+      "webp": "pages/053.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 21": {
+      "page": 54,
+      "webp": "pages/054.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 21": {
+      "page": 54,
+      "webp": "pages/054.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 21": {
+      "page": 54,
+      "webp": "pages/054.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig21": {
+      "page": 54,
+      "webp": "pages/054.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "21": {
+      "page": 54,
+      "webp": "pages/054.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 22": {
+      "page": 55,
+      "webp": "pages/055.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 22": {
+      "page": 55,
+      "webp": "pages/055.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 22": {
+      "page": 55,
+      "webp": "pages/055.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig22": {
+      "page": 55,
+      "webp": "pages/055.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "22": {
+      "page": 55,
+      "webp": "pages/055.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 23": {
+      "page": 56,
+      "webp": "pages/056.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 23": {
+      "page": 56,
+      "webp": "pages/056.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 23": {
+      "page": 56,
+      "webp": "pages/056.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig23": {
+      "page": 56,
+      "webp": "pages/056.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "23": {
+      "page": 56,
+      "webp": "pages/056.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 24": {
+      "page": 57,
+      "webp": "pages/057.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 24": {
+      "page": 57,
+      "webp": "pages/057.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 24": {
+      "page": 57,
+      "webp": "pages/057.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig24": {
+      "page": 57,
+      "webp": "pages/057.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "24": {
+      "page": 57,
+      "webp": "pages/057.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 25": {
+      "page": 58,
+      "webp": "pages/058.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 25": {
+      "page": 58,
+      "webp": "pages/058.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 25": {
+      "page": 58,
+      "webp": "pages/058.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig25": {
+      "page": 58,
+      "webp": "pages/058.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "25": {
+      "page": 58,
+      "webp": "pages/058.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 26": {
+      "page": 59,
+      "webp": "pages/059.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 26": {
+      "page": 59,
+      "webp": "pages/059.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 26": {
+      "page": 59,
+      "webp": "pages/059.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig26": {
+      "page": 59,
+      "webp": "pages/059.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "26": {
+      "page": 59,
+      "webp": "pages/059.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 27": {
+      "page": 60,
+      "webp": "pages/060.webp",
+      "description": "Time Conversion Table"
+    },
+    "figure 27": {
+      "page": 60,
+      "webp": "pages/060.webp",
+      "description": "Time Conversion Table"
+    },
+    "fig 27": {
+      "page": 60,
+      "webp": "pages/060.webp",
+      "description": "Time Conversion Table"
+    },
+    "fig27": {
+      "page": 60,
+      "webp": "pages/060.webp",
+      "description": "Time Conversion Table"
+    },
+    "27": {
+      "page": 60,
+      "webp": "pages/060.webp",
+      "description": "Time Conversion Table"
+    },
+    "Figure 28": {
+      "page": 61,
+      "webp": "pages/061.webp",
+      "description": "VOR"
+    },
+    "figure 28": {
+      "page": 61,
+      "webp": "pages/061.webp",
+      "description": "VOR"
+    },
+    "fig 28": {
+      "page": 61,
+      "webp": "pages/061.webp",
+      "description": "VOR"
+    },
+    "fig28": {
+      "page": 61,
+      "webp": "pages/061.webp",
+      "description": "VOR"
+    },
+    "28": {
+      "page": 61,
+      "webp": "pages/061.webp",
+      "description": "VOR"
+    },
+    "Figure 31": {
+      "page": 62,
+      "webp": "pages/062.webp",
+      "description": "Chart Supplement"
+    },
+    "figure 31": {
+      "page": 62,
+      "webp": "pages/062.webp",
+      "description": "Chart Supplement"
+    },
+    "fig 31": {
+      "page": 62,
+      "webp": "pages/062.webp",
+      "description": "Chart Supplement"
+    },
+    "fig31": {
+      "page": 62,
+      "webp": "pages/062.webp",
+      "description": "Chart Supplement"
+    },
+    "31": {
+      "page": 62,
+      "webp": "pages/062.webp",
+      "description": "Chart Supplement"
+    },
+    "Figure 32": {
+      "page": 63,
+      "webp": "pages/063.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "figure 32": {
+      "page": 63,
+      "webp": "pages/063.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "fig 32": {
+      "page": 63,
+      "webp": "pages/063.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "fig32": {
+      "page": 63,
+      "webp": "pages/063.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "32": {
+      "page": 63,
+      "webp": "pages/063.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "Figure 33": {
+      "page": 64,
+      "webp": "pages/064.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "figure 33": {
+      "page": 64,
+      "webp": "pages/064.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "fig 33": {
+      "page": 64,
+      "webp": "pages/064.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "fig33": {
+      "page": 64,
+      "webp": "pages/064.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "33": {
+      "page": 64,
+      "webp": "pages/064.webp",
+      "description": "Airplane Weight and Balance Tables"
+    },
+    "Figure 34": {
+      "page": 65,
+      "webp": "pages/065.webp",
+      "description": "Airplane Weight and Balance Graphs"
+    },
+    "figure 34": {
+      "page": 65,
+      "webp": "pages/065.webp",
+      "description": "Airplane Weight and Balance Graphs"
+    },
+    "fig 34": {
+      "page": 65,
+      "webp": "pages/065.webp",
+      "description": "Airplane Weight and Balance Graphs"
+    },
+    "fig34": {
+      "page": 65,
+      "webp": "pages/065.webp",
+      "description": "Airplane Weight and Balance Graphs"
+    },
+    "34": {
+      "page": 65,
+      "webp": "pages/065.webp",
+      "description": "Airplane Weight and Balance Graphs"
+    },
+    "Figure 35": {
+      "page": 66,
+      "webp": "pages/066.webp",
+      "description": "Airplane Power Setting Table"
+    },
+    "figure 35": {
+      "page": 66,
+      "webp": "pages/066.webp",
+      "description": "Airplane Power Setting Table"
+    },
+    "fig 35": {
+      "page": 66,
+      "webp": "pages/066.webp",
+      "description": "Airplane Power Setting Table"
+    },
+    "fig35": {
+      "page": 66,
+      "webp": "pages/066.webp",
+      "description": "Airplane Power Setting Table"
+    },
+    "35": {
+      "page": 66,
+      "webp": "pages/066.webp",
+      "description": "Airplane Power Setting Table"
+    },
+    "Figure 36": {
+      "page": 67,
+      "webp": "pages/067.webp",
+      "description": "Crosswind Component Graph"
+    },
+    "figure 36": {
+      "page": 67,
+      "webp": "pages/067.webp",
+      "description": "Crosswind Component Graph"
+    },
+    "fig 36": {
+      "page": 67,
+      "webp": "pages/067.webp",
+      "description": "Crosswind Component Graph"
+    },
+    "fig36": {
+      "page": 67,
+      "webp": "pages/067.webp",
+      "description": "Crosswind Component Graph"
+    },
+    "36": {
+      "page": 67,
+      "webp": "pages/067.webp",
+      "description": "Crosswind Component Graph"
+    },
+    "Figure 37": {
+      "page": 68,
+      "webp": "pages/068.webp",
+      "description": "Airplane Landing Distance Graph"
+    },
+    "figure 37": {
+      "page": 68,
+      "webp": "pages/068.webp",
+      "description": "Airplane Landing Distance Graph"
+    },
+    "fig 37": {
+      "page": 68,
+      "webp": "pages/068.webp",
+      "description": "Airplane Landing Distance Graph"
+    },
+    "fig37": {
+      "page": 68,
+      "webp": "pages/068.webp",
+      "description": "Airplane Landing Distance Graph"
+    },
+    "37": {
+      "page": 68,
+      "webp": "pages/068.webp",
+      "description": "Airplane Landing Distance Graph"
+    },
+    "Figure 38": {
+      "page": 69,
+      "webp": "pages/069.webp",
+      "description": "Airplane Landing Distance Table"
+    },
+    "figure 38": {
+      "page": 69,
+      "webp": "pages/069.webp",
+      "description": "Airplane Landing Distance Table"
+    },
+    "fig 38": {
+      "page": 69,
+      "webp": "pages/069.webp",
+      "description": "Airplane Landing Distance Table"
+    },
+    "fig38": {
+      "page": 69,
+      "webp": "pages/069.webp",
+      "description": "Airplane Landing Distance Table"
+    },
+    "38": {
+      "page": 69,
+      "webp": "pages/069.webp",
+      "description": "Airplane Landing Distance Table"
+    },
+    "Figure 39": {
+      "page": 70,
+      "webp": "pages/070.webp",
+      "description": "Gyroplane Takeoff and Landing Graphs"
+    },
+    "figure 39": {
+      "page": 70,
+      "webp": "pages/070.webp",
+      "description": "Gyroplane Takeoff and Landing Graphs"
+    },
+    "fig 39": {
+      "page": 70,
+      "webp": "pages/070.webp",
+      "description": "Gyroplane Takeoff and Landing Graphs"
+    },
+    "fig39": {
+      "page": 70,
+      "webp": "pages/070.webp",
+      "description": "Gyroplane Takeoff and Landing Graphs"
+    },
+    "39": {
+      "page": 70,
+      "webp": "pages/070.webp",
+      "description": "Gyroplane Takeoff and Landing Graphs"
+    },
+    "Figure 40": {
+      "page": 71,
+      "webp": "pages/071.webp",
+      "description": "Airplane Takeoff Distance Graph"
+    },
+    "figure 40": {
+      "page": 71,
+      "webp": "pages/071.webp",
+      "description": "Airplane Takeoff Distance Graph"
+    },
+    "fig 40": {
+      "page": 71,
+      "webp": "pages/071.webp",
+      "description": "Airplane Takeoff Distance Graph"
+    },
+    "fig40": {
+      "page": 71,
+      "webp": "pages/071.webp",
+      "description": "Airplane Takeoff Distance Graph"
+    },
+    "40": {
+      "page": 71,
+      "webp": "pages/071.webp",
+      "description": "Airplane Takeoff Distance Graph"
+    },
+    "Figure 41": {
+      "page": 72,
+      "webp": "pages/072.webp",
+      "description": "Helicopter Weight and Balance Graph"
+    },
+    "figure 41": {
+      "page": 72,
+      "webp": "pages/072.webp",
+      "description": "Helicopter Weight and Balance Graph"
+    },
+    "fig 41": {
+      "page": 72,
+      "webp": "pages/072.webp",
+      "description": "Helicopter Weight and Balance Graph"
+    },
+    "fig41": {
+      "page": 72,
+      "webp": "pages/072.webp",
+      "description": "Helicopter Weight and Balance Graph"
+    },
+    "41": {
+      "page": 72,
+      "webp": "pages/072.webp",
+      "description": "Helicopter Weight and Balance Graph"
+    },
+    "Figure 42": {
+      "page": 73,
+      "webp": "pages/073.webp",
+      "description": "Helicopter Weight and Balance Graphs"
+    },
+    "figure 42": {
+      "page": 73,
+      "webp": "pages/073.webp",
+      "description": "Helicopter Weight and Balance Graphs"
+    },
+    "fig 42": {
+      "page": 73,
+      "webp": "pages/073.webp",
+      "description": "Helicopter Weight and Balance Graphs"
+    },
+    "fig42": {
+      "page": 73,
+      "webp": "pages/073.webp",
+      "description": "Helicopter Weight and Balance Graphs"
+    },
+    "42": {
+      "page": 73,
+      "webp": "pages/073.webp",
+      "description": "Helicopter Weight and Balance Graphs"
+    },
+    "Figure 43": {
+      "page": 74,
+      "webp": "pages/074.webp",
+      "description": "Helicopter CG Envelopes"
+    },
+    "figure 43": {
+      "page": 74,
+      "webp": "pages/074.webp",
+      "description": "Helicopter CG Envelopes"
+    },
+    "fig 43": {
+      "page": 74,
+      "webp": "pages/074.webp",
+      "description": "Helicopter CG Envelopes"
+    },
+    "fig43": {
+      "page": 74,
+      "webp": "pages/074.webp",
+      "description": "Helicopter CG Envelopes"
+    },
+    "43": {
+      "page": 74,
+      "webp": "pages/074.webp",
+      "description": "Helicopter CG Envelopes"
+    },
+    "Figure 44": {
+      "page": 75,
+      "webp": "pages/075.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "figure 44": {
+      "page": 75,
+      "webp": "pages/075.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "fig 44": {
+      "page": 75,
+      "webp": "pages/075.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "fig44": {
+      "page": 75,
+      "webp": "pages/075.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "44": {
+      "page": 75,
+      "webp": "pages/075.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "Figure 45": {
+      "page": 76,
+      "webp": "pages/076.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "figure 45": {
+      "page": 76,
+      "webp": "pages/076.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "fig 45": {
+      "page": 76,
+      "webp": "pages/076.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "fig45": {
+      "page": 76,
+      "webp": "pages/076.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "45": {
+      "page": 76,
+      "webp": "pages/076.webp",
+      "description": "Gyroplane Weight and Balance Graph"
+    },
+    "Figure 46": {
+      "page": 77,
+      "webp": "pages/077.webp",
+      "description": "Helicopter Height Velocity Diagram"
+    },
+    "figure 46": {
+      "page": 77,
+      "webp": "pages/077.webp",
+      "description": "Helicopter Height Velocity Diagram"
+    },
+    "fig 46": {
+      "page": 77,
+      "webp": "pages/077.webp",
+      "description": "Helicopter Height Velocity Diagram"
+    },
+    "fig46": {
+      "page": 77,
+      "webp": "pages/077.webp",
+      "description": "Helicopter Height Velocity Diagram"
+    },
+    "46": {
+      "page": 77,
+      "webp": "pages/077.webp",
+      "description": "Helicopter Height Velocity Diagram"
+    },
+    "Figure 47": {
+      "page": 78,
+      "webp": "pages/078.webp",
+      "description": "VASI Illustrations"
+    },
+    "figure 47": {
+      "page": 78,
+      "webp": "pages/078.webp",
+      "description": "VASI Illustrations"
+    },
+    "fig 47": {
+      "page": 78,
+      "webp": "pages/078.webp",
+      "description": "VASI Illustrations"
+    },
+    "fig47": {
+      "page": 78,
+      "webp": "pages/078.webp",
+      "description": "VASI Illustrations"
+    },
+    "47": {
+      "page": 78,
+      "webp": "pages/078.webp",
+      "description": "VASI Illustrations"
+    },
+    "Figure 48": {
+      "page": 79,
+      "webp": "pages/079.webp",
+      "description": "Airport Diagram"
+    },
+    "figure 48": {
+      "page": 79,
+      "webp": "pages/079.webp",
+      "description": "Airport Diagram"
+    },
+    "fig 48": {
+      "page": 79,
+      "webp": "pages/079.webp",
+      "description": "Airport Diagram"
+    },
+    "fig48": {
+      "page": 79,
+      "webp": "pages/079.webp",
+      "description": "Airport Diagram"
+    },
+    "48": {
+      "page": 79,
+      "webp": "pages/079.webp",
+      "description": "Airport Diagram"
+    },
+    "Figure 49": {
+      "page": 80,
+      "webp": "pages/080.webp",
+      "description": "Airport Diagram"
+    },
+    "figure 49": {
+      "page": 80,
+      "webp": "pages/080.webp",
+      "description": "Airport Diagram"
+    },
+    "fig 49": {
+      "page": 80,
+      "webp": "pages/080.webp",
+      "description": "Airport Diagram"
+    },
+    "fig49": {
+      "page": 80,
+      "webp": "pages/080.webp",
+      "description": "Airport Diagram"
+    },
+    "49": {
+      "page": 80,
+      "webp": "pages/080.webp",
+      "description": "Airport Diagram"
+    },
+    "Figure 50": {
+      "page": 81,
+      "webp": "pages/081.webp",
+      "description": "Wind Sock Airport Landing Indicator"
+    },
+    "figure 50": {
+      "page": 81,
+      "webp": "pages/081.webp",
+      "description": "Wind Sock Airport Landing Indicator"
+    },
+    "fig 50": {
+      "page": 81,
+      "webp": "pages/081.webp",
+      "description": "Wind Sock Airport Landing Indicator"
+    },
+    "fig50": {
+      "page": 81,
+      "webp": "pages/081.webp",
+      "description": "Wind Sock Airport Landing Indicator"
+    },
+    "50": {
+      "page": 81,
+      "webp": "pages/081.webp",
+      "description": "Wind Sock Airport Landing Indicator"
+    },
+    "Figure 51": {
+      "page": 82,
+      "webp": "pages/082.webp",
+      "description": "Flight Plan Form"
+    },
+    "figure 51": {
+      "page": 82,
+      "webp": "pages/082.webp",
+      "description": "Flight Plan Form"
+    },
+    "fig 51": {
+      "page": 82,
+      "webp": "pages/082.webp",
+      "description": "Flight Plan Form"
+    },
+    "fig51": {
+      "page": 82,
+      "webp": "pages/082.webp",
+      "description": "Flight Plan Form"
+    },
+    "51": {
+      "page": 82,
+      "webp": "pages/082.webp",
+      "description": "Flight Plan Form"
+    },
+    "Figure 52": {
+      "page": 83,
+      "webp": "pages/083.webp",
+      "description": "Chart Supplement"
+    },
+    "figure 52": {
+      "page": 83,
+      "webp": "pages/083.webp",
+      "description": "Chart Supplement"
+    },
+    "fig 52": {
+      "page": 83,
+      "webp": "pages/083.webp",
+      "description": "Chart Supplement"
+    },
+    "fig52": {
+      "page": 83,
+      "webp": "pages/083.webp",
+      "description": "Chart Supplement"
+    },
+    "52": {
+      "page": 83,
+      "webp": "pages/083.webp",
+      "description": "Chart Supplement"
+    },
+    "Figure 53": {
+      "page": 84,
+      "webp": "pages/084.webp",
+      "description": "Glider Weight and Balance Diagram"
+    },
+    "figure 53": {
+      "page": 84,
+      "webp": "pages/084.webp",
+      "description": "Glider Weight and Balance Diagram"
+    },
+    "fig 53": {
+      "page": 84,
+      "webp": "pages/084.webp",
+      "description": "Glider Weight and Balance Diagram"
+    },
+    "fig53": {
+      "page": 84,
+      "webp": "pages/084.webp",
+      "description": "Glider Weight and Balance Diagram"
+    },
+    "53": {
+      "page": 84,
+      "webp": "pages/084.webp",
+      "description": "Glider Weight and Balance Diagram"
+    },
+    "Figure 54": {
+      "page": 85,
+      "webp": "pages/085.webp",
+      "description": "Glider Performance Graph"
+    },
+    "figure 54": {
+      "page": 85,
+      "webp": "pages/085.webp",
+      "description": "Glider Performance Graph"
+    },
+    "fig 54": {
+      "page": 85,
+      "webp": "pages/085.webp",
+      "description": "Glider Performance Graph"
+    },
+    "fig54": {
+      "page": 85,
+      "webp": "pages/085.webp",
+      "description": "Glider Performance Graph"
+    },
+    "54": {
+      "page": 85,
+      "webp": "pages/085.webp",
+      "description": "Glider Performance Graph"
+    },
+    "Figure 55": {
+      "page": 86,
+      "webp": "pages/086.webp",
+      "description": ""
+    },
+    "figure 55": {
+      "page": 86,
+      "webp": "pages/086.webp",
+      "description": ""
+    },
+    "fig 55": {
+      "page": 86,
+      "webp": "pages/086.webp",
+      "description": ""
+    },
+    "fig55": {
+      "page": 86,
+      "webp": "pages/086.webp",
+      "description": ""
+    },
+    "55": {
+      "page": 86,
+      "webp": "pages/086.webp",
+      "description": ""
+    },
+    "Figure 56": {
+      "page": 87,
+      "webp": "pages/087.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "figure 56": {
+      "page": 87,
+      "webp": "pages/087.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "fig 56": {
+      "page": 87,
+      "webp": "pages/087.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "fig56": {
+      "page": 87,
+      "webp": "pages/087.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "56": {
+      "page": 87,
+      "webp": "pages/087.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "Figure 57": {
+      "page": 88,
+      "webp": "pages/088.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "figure 57": {
+      "page": 88,
+      "webp": "pages/088.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "fig 57": {
+      "page": 88,
+      "webp": "pages/088.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "fig57": {
+      "page": 88,
+      "webp": "pages/088.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "57": {
+      "page": 88,
+      "webp": "pages/088.webp",
+      "description": "Hot Air Balloon Performance Graph"
+    },
+    "Figure 58": {
+      "page": 89,
+      "webp": "pages/089.webp",
+      "description": "Compass Card"
+    },
+    "figure 58": {
+      "page": 89,
+      "webp": "pages/089.webp",
+      "description": "Compass Card"
+    },
+    "fig 58": {
+      "page": 89,
+      "webp": "pages/089.webp",
+      "description": "Compass Card"
+    },
+    "fig58": {
+      "page": 89,
+      "webp": "pages/089.webp",
+      "description": "Compass Card"
+    },
+    "58": {
+      "page": 89,
+      "webp": "pages/089.webp",
+      "description": "Compass Card"
+    },
+    "Figure 59": {
+      "page": 90,
+      "webp": "pages/090.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 59": {
+      "page": 90,
+      "webp": "pages/090.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 59": {
+      "page": 90,
+      "webp": "pages/090.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig59": {
+      "page": 90,
+      "webp": "pages/090.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "59": {
+      "page": 90,
+      "webp": "pages/090.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 60": {
+      "page": 91,
+      "webp": "pages/091.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "figure 60": {
+      "page": 91,
+      "webp": "pages/091.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "fig 60": {
+      "page": 91,
+      "webp": "pages/091.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "fig60": {
+      "page": 91,
+      "webp": "pages/091.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "60": {
+      "page": 91,
+      "webp": "pages/091.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "Figure 61": {
+      "page": 92,
+      "webp": "pages/092.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "figure 61": {
+      "page": 92,
+      "webp": "pages/092.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "fig 61": {
+      "page": 92,
+      "webp": "pages/092.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "fig61": {
+      "page": 92,
+      "webp": "pages/092.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "61": {
+      "page": 92,
+      "webp": "pages/092.webp",
+      "description": "Weight and Balance Diagram"
+    },
+    "Figure 62": {
+      "page": 93,
+      "webp": "pages/093.webp",
+      "description": "Rectangular Course"
+    },
+    "figure 62": {
+      "page": 93,
+      "webp": "pages/093.webp",
+      "description": "Rectangular Course"
+    },
+    "fig 62": {
+      "page": 93,
+      "webp": "pages/093.webp",
+      "description": "Rectangular Course"
+    },
+    "fig62": {
+      "page": 93,
+      "webp": "pages/093.webp",
+      "description": "Rectangular Course"
+    },
+    "62": {
+      "page": 93,
+      "webp": "pages/093.webp",
+      "description": "Rectangular Course"
+    },
+    "Figure 63": {
+      "page": 94,
+      "webp": "pages/094.webp",
+      "description": "Chart Supplement"
+    },
+    "figure 63": {
+      "page": 94,
+      "webp": "pages/094.webp",
+      "description": "Chart Supplement"
+    },
+    "fig 63": {
+      "page": 94,
+      "webp": "pages/094.webp",
+      "description": "Chart Supplement"
+    },
+    "fig63": {
+      "page": 94,
+      "webp": "pages/094.webp",
+      "description": "Chart Supplement"
+    },
+    "63": {
+      "page": 94,
+      "webp": "pages/094.webp",
+      "description": "Chart Supplement"
+    },
+    "Figure 64": {
+      "page": 95,
+      "webp": "pages/095.webp",
+      "description": "Airport Markings"
+    },
+    "figure 64": {
+      "page": 95,
+      "webp": "pages/095.webp",
+      "description": "Airport Markings"
+    },
+    "fig 64": {
+      "page": 95,
+      "webp": "pages/095.webp",
+      "description": "Airport Markings"
+    },
+    "fig64": {
+      "page": 95,
+      "webp": "pages/095.webp",
+      "description": "Airport Markings"
+    },
+    "64": {
+      "page": 95,
+      "webp": "pages/095.webp",
+      "description": "Airport Markings"
+    },
+    "Figure 65": {
+      "page": 96,
+      "webp": "pages/096.webp",
+      "description": "U.S. Airport Signs"
+    },
+    "figure 65": {
+      "page": 96,
+      "webp": "pages/096.webp",
+      "description": "U.S. Airport Signs"
+    },
+    "fig 65": {
+      "page": 96,
+      "webp": "pages/096.webp",
+      "description": "U.S. Airport Signs"
+    },
+    "fig65": {
+      "page": 96,
+      "webp": "pages/096.webp",
+      "description": "U.S. Airport Signs"
+    },
+    "65": {
+      "page": 96,
+      "webp": "pages/096.webp",
+      "description": "U.S. Airport Signs"
+    },
+    "Figure 66": {
+      "page": 97,
+      "webp": "pages/097.webp",
+      "description": "S-Turn Diagram"
+    },
+    "figure 66": {
+      "page": 97,
+      "webp": "pages/097.webp",
+      "description": "S-Turn Diagram"
+    },
+    "fig 66": {
+      "page": 97,
+      "webp": "pages/097.webp",
+      "description": "S-Turn Diagram"
+    },
+    "fig66": {
+      "page": 97,
+      "webp": "pages/097.webp",
+      "description": "S-Turn Diagram"
+    },
+    "66": {
+      "page": 97,
+      "webp": "pages/097.webp",
+      "description": "S-Turn Diagram"
+    },
+    "Figure 67": {
+      "page": 98,
+      "webp": "pages/098.webp",
+      "description": "Weight and Balance Chart"
+    },
+    "figure 67": {
+      "page": 98,
+      "webp": "pages/098.webp",
+      "description": "Weight and Balance Chart"
+    },
+    "fig 67": {
+      "page": 98,
+      "webp": "pages/098.webp",
+      "description": "Weight and Balance Chart"
+    },
+    "fig67": {
+      "page": 98,
+      "webp": "pages/098.webp",
+      "description": "Weight and Balance Chart"
+    },
+    "67": {
+      "page": 98,
+      "webp": "pages/098.webp",
+      "description": "Weight and Balance Chart"
+    },
+    "Figure 68": {
+      "page": 99,
+      "webp": "pages/099.webp",
+      "description": "Wind Triangle"
+    },
+    "figure 68": {
+      "page": 99,
+      "webp": "pages/099.webp",
+      "description": "Wind Triangle"
+    },
+    "fig 68": {
+      "page": 99,
+      "webp": "pages/099.webp",
+      "description": "Wind Triangle"
+    },
+    "fig68": {
+      "page": 99,
+      "webp": "pages/099.webp",
+      "description": "Wind Triangle"
+    },
+    "68": {
+      "page": 99,
+      "webp": "pages/099.webp",
+      "description": "Wind Triangle"
+    },
+    "Figure 69": {
+      "page": 100,
+      "webp": "pages/100.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 69": {
+      "page": 100,
+      "webp": "pages/100.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 69": {
+      "page": 100,
+      "webp": "pages/100.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig69": {
+      "page": 100,
+      "webp": "pages/100.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "69": {
+      "page": 100,
+      "webp": "pages/100.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 70": {
+      "page": 101,
+      "webp": "pages/101.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 70": {
+      "page": 101,
+      "webp": "pages/101.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 70": {
+      "page": 101,
+      "webp": "pages/101.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig70": {
+      "page": 101,
+      "webp": "pages/101.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "70": {
+      "page": 101,
+      "webp": "pages/101.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 71": {
+      "page": 102,
+      "webp": "pages/102.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 71": {
+      "page": 102,
+      "webp": "pages/102.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 71": {
+      "page": 102,
+      "webp": "pages/102.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig71": {
+      "page": 102,
+      "webp": "pages/102.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "71": {
+      "page": 102,
+      "webp": "pages/102.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 72": {
+      "page": 103,
+      "webp": "pages/103.webp",
+      "description": "Velocity vs. G-Loads"
+    },
+    "figure 72": {
+      "page": 103,
+      "webp": "pages/103.webp",
+      "description": "Velocity vs. G-Loads"
+    },
+    "fig 72": {
+      "page": 103,
+      "webp": "pages/103.webp",
+      "description": "Velocity vs. G-Loads"
+    },
+    "fig72": {
+      "page": 103,
+      "webp": "pages/103.webp",
+      "description": "Velocity vs. G-Loads"
+    },
+    "72": {
+      "page": 103,
+      "webp": "pages/103.webp",
+      "description": "Velocity vs. G-Loads"
+    },
+    "Figure 73": {
+      "page": 104,
+      "webp": "pages/104.webp",
+      "description": "Glider Hand Signals"
+    },
+    "figure 73": {
+      "page": 104,
+      "webp": "pages/104.webp",
+      "description": "Glider Hand Signals"
+    },
+    "fig 73": {
+      "page": 104,
+      "webp": "pages/104.webp",
+      "description": "Glider Hand Signals"
+    },
+    "fig73": {
+      "page": 104,
+      "webp": "pages/104.webp",
+      "description": "Glider Hand Signals"
+    },
+    "73": {
+      "page": 104,
+      "webp": "pages/104.webp",
+      "description": "Glider Hand Signals"
+    },
+    "Figure 74": {
+      "page": 105,
+      "webp": "pages/105.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 74": {
+      "page": 105,
+      "webp": "pages/105.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 74": {
+      "page": 105,
+      "webp": "pages/105.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig74": {
+      "page": 105,
+      "webp": "pages/105.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "74": {
+      "page": 105,
+      "webp": "pages/105.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 75": {
+      "page": 106,
+      "webp": "pages/106.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 75": {
+      "page": 106,
+      "webp": "pages/106.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 75": {
+      "page": 106,
+      "webp": "pages/106.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig75": {
+      "page": 106,
+      "webp": "pages/106.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "75": {
+      "page": 106,
+      "webp": "pages/106.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 76": {
+      "page": 107,
+      "webp": "pages/107.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 76": {
+      "page": 107,
+      "webp": "pages/107.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 76": {
+      "page": 107,
+      "webp": "pages/107.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig76": {
+      "page": 107,
+      "webp": "pages/107.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "76": {
+      "page": 107,
+      "webp": "pages/107.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 77": {
+      "page": 108,
+      "webp": "pages/108.webp",
+      "description": "Chart Supplement"
+    },
+    "figure 77": {
+      "page": 108,
+      "webp": "pages/108.webp",
+      "description": "Chart Supplement"
+    },
+    "fig 77": {
+      "page": 108,
+      "webp": "pages/108.webp",
+      "description": "Chart Supplement"
+    },
+    "fig77": {
+      "page": 108,
+      "webp": "pages/108.webp",
+      "description": "Chart Supplement"
+    },
+    "77": {
+      "page": 108,
+      "webp": "pages/108.webp",
+      "description": "Chart Supplement"
+    },
+    "Figure 78": {
+      "page": 109,
+      "webp": "pages/109.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 78": {
+      "page": 109,
+      "webp": "pages/109.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 78": {
+      "page": 109,
+      "webp": "pages/109.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig78": {
+      "page": 109,
+      "webp": "pages/109.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "78": {
+      "page": 109,
+      "webp": "pages/109.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 79": {
+      "page": 110,
+      "webp": "pages/110.webp",
+      "description": "Chart Supplement"
+    },
+    "figure 79": {
+      "page": 110,
+      "webp": "pages/110.webp",
+      "description": "Chart Supplement"
+    },
+    "fig 79": {
+      "page": 110,
+      "webp": "pages/110.webp",
+      "description": "Chart Supplement"
+    },
+    "fig79": {
+      "page": 110,
+      "webp": "pages/110.webp",
+      "description": "Chart Supplement"
+    },
+    "79": {
+      "page": 110,
+      "webp": "pages/110.webp",
+      "description": "Chart Supplement"
+    },
+    "Figure 80": {
+      "page": 111,
+      "webp": "pages/111.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "figure 80": {
+      "page": 111,
+      "webp": "pages/111.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig 80": {
+      "page": 111,
+      "webp": "pages/111.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "fig80": {
+      "page": 111,
+      "webp": "pages/111.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "80": {
+      "page": 111,
+      "webp": "pages/111.webp",
+      "description": "Sectional Chart Excerpt"
+    },
+    "Figure 81": {
+      "page": 112,
+      "webp": "pages/112.webp",
+      "description": "Chart Supplement"
+    },
+    "figure 81": {
+      "page": 112,
+      "webp": "pages/112.webp",
+      "description": "Chart Supplement"
+    },
+    "fig 81": {
+      "page": 112,
+      "webp": "pages/112.webp",
+      "description": "Chart Supplement"
+    },
+    "fig81": {
+      "page": 112,
+      "webp": "pages/112.webp",
+      "description": "Chart Supplement"
+    },
+    "81": {
+      "page": 112,
+      "webp": "pages/112.webp",
+      "description": "Chart Supplement"
+    },
+    "Figure 82": {
+      "page": 113,
+      "webp": "pages/113.webp",
+      "description": "Altimeter"
+    },
+    "figure 82": {
+      "page": 113,
+      "webp": "pages/113.webp",
+      "description": "Altimeter"
+    },
+    "fig 82": {
+      "page": 113,
+      "webp": "pages/113.webp",
+      "description": "Altimeter"
+    },
+    "fig82": {
+      "page": 113,
+      "webp": "pages/113.webp",
+      "description": "Altimeter"
+    },
+    "82": {
+      "page": 113,
+      "webp": "pages/113.webp",
+      "description": "Altimeter"
+    }
+  }
+}

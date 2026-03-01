@@ -1,0 +1,31 @@
+language,chapter_num,unit_letter,unit_title,chapter_folder,filename,json_file,word_count,section_count,estimated_read_time,faa_sources
+es,1,A,Pilot Training,01-regulations,unit-a-pilot-training.md,01-regulations_unit-a-pilot-training.json,18836,14,42,PHAK - Chapter 01 - Introduction To Flying.pdf
+es,1,B,Aviation Opportunities,01-regulations,unit-b-aviation-opportunities.md,01-regulations_unit-b-aviation-opportunities.json,16881,13,47,PHAK - Chapter 01 - Introduction To Flying.pdf
+es,2,A,Airplanes,02-airplane-systems,unit-a-airplanes.md,02-airplane-systems_unit-a-airplanes.json,16623,13,42,PHAK - Chapter 03 - Aircraft Construction.pdf
+es,2,B,The Powerplant and Related Systems,02-airplane-systems,unit-b-the-powerplant-and-related-systems.md,02-airplane-systems_unit-b-the-powerplant-and-related-systems.json,22000,14,60,PHAK - Chapter 07 - Aircraft Systems.pdf
+es,2,C,Flight Instruments,02-airplane-systems,unit-c-flight-instruments.md,02-airplane-systems_unit-c-flight-instruments.json,15988,13,47,PHAK - Chapter 08 - Flight Instruments.pdf|PHAK - Chapter 06 - Flight Controls.pdf
+es,3,A,Four Forces of Flight,03-aerodynamics,unit-a-four-forces-of-flight.md,03-aerodynamics_unit-a-four-forces-of-flight.json,16779,14,42,PHAK - Chapter 04 - Principles of Flight.pdf
+es,3,B,Stability,03-aerodynamics,unit-b-stability.md,03-aerodynamics_unit-b-stability.json,19085,14,47,PHAK - Chapter 05 - Aerodynamics of Flight.pdf
+es,3,C,Aerodynamics of Maneuvering Flight,03-aerodynamics,unit-c-aerodynamics-of-maneuvering-flight.md,03-aerodynamics_unit-c-aerodynamics-of-maneuvering-flight.json,17119,13,42,PHAK - Chapter 05 - Aerodynamics of Flight.pdf
+es,4,A,Safety of Flight,04-flight-environment,unit-a-safety-of-flight.md,04-flight-environment_unit-a-safety-of-flight.json,20665,14,47,PHAK - Chapter 02 - Aeronautical Decision-Making.pdf
+es,4,B,Airports,04-flight-environment,unit-b-airports.md,04-flight-environment_unit-b-airports.json,18018,13,47,PHAK - Chapter 14 - Airport Operations.pdf
+es,4,C,Aeronautical Charts,04-flight-environment,unit-c-aeronautical-charts.md,04-flight-environment_unit-c-aeronautical-charts.json,16671,14,42,PHAK - Chapter 16 - Navigation.pdf
+es,4,D,Airspace,04-flight-environment,unit-d-airspace.md,04-flight-environment_unit-d-airspace.json,16697,14,42,PHAK - Chapter 15 - Airspace.pdf
+es,5,A,ATC Services,05-communication,unit-a-atc-services.md,05-communication_unit-a-atc-services.json,17605,13,47,PHAK - Chapter 09 - Flight Manuals and Other Documents.pdf
+es,5,B,Radio Procedures,05-communication,unit-b-radio-procedures.md,05-communication_unit-b-radio-procedures.json,15787,13,42,PHAK - Chapter 09 - Flight Manuals and Other Documents.pdf
+es,5,C,Sources of Flight Information,05-communication,unit-c-sources-of-flight-information.md,05-communication_unit-c-sources-of-flight-information.json,18243,14,47,PHAK - Chapter 09 - Flight Manuals and Other Documents.pdf
+es,6,A,Basic Weather Theory,06-meteorology,unit-a-basic-weather-theory.md,06-meteorology_unit-a-basic-weather-theory.json,21961,15,47,PHAK - Chapter 12 - Weather Theory.pdf
+es,6,B,Weather Patterns,06-meteorology,unit-b-weather-patterns.md,06-meteorology_unit-b-weather-patterns.json,21297,15,47,PHAK - Chapter 12 - Weather Theory.pdf
+es,6,C,Weather Hazards,06-meteorology,unit-c-weather-hazards.md,06-meteorology_unit-c-weather-hazards.json,20714,14,47,PHAK - Chapter 12 - Weather Theory.pdf
+es,7,A,The Forecasting Process,07-weather-data,unit-a-the-forecasting-process.md,07-weather-data_unit-a-the-forecasting-process.json,16674,13,47,PHAK - Chapter 13 - Aviation Weather Services.pdf
+es,7,B,Aviation Weather Reports and Forecasts,07-weather-data,unit-b-aviation-weather-reports-and-forecasts.md,07-weather-data_unit-b-aviation-weather-reports-and-forecasts.json,16136,14,47,PHAK - Chapter 13 - Aviation Weather Services.pdf
+es,7,C,Graphic Weather Products,07-weather-data,unit-c-graphic-weather-products.md,07-weather-data_unit-c-graphic-weather-products.json,19246,14,47,PHAK - Chapter 13 - Aviation Weather Services.pdf
+es,7,D,Sources of Weather Information,07-weather-data,unit-d-sources-of-weather-information.md,07-weather-data_unit-d-sources-of-weather-information.json,16829,13,42,PHAK - Chapter 13 - Aviation Weather Services.pdf
+es,8,A,Predicting Performance,08-performance,unit-a-predicting-performance.md,08-performance_unit-a-predicting-performance.json,19896,14,47,PHAK - Chapter 11 - Aircraft Performance.pdf
+es,8,B,Weight and Balance,08-performance,unit-b-weight-and-balance.md,08-performance_unit-b-weight-and-balance.json,16268,14,47,PHAK - Chapter 10 - Weight and Balance.pdf
+es,8,C,Flight Computers,08-performance,unit-c-flight-computers.md,08-performance_unit-c-flight-computers.json,18621,13,47,PHAK - Chapter 11 - Aircraft Performance.pdf
+es,9,A,Pilotage and Dead Reckoning,09-navigation,unit-a-pilotage-and-dead-reckoning.md,09-navigation_unit-a-pilotage-and-dead-reckoning.json,17225,14,42,PHAK - Chapter 16 - Navigation.pdf
+es,9,B,VOR Navigation,09-navigation,unit-b-vor-navigation.md,09-navigation_unit-b-vor-navigation.json,15776,13,42,PHAK - Chapter 16 - Navigation.pdf
+es,9,C,Satellite Navigation - GPS,09-navigation,unit-c-satellite-navigation---gps.md,09-navigation_unit-c-satellite-navigation---gps.json,16297,13,42,PHAK - Chapter 16 - Navigation.pdf
+es,10,A,Aviation Physiology,10-human-factors,unit-a-aviation-physiology.md,10-human-factors_unit-a-aviation-physiology.json,18668,14,42,PHAK - Chapter 17 - Aeromedical Factors.pdf
+es,10,B,Single-Pilot Resource Management,10-human-factors,unit-b-single-pilot-resource-management.md,10-human-factors_unit-b-single-pilot-resource-management.json,20937,13,42,PHAK - Chapter 02 - Aeronautical Decision-Making.pdf

@@ -1,0 +1,906 @@
+{
+  "chapter": 4,
+  "title": "Performance and Limitations",
+  "questions": [
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 1,
+      "question": "What are the four dynamic forces that act on an airplane during all maneuvers? (FAA-H-8083-25) Lift—the upward acting force Gravity—or weight, the downward acting force Thrust—the forward acting force Drag—the backward acting force",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Lift acts upward, perpendicular to the relative wind",
+        "Weight (gravity) acts downward toward the center of the earth",
+        "Thrust acts forward, produced by the propeller/engine",
+        "Drag acts backward (rearward), opposing the motion through the air",
+        "These four forces act on an airplane during ALL maneuvers"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 2,
+      "question": "What flight condition will result in the sum of the opposing forces being equal? (FAA-H-8083-25) In steady-state, straight-and-level, unaccelerated flight, the sum of the opposing forces is equal to zero. There can be no unbalanced forces in steady, straight flight (Newton’s Third Law). This is true whether flying level or when climbing or descending. It does not mean the four forces are equal. It means the opposing forces are equal to, and thereby cancel the effects of each other.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Steady-state, straight-and-level, unaccelerated flight results in opposing forces being equal",
+        "Opposing forces cancel each other out (Lift=Weight, Thrust=Drag)",
+        "Newton's Third Law applies: no unbalanced forces in steady straight flight",
+        "The four forces are NOT necessarily all equal to each other",
+        "This principle applies whether flying level, climbing, or descending"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 3,
+      "question": "What is an airfoil? State some examples. (FAA-H-8083-25) An airfoil is a device which gets a useful reaction from air moving over its surface, namely LIFT. Wings, horizontal tail surfaces, vertical tail surfaces, and propellers are examples of airfoils.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "An airfoil is a device that produces a useful reaction (LIFT) from air moving over its surface",
+        "Wings are the primary airfoil producing lift",
+        "Horizontal tail surfaces (stabilator/elevator) are airfoils",
+        "Vertical tail surfaces (rudder/fin) are airfoils",
+        "Propeller blades are rotating airfoils"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 4,
+      "question": "What is the “angle of incidence”? (FAA-H-8083-25) The angle of incidence is the angle formed by the longitudinal axis of the airplane and the chord of the wing. It is measured by the angle at which the wing is attached to the fuselage. The angle of incidence is fixed and cannot be changed by the pilot.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Angle of incidence is the angle between the longitudinal axis and the wing chord line",
+        "Measured at the point where the wing attaches to the fuselage",
+        "It is a fixed angle built into the aircraft design",
+        "Cannot be changed by the pilot in flight",
+        "Do not confuse with angle of attack (which is pilot-controllable)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 5,
+      "question": "What is a “relative wind”? (FAA-H-8083-25) The relative wind is the direction of the airflow with respect to the wing. When a wing is moving forward and downward the relative wind moves backward and upward. The flight path and relative wind are always parallel but travel in opposite directions.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Relative wind is the direction of airflow with respect to the wing",
+        "Always parallel to and opposite the flight path",
+        "If aircraft moves forward and down, relative wind moves backward and up",
+        "Relative wind changes with aircraft movement, not atmospheric wind",
+        "Critical for understanding angle of attack and lift production"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 6,
+      "question": "What is the “angle of attack”? (FAA-H-8083-25) The angle of attack is the angle between the wing chord line and the direction of the relative wind; it can be changed by the pilot.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Angle of attack is the angle between the chord line and relative wind",
+        "Can be changed by the pilot through control inputs",
+        "Increasing angle of attack increases lift (up to critical angle)",
+        "Exceeding critical angle of attack causes a stall regardless of airspeed",
+        "Different from pitch attitude - aircraft can stall at any attitude"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 7,
+      "question": "What is “Bernoulli’s Principle”? (FAA-H-8083-25) Bernoulli’s Principle—The pressure of a fluid (liquid or gas) decreases at points where the speed of the fluid increases. In the case of airflow, high speed flow is associated with low pressure and low speed flow with high pressure. The airfoil of an aircraft is designed to increase the velocity of the airflow above its surface, thereby decreasing pressure above the airfoil. Simultaneously, the impact of the air on the lower surface of the airfoil increases the pressure below. This combination of pressure decrease above and increase below produces lift.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Pressure decreases where fluid speed increases",
+        "High speed airflow = low pressure; low speed airflow = high pressure",
+        "Airfoil designed to increase air velocity above the wing, decreasing pressure",
+        "Impact of air on lower surface increases pressure below the wing",
+        "Lift is produced by combination of decreased pressure above and increased pressure below"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 8,
+      "question": "What are several factors which will affect both lift and drag? Wing area—Lift and drag acting on a wing are roughly proportional to the wing area. A pilot can change wing area by using certain types of flaps (i.e., Fowler flaps). Shape of the airfoil—As the upper curvature of an airfoil is increased (up to a certain point) the lift produced increases. Lowering an aileron or flap device can accomplish this. Also, ice or frost on a wing can disturb normal airflow, changing its camber, and disrupting its lifting capability. Angle of attack—As angle of attack is increased, both lift and drag are increased, up to a certain point. Velocity of the air—An increase in velocity of air passing over the wing increases lift and drag. Air density—Lift and drag vary directly with the density of the air. As air density increases, lift and drag increase. As air density decreases, lift and drag decrease. Air density is affected by these factors: pressure, temperature, and humidity.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Wing area: lift and drag are proportional to wing area; Fowler flaps can increase wing area",
+        "Airfoil shape: increased upper camber increases lift; ice/frost disrupts airflow and lifting capability",
+        "Angle of attack: increasing AOA increases both lift and drag up to critical angle",
+        "Air velocity: increased airspeed over wing increases both lift and drag",
+        "Air density: lift and drag vary directly with density; affected by pressure, temperature, and humidity"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 9,
+      "question": "What is “torque effect”? (FAA-H-8083-25) Torque effect involves Newton’s Third Law of Physics—for every action, there is an equal and opposite reaction. Applied to the airplane, this means that as the internal engine parts and the propeller are revolving in one direction, an equal force is trying to rotate the airplane in the opposite direction. It is greatest when at low airspeeds with high power settings and a high angle of attack.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Based on Newton's Third Law: every action has an equal and opposite reaction",
+        "Engine and propeller rotation causes airplane to want to rotate in opposite direction",
+        "Torque effect is greatest at low airspeed, high power, and high angle of attack",
+        "Left-turning tendency in most single-engine aircraft with clockwise-rotating propeller",
+        "Requires right rudder input to counteract during takeoff and climb"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 10,
+      "question": "What effect does torque reaction have on an airplane on the ground and in flight? (FAA-H-8083-25) In flight—torque reaction is acting around the longitudinal axis, tending to make the airplane roll. To compensate, some of the older airplanes are rigged in a manner to create more lift on the wing that is being forced downward. The more modern airplanes are designed with the engine offset to counteract this effect of torque. On the ground—during the takeoff roll, an additional turning moment around the vertical axis is induced by torque reaction. As the left side of the airplane is being forced down by torque reaction, more weight is being placed on the left main landing gear. This results in more ground friction, or drag, on the left tire than on the right, causing a further turning moment to the left.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "In flight: torque acts around the longitudinal axis, causing a left rolling tendency",
+        "Older aircraft compensate with rigging to create more lift on the left wing",
+        "Modern aircraft have engine offset to counteract torque",
+        "On ground: torque forces left main gear down, increasing friction on left tire",
+        "Increased left tire friction creates additional left-turning moment during takeoff roll"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 11,
+      "question": "What are the four factors that contribute to torque effect? (FAA-H- 8083-25) Torque reaction of the engine and propeller. For every action there is an equal and opposite reaction. The rotation of the propeller (from the cockpit) to the right, tends to roll or bank the airplane to the left. Gyroscopic effect of the propeller. Gyroscopic precession applies here: the resultant action or deflection of a spinning object when a force is applied to the outer rim of its rotational mass. If the axis of a propeller is tilted, the resulting force will be exerted 90° ahead in the direction of rotation and in the same direction as the applied force. It is most noticeable on takeoffs in taildraggers when the tail is raised. Corkscrewing effect of the propeller slipstream. High-speed rotation of an airplane propeller results in a corkscrewing rotation to the slipstream as it moves rearward. At high propeller speeds and low forward speeds (as in a takeoff), the slipstream strikes the vertical tail surface on the left side pushing the tail to the right and yawing the airplane to the left. Asymmetrical loading of the propeller (P-Factor). When an airplane is flying with a high angle of attack, the bite of the downward moving propeller blade is greater than the bite of the upward moving blade. This is due to the downward moving blade meeting the oncoming relative wind at a greater angle of attack than the upward moving blade. Consequently there is greater thrust on the downward moving blade on the right side, and this forces the airplane to yaw to the left.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Torque reaction: propeller rotates right (from cockpit), airplane tends to roll left",
+        "Gyroscopic precession: force applied to spinning prop results 90° ahead in direction of rotation; most noticeable raising taildragger's tail",
+        "Spiraling slipstream: propeller creates corkscrew airflow that strikes left side of vertical stabilizer, yawing airplane left",
+        "P-Factor: at high angle of attack, descending blade (right side) has greater angle of attack and more thrust, yawing airplane left",
+        "All four factors typically cause left-turning tendencies in American single-engine aircraft"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 12,
+      "question": "What is “centrifugal force”? (FAA-H-8083-25) Centrifugal force is the “equal and opposite reaction” of the airplane to the change in direction, and it acts “equal and opposite” to the horizontal component of lift.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Centrifugal force is the apparent outward force felt during a turn",
+        "It acts equal and opposite to the horizontal component of lift",
+        "It is the airplane's reaction to the change in direction (Newton's Third Law)",
+        "In a coordinated turn, centrifugal force and the horizontal component of lift are balanced"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 13,
+      "question": "What is “load factor”? (FAA-H-8083-25) Load factor is the ratio of the total load supported by the airplane’s wing to the actual weight of the airplane and its contents. In other words, it is the actual load supported by the wings divided by the total weight of the airplane. It can also be expressed as the ratio of a given load to the pull of gravity; i.e., to refer to a load factor of three as “3 Gs.” In this case the weight of the airplane is equal to 1 G, and if a load of three times the actual weight of the airplane were imposed upon the wing due to curved flight, the load factor would be equal to 3 Gs.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Load factor is the ratio of total load supported by the wing to the actual weight of the aircraft",
+        "Expressed in Gs where 1 G equals the normal weight of the airplane",
+        "Load factor of 3 Gs means the wing is supporting three times the aircraft's actual weight",
+        "Load factor increases during curved flight (turns, pullouts, etc.)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 14,
+      "question": "For what two reasons is load factor important to pilots? (FAA-H- 8083-25)",
+      "answer": "a. Because of the obviously dangerous overload that it is possible for a pilot to impose on the aircraft structure. b. Because an increased load factor increases the stalling speed and makes stalls possible at seemingly safe flight speeds.",
+      "references": [],
+      "key_reference_points": [
+        "Excessive load factor can cause dangerous structural overload and potential aircraft damage",
+        "Increased load factor increases stalling speed",
+        "Stalls become possible at higher-than-normal airspeeds when load factor increases",
+        "Stall speed increases by the square root of the load factor"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 15,
+      "question": "What situations may result in load factors reaching the maximum or being exceeded? (FAA-H-8083-25) Level Turns—The load factor increases at a terrific rate after a bank has reached 45° or 50°. The load factor in a 60°-bank turn is 2 Gs. The load factor in a 80°-bank turn is 5.76 Gs. The wing must produce lift equal to these load factors if altitude is to be maintained. Turbulence—Severe vertical gusts cause a sudden increase in angle of attack, resulting in large loads which are resisted by the inertia of the airplane. Speed—The amount of excess load that can be imposed upon the wing depends on how fast the airplane is flying. At speeds below maneuvering speed, the airplane will stall before the load factor can become excessive. At speeds above maneuvering speed, the limit load factor for which an airplane is stressed can be exceeded by abrupt or excessive application of the controls or by strong turbulence.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Level turns: Load factor increases rapidly beyond 45° bank; 60° bank = 2 Gs, 80° bank = 5.76 Gs",
+        "Turbulence: Severe vertical gusts cause sudden AOA increase and high load factors",
+        "Speed below Va (maneuvering speed): Aircraft will stall before exceeding load limits",
+        "Speed above Va: Limit load factor can be exceeded by abrupt control inputs or strong turbulence",
+        "Wing must produce lift equal to the load factor to maintain altitude in a turn"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 16,
+      "question": "What are the different operational categories for aircraft and within which category does your aircraft fall? (FAA-H-8083-25) The maximum safe load factors (limit load factors) specified for airplanes in the various categories are as follows: Normal +3.8 to -1.52 Utility (mild aerobatics including spins) +4.4 to -1.76 Aerobatic +6.0 to -3.00",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Normal category: +3.8g to -1.52g limit load factors",
+        "Utility category (mild aerobatics/spins): +4.4g to -1.76g limit load factors",
+        "Aerobatic category: +6.0g to -3.00g limit load factors",
+        "Aircraft category is found in the POH and on the aircraft's type certificate",
+        "Operating beyond limit load factors can cause structural damage"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 17,
+      "question": "What effect does an increase in load factor have on stalling speed? (FAA-H-8083-25) As load factor increases, stalling speed increases. Any airplane can be stalled at any airspeed within the limits of its structure and the strength of the pilot. At a given airspeed the load factor increases as angle of attack increases, and the wing stalls because the angle of attack has been increased to a certain angle. Therefore, there is a direct relationship between the load factor imposed upon the wing and its stalling characteristics. A rule for determining the speed at which a wing will stall is that the stalling speed increases in proportion to the square root of the load factor.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "As load factor increases, stalling speed increases",
+        "Stalling speed increases proportionally to the square root of the load factor",
+        "An airplane can be stalled at any airspeed within structural limits",
+        "At 2g load factor, stall speed increases by approximately 41% (√2 ≈ 1.41)",
+        "Load factor increases as angle of attack increases at a given airspeed"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 18,
+      "question": "Define the term “maneuvering speed.” (FAA-H-8083-25, SAIB CE- 11-17) Maneuvering speed is the maximum speed at which the limit load can be imposed (either by gusts or full deflection of the control surfaces) without causing structural damage. It is the speed below which you can, in smooth air, move a single flight control one time, to its full deflection, for one axis of airplane rotation only (pitch, roll or yaw) without risk of damage to the airplane. Speeds up to, but not exceeding the maneuvering speed allow an aircraft to stall prior to experiencing an increase in load factor that would exceed the limit load of the aircraft.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Va is the maximum speed for full single control deflection without structural damage",
+        "At or below Va, the aircraft will stall before exceeding limit load factor",
+        "Va applies to ONE control input, ONE axis, ONE time in smooth air",
+        "Maneuvering speed decreases as aircraft weight decreases",
+        "Va protects against both gusts and full control deflection",
+        "Va is not marked on the airspeed indicator; found in POH"
+      ],
+      "note": "Operating at or below maneuvering speed does not provide structural protection against multiple full control inputs in one axis or full control inputs in more than one axis at the same time."
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 19,
+      "question": "Discuss the effect on maneuvering speed of an increase or decrease in weight. (FAA-H-8083-25) Maneuvering speed increases with an increase in weight and decreases with a decrease in weight. An aircraft operating at a reduced weight is more vulnerable to rapid accelerations encountered during flight through turbulence or gusts. Design limit load factors could be exceeded if a reduction in maneuvering speed is not accomplished. An aircraft operating at or near gross weight in turbulent air is much less likely to exceed design limit load factors and may be operated at the published maneuvering speed for gross weight if necessary.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Maneuvering speed (Va) increases with increased weight and decreases with decreased weight",
+        "Lighter aircraft are more vulnerable to exceeding design limit load factors in turbulence",
+        "At reduced weight, reduce maneuvering speed below published Va (which is based on gross weight)",
+        "Aircraft at or near gross weight may be operated at published Va in turbulent air",
+        "Design limit load factors can be exceeded if Va is not reduced when operating at reduced weight"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 20,
+      "question": "Define “loss-of-control-inflight” (LOC-I) and describe several situations that might increase the risk of an LOC-I accident occurring. (FAA-H-8083-3) LOC-I is defined as a significant deviation of an aircraft from the intended flight path and it often results from an airplane upset. Maneuvering is the most common phase of flight for LOC-I accidents to occur; however, LOC-I accidents occur in all phases of flight. Situations that increase the risk of this include uncoordinated flight, equipment malfunctions, pilot complacency, distraction, turbulence, and poor risk management, such as attempting to fly in IMC when the pilot is not qualified or proficient in it.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "LOC-I is defined as a significant deviation of an aircraft from the intended flight path",
+        "LOC-I often results from an airplane upset",
+        "Maneuvering is the most common phase of flight for LOC-I accidents",
+        "Risk factors include: uncoordinated flight, equipment malfunctions, pilot complacency, distraction, and turbulence",
+        "Poor risk management (e.g., VFR pilot attempting IMC flight) increases LOC-I risk",
+        "LOC-I accidents can occur in all phases of flight, not just maneuvering"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 21,
+      "question": "What causes an airplane to stall? (FAA-H-8083-25) The direct cause of every stall is an excessive angle of attack. Each airplane has a particular angle of attack where the airflow separates from the upper surface of the wing and the stall occurs. This critical angle of attack varies from 16° to 20° depending on the airplane’s design, but each airplane has only one specific angle of attack where the stall occurs, regardless of airspeed, weight, load factor, or density altitude.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "The direct cause of every stall is an excessive angle of attack (AOA)",
+        "Critical angle of attack typically ranges from 16° to 20° depending on aircraft design",
+        "Each aircraft has only ONE specific critical angle of attack where stall occurs",
+        "A stall can occur at ANY airspeed, weight, load factor, or density altitude",
+        "At critical AOA, airflow separates from the upper surface of the wing causing the stall"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 22,
+      "question": "What is a “spin”? (AC 61-67) A spin in a small airplane or glider is a controlled (recoverable) or uncontrolled (possibly unrecoverable) maneuver in which the airplane or glider descends in a helical path while flying at an angle of attack greater than the critical angle of attack. Spins result from aggravated stalls in either a slip or a skid. If a stall does not occur, a spin cannot occur.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "A spin is a controlled or uncontrolled maneuver descending in a helical path",
+        "Aircraft is flying at an angle of attack GREATER than the critical angle of attack",
+        "Spins result from aggravated stalls in either a slip or a skid",
+        "If a stall does not occur, a spin CANNOT occur",
+        "Spins may be recoverable (controlled) or possibly unrecoverable (uncontrolled)"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 23,
+      "question": "What causes a spin? (AC 61-67) The primary cause of an inadvertent spin is exceeding the critical angle of attack while applying excessive or insufficient rudder, and to a lesser extent, aileron.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Primary cause is exceeding the critical angle of attack",
+        "Combined with excessive OR insufficient rudder input",
+        "Aileron input is a lesser contributing factor",
+        "Uncoordinated flight (slip or skid) sets up spin entry"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 24,
+      "question": "When are spins most likely to occur? (AC 61-67) A stall/spin situation can occur in any phase of flight but is most likely to occur in the following situations:",
+      "answer": "a. Engine failure on takeoff during climbout—pilot tries to stretch glide to landing area by increasing back pressure or makes an uncoordinated turn back to departure runway at a relatively low airspeed. b. Crossed-control turn from base to final (slipping or skidding turn)—pilot overshoots final (possibly due to a crosswind) and makes uncoordinated turn at a low airspeed. c. Engine failure on approach to landing—pilot tries to stretch glide to runway by increasing back pressure. d. Go-around with full nose-up trim—pilot applies power with full flaps and nose-up trim combined with uncoordinated use of rudder. e. Go-around with improper flap retraction—pilot applies power and retracts flaps rapidly resulting in a rapid sink rate followed by an instinctive increase in back pressure.",
+      "references": [],
+      "key_reference_points": [
+        "Engine failure on takeoff—trying to stretch glide with back pressure or uncoordinated turn back to runway",
+        "Crossed-control turn from base to final—overshooting and making uncoordinated turn at low airspeed",
+        "Engine failure on approach—trying to stretch glide to runway with back pressure",
+        "Go-around with full nose-up trim—power applied with full flaps and uncoordinated rudder",
+        "Go-around with improper flap retraction—rapid flap retraction causes sink rate and instinctive back pressure increase",
+        "Most spin accidents occur at low altitude where recovery is not possible"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 25,
+      "question": "What procedure should be used to recover from an inadvertent spin? (AC 61-67)",
+      "answer": "a. Close the throttle (if not already accomplished). b. Neutralize the ailerons. c. Apply full opposite rudder. d. Briskly move the elevator control forward to approximately the neutral position. (Some aircraft require merely a relaxation of back pressure; others require full forward elevator pressure). e. Once the stall is broken the spinning will stop. Neutralize the rudder when the spinning stops. f. When the rudder is neutralized, gradually apply enough aft elevator pressure to return to level flight. Remember: P A R E P ower—reduce to idle A ilerons—position to neutral R udder—apply full opposite against rotation E levator—apply positive, forward of neutral, movement to break stall Once the spin rotation stops, neutralize the rudder and begin applying back pressure to return to level flight.",
+      "references": [],
+      "key_reference_points": [
+        "PARE acronym: Power-idle, Ailerons-neutral, Rudder-full opposite, Elevator-forward to break stall",
+        "Close throttle to idle first",
+        "Neutralize ailerons - do not use ailerons to stop spin",
+        "Apply FULL opposite rudder against the direction of rotation",
+        "Move elevator forward (amount varies by aircraft - some need full forward, others just relax back pressure)",
+        "After rotation stops: neutralize rudder first, then gradually apply back pressure to return to level flight"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 26,
+      "question": "What causes “adverse yaw”? (FAA-H-8083-25) When turning an airplane to the left for example, the downward deflected aileron on the right produces more lift on the right wing. Since the downward deflected right aileron produces more lift, it also produces more drag, while the opposite left aileron has less lift and less drag. This added drag attempts to pull or veer the airplane’s nose in the direction of the raised wing (right); that is, it tries to turn the airplane in the direction opposite to that desired. This undesired veering is referred to as adverse yaw.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Adverse yaw is the tendency of the airplane to yaw opposite to the intended turn direction",
+        "Caused by the downward-deflected aileron (raised wing side) producing more lift AND more drag",
+        "The upward-deflected aileron produces less lift and less drag",
+        "The extra drag on the raised wing pulls the nose toward the raised wing (opposite the turn)",
+        "Rudder is used to counteract adverse yaw during turns",
+        "More pronounced at low airspeeds with large aileron deflections"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 27,
+      "question": "What is “ground effect”? (FAA-H-8083-3) Ground effect is a condition of improved performance the airplane experiences when it is operating near the ground. A change occurs in the three-dimensional flow pattern around the airplane because the airflow around the wing is restricted by the ground surface. This reduces the wing’s upwash, downwash, and wingtip vortices. In order for ground effect to be of a significant magnitude, the wing must be quite close to the ground.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Ground effect occurs when the wing is within approximately one wingspan height of the ground",
+        "Reduces wingtip vortices, upwash, and downwash",
+        "Results in reduced induced drag and improved lift efficiency",
+        "Can cause airplane to become airborne before reaching safe flying speed",
+        "Aircraft may settle or sink when climbing out of ground effect",
+        "Most significant at 25% or less of wingspan height above the surface"
+      ]
+    },
+    {
+      "section": "A",
+      "section_title": "Aerodynamics",
+      "number": 28,
+      "question": "What major problems can be caused by ground effect? (FAA-H- 8083-3) During landing, at a height of approximately one-tenth of a wing span above the surface, drag may be 40 percent less than when the airplane is operating out of ground effect. Therefore, any excess speed during the landing phase may result in a significant float distance. In such cases, if care is not exercised by the pilot, he/she may run out of runway and options at the same time. During takeoff, due to the reduced drag in ground effect, the aircraft may seem capable of takeoff well below the recommended speed. However, as the airplane rises out of ground effect with a deficiency of speed, the greater induced drag may result in very marginal climb performance, or the inability of the airplane to fly at all. In extreme conditions, such as high temperature, high gross weight, and high-density altitude, the airplane may become airborne initially with a deficiency of speed and then settle back to the runway.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Ground effect occurs at approximately 1/10 wingspan height above surface",
+        "Drag can be reduced by up to 40% in ground effect during landing",
+        "Excess speed in ground effect causes significant float distance, risking runway overrun",
+        "Aircraft may lift off below recommended speed but cannot climb out of ground effect",
+        "High temperature, high gross weight, and high density altitude worsen ground effect hazards",
+        "Aircraft may become airborne then settle back to runway if airspeed is deficient"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Weight and Balance",
+      "number": 1,
+      "question": "Define the following: (FAA-H-8083-1; FAA-H-8083-25) Empty weight—The weight of the airframe, engines, all permanently installed equipment, and unusable fuel. Depending on the FARs under which the aircraft was certificated, either the undrainable oil or full reservoir of oil is included. Gross weight—The maximum allowable weight of both the airplane and its contents. Useful load—The weight of the pilot, copilot, passengers, baggage, usable fuel and drainable oil. Arm—The horizontal distance in inches from the reference datum line to the center of gravity of the item. Moment—The product of the weight of an item multiplied by its arm. Moments are expressed in pound-inches. Center of gravity—The point about which an aircraft would balance if it were possible to suspend it at that point. Expressed in inches from datum. Datum—An imaginary vertical plane or line from which all measurements of arm are taken. Established by the manufacturer.",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-1; FAA-H-8083-25"
+      ],
+      "key_reference_points": [
+        "Empty weight = airframe + engines + permanent equipment + unusable fuel (oil depends on certification)",
+        "Gross weight = maximum allowable weight of aircraft plus all contents",
+        "Useful load = pilot + passengers + baggage + usable fuel + drainable oil",
+        "Arm = horizontal distance in inches from datum to item's CG",
+        "Moment = Weight × Arm (expressed in pound-inches)",
+        "Center of gravity = balance point expressed in inches from datum"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Weight and Balance",
+      "number": 2,
+      "question": "What basic equation is used in all weight and balance problems to find the center of gravity location of an airplane and/or its components? (FAA-H-8083-25) Weight x Arm = Moment By rearrangement of this equation to the forms: Weight = Moment ÷ Arm With any two known values, the third value can be found. Remember: W A M (Weight x Arm = Moment)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Basic formula: Weight × Arm = Moment (remember WAM)",
+        "Moment ÷ Arm = Weight",
+        "Moment ÷ Weight = Arm",
+        "With any two known values, the third can be calculated",
+        "This equation is fundamental to all weight and balance problems"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Weight and Balance",
+      "number": 3,
+      "question": "What performance characteristics will be adversely affected when an aircraft has been overloaded? (FAA-H-8083-1)",
+      "answer": "a. Higher takeoff speed b. Longer takeoff run c. Reduced rate and angle of climb d. Lower maximum altitude e. Shorter range f. Reduced cruising speed g. Reduced maneuverability h. Higher stalling speed i. Higher landing speed j. Longer landing roll k. Excessive weight on the nosewheel",
+      "references": [],
+      "key_reference_points": [
+        "Higher takeoff speed and longer takeoff run required",
+        "Reduced rate and angle of climb, lower service ceiling",
+        "Shorter range and reduced cruising speed due to increased drag",
+        "Higher stalling speed and reduced maneuverability",
+        "Higher landing speed and longer landing roll required",
+        "Excessive nosewheel loading can cause steering/structural issues"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Weight and Balance",
+      "number": 4,
+      "question": "What effect does a forward center of gravity have on an aircraft’s flight characteristics? (FAA-H-8083-1) Higher stall speed—stalling angle of attack is reached at a higher speed due to increased wing loading. Slower cruise speed—increased drag; greater angle of attack is required to maintain altitude. More stable—the center of gravity is farther forward from the center of pressure which increases longitudinal stability. Greater back elevator pressure required—longer takeoff roll; higher approach speeds and problems with landing flare.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Higher stall speed due to increased wing loading",
+        "Slower cruise speed due to increased drag from higher angle of attack",
+        "More longitudinally stable (CG farther from center of pressure)",
+        "Requires greater back elevator pressure throughout flight",
+        "Longer takeoff roll and higher approach speeds",
+        "Difficulty flaring during landing due to limited elevator authority"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Weight and Balance",
+      "number": 5,
+      "question": "What effect does a rearward center of gravity have on an aircraft’s flight characteristics? (FAA-H-8083-1) Lower stall speed—less wing loading. Higher cruise speed—reduced drag; smaller angle of attack is required to maintain altitude. Less stable—stall and spin recovery more difficult; the center of gravity is closer to the center of pressure, causing longitudinal instability.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Lower stall speed due to reduced wing loading",
+        "Higher cruise speed due to reduced drag (smaller AOA needed)",
+        "Less longitudinally stable (CG closer to center of pressure)",
+        "Stall and spin recovery becomes more difficult",
+        "May exceed aft CG limit making aircraft uncontrollable",
+        "Less elevator back pressure required to raise nose"
+      ]
+    },
+    {
+      "section": "B",
+      "section_title": "Weight and Balance",
+      "number": 6,
+      "question": "What are the standard weights assumed for the following when calculating weight and balance problems? (FAA-H-8083-25, AC 120-27) Crew and passengers 190 lbs each Gasoline 6 lbs/U.S. gal Oil 7.5 lbs/U.S. gal Water 8.35 lbs/U.S. gal",
+      "answer": "",
+      "references": [
+        "FAA-H-8083-25, AC 120-27"
+      ],
+      "key_reference_points": [
+        "Crew and passengers: 190 lbs each (standard assumed weight)",
+        "Aviation gasoline (AVGAS): 6 lbs per U.S. gallon",
+        "Oil: 7.5 lbs per U.S. gallon",
+        "Water: 8.35 lbs per U.S. gallon",
+        "These are FAA standard weights used when actual weights are unknown"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 1,
+      "question": "What are some of the main elements of aircraft performance? (FAA- H-8083-25)",
+      "answer": "a. Takeoff and landing distance b. Rate of climb c. Ceiling d. Payload e. Range f. Speed g. Fuel economy h. Maneuverability i. Stability",
+      "references": [],
+      "key_reference_points": [
+        "Takeoff and landing distance required",
+        "Rate of climb (vertical speed capability)",
+        "Ceiling (maximum altitude capability)",
+        "Payload (useful load carrying capacity)",
+        "Range and fuel economy (distance vs fuel consumption)",
+        "Speed, maneuverability, and stability characteristics"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 2,
+      "question": "What factors affect the performance of an aircraft during takeoffs and landings? (FAA-H-8083-25)",
+      "answer": "a. Air density (density altitude) b. Surface wind c. Runway surface d. Upslope or downslope of runway e. Weight",
+      "references": [],
+      "key_reference_points": [
+        "Density altitude: high altitude, high temperature, high humidity = poor performance",
+        "Headwind decreases takeoff/landing distance; tailwind increases it",
+        "Soft or wet runway surfaces increase takeoff distance",
+        "Upslope runway increases takeoff distance; downslope decreases it",
+        "Higher aircraft weight increases takeoff distance and decreases climb performance",
+        "Use POH performance charts adjusted for actual conditions"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 3,
+      "question": "What effect does wind have on aircraft performance? (FAA-H-8083- 25) Takeoff—The effect of a headwind is to allow the aircraft to reach the lift-off speed at a lower ground speed, which will increase airplane performance by shortening the takeoff distance and increasing the angle of climb. The effect of a tailwind is the aircraft needs to achieve greater ground speed to get to lift-off speed. This decreases aircraft performance by increasing takeoff distance and reducing the angle of climb. Landing—The effect of wind on landing distance is identical to its effect on takeoff distance. A headwind will lower ground speed and increase airplane performance by steepening the approach angle and reducing the landing distance. A tailwind will increase ground speed and decrease performance, by decreasing the approach angle and increasing the landing distance. Cruise flight—Winds aloft have somewhat an opposite effect on airplane performance. A headwind will decrease performance by reducing ground speed, which in turn increases the fuel requirement for the flight. A tailwind will increase performance by increasing the ground speed, which in turn reduces the fuel requirement for the flight.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Headwind on takeoff: lower ground speed at liftoff, shorter takeoff distance, steeper climb angle",
+        "Tailwind on takeoff: higher ground speed needed, longer takeoff distance, shallower climb angle",
+        "Headwind on landing: lower ground speed, steeper approach angle, shorter landing distance",
+        "Tailwind on landing: higher ground speed, shallower approach angle, longer landing distance",
+        "Headwind in cruise: decreased ground speed, increased fuel consumption",
+        "Tailwind in cruise: increased ground speed, decreased fuel consumption"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 4,
+      "question": "How does weight affect takeoff and landing performance? (FAA-H- 8083-25) Increased gross weight can have a significant effect on takeoff performance:",
+      "answer": "a. Higher liftoff speed; b. Greater mass to accelerate (slow acceleration); c. Increased retarding force (drag and ground friction); and d. Longer takeoff distance. The effect of gross weight on landing distance is that the airplane will require a greater speed to support the airplane at the landing angle of attack and lift coefficient resulting in an increased landing distance.",
+      "references": [],
+      "key_reference_points": [
+        "Higher weight requires higher liftoff speed (more lift needed)",
+        "Heavier aircraft accelerates slower due to greater mass",
+        "Increased weight means more drag and ground friction during takeoff roll",
+        "Higher weight = longer takeoff distance required",
+        "Landing requires higher approach speed to maintain lift at heavier weights",
+        "Higher weight results in longer landing roll distance"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 5,
+      "question": "What effect does an increase in density altitude have on takeoff and landing performance? (FAA-P-8740-2) An increase in density altitude results in:",
+      "answer": "a. Increased takeoff distance (greater takeoff TAS required). b. Reduced rate of climb (decreased thrust and reduced acceleration) c. Increased true airspeed on approach and landing (same IAS). d. Increased landing roll distance.",
+      "references": [],
+      "key_reference_points": [
+        "Higher density altitude = longer takeoff distance (higher TAS required for same lift)",
+        "Higher density altitude = reduced rate of climb (less thrust, slower acceleration)",
+        "Higher density altitude = higher TAS on approach for same indicated airspeed",
+        "Higher density altitude = longer landing roll distance",
+        "Density altitude increases with higher temperature, higher elevation, or lower pressure",
+        "Engine produces less power in high density altitude conditions"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 6,
+      "question": "Define the term “density altitude.” (FAA-H-8083-25) Density altitude is pressure altitude corrected for nonstandard temperature. Under standard atmospheric condition, air at each level in the atmosphere has a specific density, and under standard conditions, pressure altitude and density altitude identify the same level. Therefore, density altitude is the vertical distance above sea level in the standard atmosphere at which a given density is found.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Density altitude = pressure altitude corrected for nonstandard temperature",
+        "Under standard conditions, pressure altitude equals density altitude",
+        "Density altitude represents the altitude in standard atmosphere where current air density would be found",
+        "Higher density altitude = less dense air = degraded performance",
+        "Standard atmosphere assumes specific density at each altitude level"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 7,
+      "question": "How does air density affect aircraft performance? (FAA-H-8083-25) The density of the air has a direct effect on:",
+      "answer": "a. Lift produced by the wings; b. Power output of the engine; c. Propeller efficiency; and d. Drag forces",
+      "references": [],
+      "key_reference_points": [
+        "Lift produced by wings decreases with lower air density",
+        "Engine power output decreases with lower air density",
+        "Propeller efficiency decreases with lower air density",
+        "Drag forces are affected by air density",
+        "All four factors combine to degrade overall aircraft performance in high density altitude conditions"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 8,
+      "question": "What factors affect air density? (FAA-P-8740-2) Altitude—the higher the altitude, the less dense the air. Temperature—the warmer the air, the less dense it is. Humidity—more humid air is less dense.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Higher altitude = less dense air",
+        "Higher temperature = less dense air (warmer air is less dense)",
+        "Higher humidity = less dense air (water vapor is lighter than dry air)",
+        "Remember: High, Hot, and Humid = poor performance",
+        "All three factors increase density altitude when they increase"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 9,
+      "question": "How does temperature, altitude, and humidity affect density altitude? (FAA-P-8740-2)",
+      "answer": "a. Density altitude will increase (low air density) when one or more of the following occurs: • High air temperature • High altitude • High humidity b. Density altitude will decrease (high air density) when one or more of the following occurs: • Low air temperature • Low altitude • Low humidity",
+      "references": [],
+      "key_reference_points": [
+        "High temperature = high density altitude (decreased performance)",
+        "High altitude = high density altitude (decreased performance)",
+        "High humidity = high density altitude (water vapor is lighter than air)",
+        "Low temperature, low altitude, low humidity = low density altitude (increased performance)",
+        "Remember: Hot, High, and Humid = High density altitude = poor performance"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 10,
+      "question": "Know the following speeds for your airplane! V —Stall speed in landing configuration; the calibrated power-off stalling S0 speed or the minimum steady flight speed at which the airplane is controllable in the landing configuration. V —Stall speed clean or in specified configuration; the calibrated power-off S1 stalling speed or the minimum steady flight speed at which the airplane is controllable in a specified configuration. V —Best rate-of-climb speed; the calibrated airspeed at which the airplane Y will obtain the maximum increase in altitude per unit of time. This best rate- of-climb speed normally decreases slightly with altitude. V —Best angle-of-climb speed; the calibrated airspeed at which the airplane X will obtain the highest altitude in a given horizontal distance. This best angle- of-climb speed normally increases with altitude. V —Maximum landing gear extension speed; the maximum calibrated LE airspeed at which the airplane can be safely flown with the landing gear extended. This is a problem involving stability and controllability. V —Maximum landing gear operating speed; the maximum calibrated LO airspeed at which the landing gear can be safely extended or retracted. This is a problem involving the airloads imposed on the operating mechanism during extension or retraction of the gear. V —Maximum flap extension speed; the highest calibrated airspeed FE permissible with the wing flaps in a prescribed extended position. This is a problem involving the airloads imposed on the structure of the flaps. V —Maneuvering speed; the calibrated design maneuvering airspeed. This is A the maximum speed at which the limit load can be imposed (either by gusts or full deflection of the control surfaces) without causing structural damage. V —Normal operating speed; the maximum calibrated airspeed for normal NO operation or the maximum structural cruise speed. This is the speed above which exceeding the limit load factor may cause permanent deformation of the airplane structure. V —Never exceed speed; the calibrated airspeed which should never be NE exceeded. If flight is attempted above this speed, structural damage or structural failure may result.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Vs0 = stall speed in landing configuration (bottom of white arc)",
+        "Vs1 = stall speed clean or specified configuration (bottom of green arc)",
+        "Vy = best RATE of climb (most altitude per unit TIME)",
+        "Vx = best ANGLE of climb (most altitude per horizontal DISTANCE)",
+        "Va = maneuvering speed (max speed for full control deflection without structural damage)",
+        "Vno = max structural cruising speed (top of green arc); Vne = never exceed speed (red line)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 11,
+      "question": "What information can you obtain from the following charts? (FAA- H-8083-25)",
+      "answer": "a. Takeoff charts—These allow you to compute the takeoff distance of the airplane with no flaps or with a specific flap configuration. You can also compute distances for a no flap takeoff over a 50-foot obstacle scenario as well as with flaps over a 50-foot obstacle. The takeoff distance chart provides for various airplane weights, altitudes, temperatures, winds, and obstacle heights. b. Fuel, time, and distance-to-climb chart—This chart will give the fuel amount used during the climb, the time it will take to accomplish the climb, and the ground distance that will be covered during the climb. To use this chart, obtain the information for the departing airport and for the cruise altitude. c. Cruise and range performance chart—This is designed to give true airspeed, fuel consumption, endurance in hours, and range in miles at specific cruise configurations. d. Crosswind and headwind component chart—This allows for figuring the headwind and crosswind component for any given wind direction and velocity. e. Landing charts—Provide normal landing distance as well as landing distance over a 50-foot obstacle. f. Stall speed performance charts—These are designed to give an understanding of the speed at which the airplane will stall in a given configuration. Will typically take into account the angle of bank, the position of the gear and flaps, and the throttle position.",
+      "references": [],
+      "key_reference_points": [
+        "Takeoff charts: account for weight, altitude, temperature, wind, and obstacle clearance (50 ft)",
+        "Climb charts: provide fuel used, time to climb, and distance covered during climb",
+        "Cruise/range charts: give TAS, fuel consumption, endurance, and range at various power settings",
+        "Crosswind component chart: determine headwind and crosswind components from wind direction/velocity",
+        "Landing charts: show normal landing distance and distance over 50-foot obstacle",
+        "Stall speed charts: show stall speeds based on configuration, bank angle, and power setting"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 12,
+      "question": "Define the term “pressure altitude,” and state why it is important. (FAA-H-8083-3) Pressure Altitude—the altitude indicated when the altimeter setting window (barometric scale) is adjusted to 29.92. This is the altitude above the standard datum plane, a theoretical plane where air pressure (corrected to 15°C) equals 29.92 in. Hg. Pressure altitude is used to compute density altitude, true altitude, true airspeed, and other performance data.",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Pressure altitude is indicated when altimeter is set to 29.92 in. Hg",
+        "It measures altitude above the standard datum plane",
+        "Standard datum plane conditions: 15°C and 29.92 in. Hg",
+        "Used to calculate density altitude, true altitude, and true airspeed",
+        "Essential for computing aircraft performance data",
+        "Different from indicated altitude which uses current local altimeter setting"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 13,
+      "question": "The following questions are designed to provide pilots with a general review of the basic information they should know about their specific airplane before taking a flight check or review. What is the normal climb-out speed? _____________ What is the best rate-of-climb speed? _____________ What is the best angle-of-climb speed? _____________ What is the maximum flap extension speed? _____________ What is the maximum gear extension speed? _____________ What is the stall speed in the normal landing configuration? _____________ What is the stall speed in the clean configuration? _____________ What is the normal approach-to-land speed? _____________ What is maneuvering speed? _____________ What is red-line speed? ____________ What engine-out glide speed will give you maximum range? _____________ What is the make and horsepower of the engine? ________________ How many usable gallons of fuel can you carry? _____________ Where are the fuel tanks located, and what are their capacities? ________________ Where are the fuel vents for your aircraft? ________________ What is the octane rating of the fuel used by your aircraft? _____________ Where are the fuel sumps located on your aircraft? When should you drain them? ________________ What are the minimum and maximum oil capacities? ________________ What weight of oil is being used? _____________ What is the maximum oil temperature and pressure? ________________ Is the landing gear fixed, manual, hydraulic or electric? If retractable, what is the backup system for lowering the gear? ________________ What are the nosewheel turning limitations for your aircraft? ________________ What is the maximum allowable/demonstrated crosswind component for the aircraft? _____________ How many people will this aircraft carry safely with a full fuel load? _____________ What is the maximum allowable weight the aircraft can carry with baggage in the baggage compartment? _____________ What takeoff distance is required if a takeoff were made from a sea-level pressure altitude? _____________ What is your maximum allowable useful load? _____________ Solve a weight and balance problem for the flight you plan to make with one passenger at 170 pounds.",
+      "answer": "a. Does your load fall within the weight and balance envelope? ________________ b. What is the final gross weight? _____________ c. How much fuel can be carried? _____________ d. How much baggage can be carried with full fuel? ___________ e. Know the function of the various types of antennae on your aircraft. ________________",
+      "references": [],
+      "key_reference_points": [
+        "Know all V-speeds for your aircraft: Vx, Vy, Vfe, Vle, Vs0, Vs1, Va, Vne, best glide",
+        "Know fuel system details: tank locations, capacities, usable fuel, sump locations, required octane",
+        "Know engine specifications: make, horsepower, oil capacity limits, oil weight, max temps and pressures",
+        "Know weight and balance limits: max gross weight, useful load, baggage compartment limits, CG envelope",
+        "Know landing gear type and emergency extension procedures if retractable",
+        "Be able to calculate takeoff/landing distances for actual conditions using POH charts"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 1,
+      "question": "You have just landed on a 2,100-foot grass strip to pick up two passengers and you plan to depart in the early afternoon. The temperature will be warmer than expected, so you compute the density altitude and determine that the required takeoff distance over a 50-foot obstacle will be 2,000 feet. Your weight and balance calculation indicates you will be 100 pounds under gross weight. If you decide to takeoff, explain the potential hazards, the overall risk, and the actions you could take to mitigate that risk. (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Only 100 feet of margin (2,100 ft strip minus 2,000 ft required) provides inadequate safety buffer",
+        "POH performance charts assume perfect pilot technique and new aircraft conditions",
+        "Grass runways can add 10-15% to takeoff distance versus paved surfaces",
+        "Higher density altitude reduces engine power and propeller efficiency",
+        "Risk mitigation options: reduce weight, wait for cooler temperatures, use different runway if available",
+        "FAA recommends adding 50% safety margin to computed takeoff distances for real-world operations"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 2,
+      "question": "Why are some aircraft not allowed to perform forward slips with flaps extended? (AFM)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Forward slips with flaps can cause unpredictable pitch changes due to disturbed airflow over the tail",
+        "Blanking of the horizontal stabilizer by the wing in slip attitude affects pitch control",
+        "Some aircraft experience significant trim changes or nose-down pitching moments",
+        "Always consult the specific Aircraft Flight Manual (AFM) or POH for slip limitations",
+        "Flap extension changes the wing's wake pattern affecting tail effectiveness in a slip"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 3,
+      "question": "While enroute, will the CG change as your aircraft uses fuel? (FAA-H- 8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Yes, CG changes as fuel is consumed during flight",
+        "CG moves toward the empty CG position as fuel burns off",
+        "Direction of CG shift depends on fuel tank location relative to the CG",
+        "Fuel burned from tanks forward of CG causes aft CG shift",
+        "Fuel burned from tanks aft of CG causes forward CG shift",
+        "Pilots must ensure CG remains within limits throughout all phases of flight"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 4,
+      "question": "What causes an airplane (except a T-tail) to pitch nosedown when power is reduced and controls are not adjusted? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Reduced power decreases propeller slipstream over the horizontal stabilizer",
+        "Slipstream creates additional downward force on the tail at high power settings",
+        "Less downward tail force means the nose drops when power is reduced",
+        "The horizontal stabilizer is mounted at a negative angle of incidence",
+        "T-tail aircraft are less affected because tail is above the propeller slipstream",
+        "This demonstrates the relationship between power changes and pitch attitude"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 5,
+      "question": "Will the indicated airspeed at which an aircraft stalls change as altitude is increased? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Indicated airspeed at stall remains constant regardless of altitude",
+        "True airspeed at stall increases with altitude due to decreased air density",
+        "The aircraft stalls at the same angle of attack regardless of altitude",
+        "Weight, load factor, and CG position affect stall speed, not altitude alone",
+        "Indicated airspeed reflects dynamic pressure, which determines stall"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 6,
+      "question": "How does an aircraft’s limitations (performance, fuel capacity, navigation capability) affect the total risk of a flight? What can a pilot do to mitigate that risk? (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Aircraft limitations are one of the 5 P's in risk management (Plane, Pilot, Passengers, Programming, Plan)",
+        "Fuel capacity limits range and requires proper fuel planning with reserves",
+        "Performance limitations vary with density altitude, weight, and configuration",
+        "Navigation capability affects ability to complete flight in various weather conditions",
+        "Mitigation includes thorough preflight planning, staying within POH limitations, and having alternates",
+        "Use PAVE checklist: Pilot, Aircraft, enVironment, External pressures"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 7,
+      "question": "What force causes an airplane to turn? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "The horizontal component of lift causes an airplane to turn",
+        "Banking the wings tilts the total lift vector, creating horizontal and vertical components",
+        "The rudder coordinates the turn but does not cause it",
+        "Increased back pressure is needed in turns to maintain altitude due to reduced vertical lift component",
+        "Load factor increases in a turn as bank angle increases"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 8,
+      "question": "The amount of excess load that can be imposed on the structure of an airplane is dependent on what factor? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Excess load capacity depends on the aircraft's SPEED at the time load is applied",
+        "At lower speeds, the wing stalls before excessive load can be imposed (structural protection)",
+        "At higher speeds (above maneuvering speed Va), the structure may fail before the wing stalls",
+        "Maneuvering speed (Va) is the maximum speed for full control deflection without structural damage",
+        "Va decreases as aircraft weight decreases (lighter aircraft can be overstressed at lower speeds)",
+        "Load factor limits are defined by aircraft category: Normal (+3.8g/-1.52g), Utility (+4.4g/-1.76g), Aerobatic (+6.0g/-3.0g)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 9,
+      "question": "Define the terms “service ceiling” and “absolute ceiling.” What are their values for your aircraft? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "Service ceiling: altitude where aircraft can no longer climb at more than 100 feet per minute",
+        "Absolute ceiling: altitude where the rate of climb drops to zero feet per minute",
+        "Both ceilings assume maximum continuous power and standard atmospheric conditions",
+        "Service ceiling is the practical operational limit for the aircraft",
+        "These values are found in the POH/AFM Section 5 (Performance) or specifications",
+        "Know your specific aircraft's service ceiling (e.g., Cessna 172S: 14,000 ft)"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 10,
+      "question": "The performance chart numbers for your aircraft are based on test flights conducted in a new aircraft. During preflight planning, how can a pilot minimize risk when using the charts to make performance calculations for takeoff, enroute cruise, and landing? (FAA-H-8083-25)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "POH performance data is based on a NEW aircraft flown by a TEST PILOT under ideal conditions",
+        "Add safety margins (typically 10-15%) to all performance calculations",
+        "Account for aircraft age, wear, and less-than-perfect pilot technique",
+        "Consider density altitude effects on takeoff distance, climb rate, and landing distance",
+        "Verify actual conditions match chart assumptions (paved/dry runway, no obstacles, proper technique)",
+        "Use conservative figures—never plan to use 100% of available runway or rely on book values exactly"
+      ]
+    },
+    {
+      "section": "C",
+      "section_title": "Aircraft Performance",
+      "number": 11,
+      "question": "You’re planning a VFR departure from Durango Colorado KDRO (elevation 6,689 feet MSL) in a Cessna 172. Explain the potential hazards that exist when departing KDRO as compared to departing KLAX (elevation 127 feet MSL). Is there anything you can do to mitigate the risk? (FAA-H-8083-2)",
+      "answer": "",
+      "references": [],
+      "key_reference_points": [
+        "High density altitude at KDRO reduces engine power output and propeller efficiency",
+        "True airspeed is higher than indicated airspeed at high elevation, requiring longer takeoff rolls",
+        "Climb performance is significantly degraded at 6,689 ft MSL vs 127 ft MSL",
+        "Mitigation: Depart during cooler morning hours when density altitude is lower",
+        "Mitigation: Reduce aircraft weight by limiting fuel/passengers/baggage",
+        "Use POH performance charts for actual density altitude conditions, not sea level assumptions",
+        "Leaning mixture for takeoff may be required per POH at high elevation airports"
+      ]
+    }
+  ]
+}
